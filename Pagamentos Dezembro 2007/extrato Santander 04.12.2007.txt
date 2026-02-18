@@ -1,0 +1,34 @@
+28/11/2007   M   SLD ANTERIOR        654,24  
+ 
+28/11/2007   M   TRF DE SALDO  000000  -654,24      
+ 
+28/11/2007   M   TRF DE SALDO  000000  654,24   654,24  
+ 
+29/11/2007   M   LIQ VCTOS  011128  2.174,29   2.828,53  
+ 
+30/11/2007      DOC D BCE  011186  -2.500,00   328,53  
+ 
+04/12/2007   M   LIQ VCTOS  011203  5.072,93      
+ 
+04/12/2007      EMISS TED D  000000  -5.010,00   391,46  
+ 
+ 
+ 
+ A - Saldo de ContaMax 391,46  
+ B - Limite de Cheque Especial 4.218,00  
+ C - Fundos com Resgate Automático  0,00  
+ D - Total dos Saldos (A + B + C)  4.609,46  
+ E - Total Bloqueado   0,00  
+ 
+  Desbloqueio em 1 dia 0,00  
+ Desbloqueio em 2 dias 0,00  
+ Desbloqueio em mais de 2 dias 0,00  
+ 
+ 
+ 
+ 
+ F - Disponível para Saque (D - E)  4.609,46  
+ 
+ 
+M = Movimentações de ContaMax. 
+ 

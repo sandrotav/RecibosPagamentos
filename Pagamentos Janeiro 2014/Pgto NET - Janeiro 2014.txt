@@ -1,0 +1,18 @@
+26/12/2013 -     AUTOATENDIMENTO      - 10.54.08
+1273401273         SEGUNDA VIA              0017
+
+            COMPROVANTE DE PAGAMENTO
+
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  NET SERVICOS
+Codigo de Barras   84630000000-3   70760296201-1
+                   40110040000-1   00123753360-7
+Data do pagamento                     26/12/2013
+Valor em Dinheiro                          70,76
+Valor em Cheque                             0,00
+Valor Total                                70,76
+------------------------------------------------
+DOCUMENTO:  122603
+AUTENTICACAO SISBB:        A.4E5.093.207.D56.A3D

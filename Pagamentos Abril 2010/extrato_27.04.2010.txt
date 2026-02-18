@@ -1,0 +1,167 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+27/04/2010                       Auto-Atendimento                       08:38:18
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/03/10 000000  Saldo Anterior            0                          5.394,62 C
+01/04/10 5727-4  Transferido da poupança   1.606.010.059.092            232,50 C
+                 01/04 1606      59092-4 JOAO FRANCISCO                         
+01/04/10 1273-4  Compra com Cartão         142.240                       10,40 D
+                 01/04 11:44 GIRAFFAS                                           
+01/04/10 5727-4  Saque no TAA              11.419.228.936.761           100,00 D
+                 01/04 14:19 SAA-AERO DE CONFINS                                
+05/04/10 3477-0  Transferido da poupança   1.606.010.059.092             22,50 C
+                 05/04 1606      59092-4 JOAO FRANCISCO                         
+05/04/10 0967-9  Saque no TAA              42.111.558.936.761           100,00 D
+                 04/04 21:11 SAA-PITANGUI                                       
+05/04/10 000000  Pagto cartão crédito      730.127.300.198.996          535,83 D
+05/04/10 000000  Pagto cartão crédito      730.127.301.356.761          293,76 D
+05/04/10 000000  INSS Arrecadação          40.501                       102,00 D
+05/04/10 000000  Pagamento de Título       40.503                       270,00 D
+05/04/10 000000  Transferido para Poupança 130.200.010.009.585          255,00 D
+06/04/10 1273-4  Compra com Cartão         144.274                        6,79 D
+                 06/04 12:17 MASTER SERVICOS P                                  
+06/04/10 1273-4  Compra com Cartão         264.932                       20,00 D
+                 06/04 18:02 POSTO CASCOL 411                                   
+06/04/10 4811-9  Saque no TAA              61.455.298.936.761           440,00 D
+                 06/04 14:55 SOP-CORREIOS                                       
+06/04/10 000000  Pagto conta telefone      40.601                        70,44 D
+06/04/10 000000  Pagamento conta luz       40.602                        16,79 D
+06/04/10 000000  Pagamento conta luz       40.603                        44,05 D
+06/04/10 000000  Pagamento de Título       40.604                       175,56 D
+06/04/10 000000  Emissão de DOC            40.605                       250,00 D
+06/04/10 000000  Tarifa DOC/TED Internet   100.406                        8,00 D
+                 Tarifa referente a 06/04/2010                                  
+07/04/10 1273-4  Compra com Cartão         147.211                        8,40 D
+                 07/04 13:06 CANTINHO DE MINAS                                  
+07/04/10 1273-4  Compra com Cartão         284.714                       20,35 D
+                 07/04 23:31 BENDITO SUCO                                       
+08/04/10 1273-4  Compra com Cartão         145.553                        7,82 D
+                 08/04 12:39 MASTER SERVICOS P                                  
+08/04/10 1273-4  Compra com Cartão         281.831                       31,34 D
+                 08/04 22:43 RESTAURANTE MANGA                                  
+09/04/10 1273-4  Compra com Cartão         127.953                       20,00 D
+                 09/04 07:45 POSTO AMERICAN PE                                  
+09/04/10 1273-4  Compra com Cartão         247.097                       25,73 D
+                 09/04 13:04 FAUSTO E MANOEL                                    
+09/04/10 1273-4  Compra com Cartão         347.348                        5,20 D
+                 09/04 13:09 PAO ITALIANO PANI                                  
+12/04/10 4811-9  Depósito Online           48.111.358.600.038           950,00 C
+12/04/10 1273-4  Compra com Cartão         137.327                       26,00 D
+                 10/04 10:22 REAL ACESSORIOS                                    
+12/04/10 1273-4  Compra com Cartão         172.554                       20,00 D
+                 12/04 20:09 DISBRAVE                                           
+12/04/10 1273-4  Compra com Cartão         246.439                        6,62 D
+                 10/04 12:53 WALMART ASA NORTE                                  
+12/04/10 1273-4  Compra com Cartão         329.187                       20,00 D
+                 11/04 08:06 POSTO CASCOL 411                                   
+12/04/10 1273-4  Compra com Cartão         648.828                        8,00 D
+                 11/04 13:33 GASOL - 409N                                       
+12/04/10 1273-4  Compra com Cartão         743.722                        7,48 D
+                 12/04 12:08 MASTER SERVICOS P                                  
+12/04/10 1273-4  Compra com Cartão         872.022                       11,40 D
+                 12/04 20:00 NATURAL GREENS                                     
+12/04/10 1903-8  Cheque Compensado         850.661                       20,00 D
+14/04/10 1273-4  Compra com Cartão         183.196                       38,99 D
+                 14/04 23:06 ZIMBRUS                                            
+15/04/10 000000  Pagamento de Impostos     41.501                       169,70 D
+15/04/10 000000  Pagto via Auto-Atend.BB   41.502                        98,06 D
+16/04/10 1273-4  Compra com Cartão         179.014                       20,00 D
+                 16/04 21:56 POSTO CASCOL 411                                   
+16/04/10 1903-8  Cheque Compensado         850.660                       20,00 D
+19/04/10 4811-9  Depósito Online           48.111.310.900.019           525,00 C
+19/04/10 1273-4  Compra com Cartão         144.018                       11,77 D
+                 17/04 12:13 ACOUGUE RIO                                        
+19/04/10 1273-4  Compra com Cartão         244.785                       50,00 D
+                 19/04 12:26 DISBRAVE                                           
+20/04/10 4811-9  Saque no TAA              201.237.508.936.761           40,00 D
+                 20/04 12:37 SOP-CORREIOS                                       
+20/04/10 1903-8  Cheque Compensado         850.662                      250,00 D
+20/04/10 000000  Compra com Cartão         981.096                        8,00 D
+22/04/10 4811-9  Depósito Online           48.111.329.400.181         1.308,00 C
+22/04/10 1273-4  Compra com Cartão         158.873                        3,00 D
+                 22/04 16:21 NO CAFE                                            
+22/04/10 4811-9  Saque no TAA              221.413.228.936.761          150,00 D
+                 22/04 14:13 SOP-CORREIOS                                       
+22/04/10 000000  Emissão de DOC            42.201                     1.300,00 D
+22/04/10 000000  Tarifa DOC/TED Internet   100.422                        8,00 D
+                 Tarifa referente a 22/04/2010                                  
+23/04/10 1273-4  Compra com Cartão         163.653                       15,00 D
+                 23/04 17:40 ALVORADA COM DE M                                  
+23/04/10 1273-4  Compra com Cartão         281.410                       24,00 D
+                 23/04 22:36 FAUSTO E MANOEL                                    
+23/04/10 1273-4  Compra com Cartão         384.242                       50,00 D
+                 23/04 23:24 POSTO CASCOL 411                                   
+23/04/10 000000  Pagto via Auto-Atend.BB   42.301                        40,00 D
+26/04/10 1273-4  Compra com Cartão         148.877                       35,00 D
+                 26/04 13:34 LIVRARIA SICILIAN                                  
+26/04/10 3477-0  Saque no TAA              262.101.338.936.761           60,00 D
+                 26/04 21:01 CLN 214                                            
+26/04/10 000000  Tarifa Saque Terminal     100.426                        1,40 D
+                 Tarifa referente a 26/04/2010                                  
+26/04/10 1903-8  Cheque Compensado         850.666                      178,70 D
+27/04/10 1273-4  Pagamento de Impostos     42.701                       389,02 D
+27/04/10 1273-4  Pagamento de Impostos     42.702                       389,03 D
+27/04/10 000000  S A L D O                 0                          2.145,99 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      3.445,99 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,29%
+TAXA CHEQUE ESPECIAL AO ANO                                              132,65%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 BB Crédito Salário              0,00  12.286,00                
+                 BB Crédito Automático           0,00   6.305,00                
+                 BB Crédito Renovação            0,00  12.286,00                
+                 CDC Veículo Próprio             0,00   9.609,00                
+                 BB Crediário/Construção         0,00  11.378,00                
+                 BB Crd Veículo/Leasing          0,00  18.069,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parc Cartão/Ch.Esp       0,00   4.516,00                
+                 Limite Transf p/Cartão      6.520,00   4.757,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  70.000,00                
+                 BB Renov/Reesc.Consig. *        0,00  70.000,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             586,80     428,20                
+                Prestacao para ECF               0,00   1.958,20                
+                Prestacao para Veiculo           0,00     428,20                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento ou Internet.                                        
+                ** Utilizacao do limite sujeita ao enquadramento                
+                nas disposicoes de microcredito.                                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS MAR/10:     76                 
+                TAXA  CONTA  ESPECIAL:   7,65%  P/VOCE:    7,29%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     38                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                OUROCAP - SORTEIO DO SABADO DIA 17.04.2010                      
+                REALIZADO 22.04 - DEZENAS: 03-06-39-42-43-45                    
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

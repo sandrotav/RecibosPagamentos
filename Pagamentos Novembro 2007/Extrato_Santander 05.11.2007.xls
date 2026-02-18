@@ -1,0 +1,77 @@
+
+<html>
+<head>
+	<title>Extrato Santander</title>
+	<style>
+		.titulo{
+			text-align:center;
+			border:.5pt solid windowtext;
+			font-weight:700;
+		}
+		.data {
+			text-align:center;
+			border:.5pt solid windowtext;
+		}		
+		.historico {
+			text-align:left;
+			border:.5pt solid windowtext;
+		}
+		.documento {
+			text-align:center;
+			border:.5pt solid windowtext;
+			mso-number-format:000000;
+		}
+		.valor {
+			text-align:right;
+			border:.5pt solid windowtext;
+			mso-number-format:Standard;
+		}
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td class="titulo">Data</td>
+			<td class="titulo">Histórico</td>
+			<td class="titulo">Documento</td>
+			<td class="titulo">Valor</td>
+		</tr>
+		
+			<tr>
+				<td class="data">05/11/2007</td>
+				<td class="historico">SLD ANTERIOR</td>
+				<td class="documento">00000000</td>
+				<td class="valor">0,00</td>
+			</tr>
+			
+			<tr>
+				<td class="data">05/11/2007</td>
+				<td class="historico">LIQ VCTOS</td>
+				<td class="documento">00011101</td>
+				<td class="valor">4583,24</td>
+			</tr>
+			
+			<tr>
+				<td class="data">05/11/2007</td>
+				<td class="historico">PGTO TITULO</td>
+				<td class="documento">00112238</td>
+				<td class="valor">-250,00</td>
+			</tr>
+			
+			<tr>
+				<td class="data">05/11/2007</td>
+				<td class="historico">PGTO TITULO</td>
+				<td class="documento">00112707</td>
+				<td class="valor">-177,38</td>
+			</tr>
+			
+			<tr>
+				<td class="data">05/11/2007</td>
+				<td class="historico">DOC D BCE</td>
+				<td class="documento">00009525</td>
+				<td class="valor">-3500,00</td>
+			</tr>
+			
+	</table>
+</body>
+</htm>

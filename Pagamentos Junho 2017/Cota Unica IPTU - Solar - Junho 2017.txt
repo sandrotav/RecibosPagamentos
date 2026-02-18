@@ -1,0 +1,22 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+16/06/2017  -   AUTO-ATENDIMENTO    -   14.23.49
+1273401273                                      
+                                                
+            COMPROVANTE DE PAGAMENTO            
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4    CONTA:          5.742-8      
+================================================
+Convenio  GDF CONTA ARRECADACAO                 
+Codigo de Barras   85610000004-6   69400009160-3
+                   61700004886-9   53970071252-1
+Data do pagamento                     16/06/2017
+Valor Total                               469,40
+================================================
+DOCUMENTO:  061602                              
+AUTENTICACAO SISBB:                             
+4.06C.C0F.3B1.E95.D0F                           
+================================================
+Com o Credito Consignado voce resolve o que     
+precisa, com a comodidade de pagar as parcelas  
+na folha de pagamento. Simule agora mesmo.   

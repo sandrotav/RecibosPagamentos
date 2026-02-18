@@ -1,0 +1,139 @@
+  Comprovante
+Manifestação registrada no Banco do Brasil.
+Número do Protocolo 4335249, gerado às 16:15:58 do dia 26/05/2010.
+
+Prazo para posicionamento: 02/06/2010
+
+
+
+
+Manifestação registrada com sucesso!
+
+
+Mensagem registrada:
+
+Boa tarde. Solicito retirar de minha fatura a cobrança de Anuidade, refente o cartão Número do 4984.****.****.8996, OUROCARD PLATINUM VISA, tendo em vista que não tenho mais este cartão. Atenciosamente; Sandro Tavares 
+
+
+
+
+==============
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+26/05/2010                       Auto-Atendimento                       15:50:19
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/04/10 000000  Saldo Anterior            0                          8.537,74 C
+03/05/10 1302-1  Transferido para Poupança 10.009.585                   510,00 D
+                 03/05 1302   10009585-2 VALDIVA RODRIG                         
+03/05/10 4811-9  Saque no TAA              31.520.308.936.761           700,00 D
+                 03/05 15:20 SOP-CORREIOS                                       
+03/05/10 000000  Pagto cartão crédito      730.127.300.426.761          653,98 D
+03/05/10 000000  Pagto cartão crédito      730.127.300.478.996          515,83 D
+03/05/10 000000  Pagamento conta luz       50.301                         9,50 D
+03/05/10 000000  Pagamento de Impostos     50.302                        53,79 D
+03/05/10 000000  Pagamento de Impostos     50.303                        98,22 D
+03/05/10 000000  Pagamento de Título       50.304                       200,00 D
+03/05/10 000000  INSS Arrecadação          50.305                       102,00 D
+03/05/10 000000  Emissão de DOC            50.306                       250,00 D
+03/05/10 000000  Pagamento conta luz       50.307                        33,81 D
+03/05/10 000000  Pagamento de Título       50.308                       175,56 D
+04/05/10 1273-4  Compra com Cartão         143.144                       19,50 D ok
+                 04/05 11:59 DEGUSTER RESTAURA                                  
+04/05/10 1273-4  Compra com Cartão         262.218                       47,62 D biscoito M
+                 04/05 17:16 CASA DE BISCOITOS                                  
+04/05/10 000000  Tarifa DOC/TED Internet   100.503                        8,00 D
+                 Tarifa referente a 03/05/2010                                  
+04/05/10 1903-8  Cheque Compensado         850.667                      150,00 D
+05/05/10 1273-4  Compra com Cartão         121.475                       93,00 D gaz
+                 05/05 05:57 POSTO 81                                           
+07/05/10 0967-9  Saque no TAA              71.357.508.936.761           200,00 D
+                 07/05 13:57 SAA-PITANGUI                                       
+07/05/10 000000  Pagto conta telefone      50.701                        51,41 D net
+07/05/10 1903-8  Cheque Compensado         850.668                      195,00 D
+10/05/10 1273-4  Compra com Cartão         164.018                       91,00 D gaz
+                 09/05 17:46 AUTO POSTO VIA CA                                  
+10/05/10 1273-4  Compra com Cartão         254.372                       43,88 D cebolinha 
+                 10/05 15:06 LOJAS LUMAG                                        
+12/05/10 1273-4  Compra com Cartão         133.086                      135,00 D retentor
+                 12/05 09:11 AUTO PECAS LOURDE                                  
+12/05/10 1273-4  Compra com Cartão         259.927                       23,90 D presente
+                 12/05 16:38 SANTOS ENXOVAIS                                    
+13/05/10 1273-4  Compra com Cartão         152.024                        3,08 D parafuso
+                 13/05 14:27 CAMPOS E SALDANHA                                  
+17/05/10 1273-4  Compra com Cartão         134.557                        6,40 D parafuso
+                 15/05 09:35 CAMPOS E SALDANHA                                  
+17/05/10 1273-4  Compra com Cartão         249.870                       36,00 D roupa Div
+                 17/05 13:51 CIGANA BIJOUX                                      
+21/05/10 1908-9  Cheque Compensado         850.669                    2.380,00 D
+25/05/10 1903-8  Cheque Compensado         850.665                      550,00 D
+26/05/10 000000  S A L D O                 0                          1.201,26 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      2.501,26 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,44%
+TAXA CHEQUE ESPECIAL AO ANO                                              136,59%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 BB Crédito Salário              0,00  12.286,00                
+                 BB Crédito Automático           0,00   6.305,00                
+                 BB Crédito Renovação            0,00  12.286,00                
+                 CDC Veículo Próprio             0,00   9.609,00                
+                 BB Crediário/Construção         0,00  11.378,00                
+                 BB Crd Veículo/Leasing          0,00  18.069,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parc Cartão/Ch.Esp       0,00   4.516,00                
+                 Limite Transf p/Cartão      6.520,00   4.757,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  70.000,00                
+                 BB Renov/Reesc.Consig. *        0,00  70.000,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             586,80     428,20                
+                Prestacao para ECF               0,00   1.958,20                
+                Prestacao para Veiculo           0,00     428,20                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento ou Internet.                                        
+                ** Utilizacao do limite sujeita ao enquadramento                
+                nas disposicoes de microcredito.                                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS ABR/10:     69                 
+                TAXA  CONTA  ESPECIAL:   7,69%  P/VOCE:    7,44%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     34                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                QUER CONVENIENCIA? LIGUE GRATIS 0800 729 0722                   
+                E SAIBA ONDE TEM CORRESPONDENTE BB.                             
+                                                                                
+                AGUA  DESAFIO DO DESENVOLVIMENTO SUSTENTAVEL.                   
+                TERCEIRA ED. PREMIO ANA  ANA.GOV.BR-PREMIO.                     
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

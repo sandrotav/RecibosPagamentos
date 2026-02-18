@@ -1,0 +1,117 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+04/01/2010                       Auto-Atendimento                       10:18:53
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/11/09 000000  Saldo Anterior            0                          3.712,77 C
+01/12/09 000000  Recebimento de Proventos  223.545                    1.534,87 C
+                 EMPRESA BRASILEIRA DE CORREIOS                                 
+01/12/09 1273-4  Compra com Cartão         128.227                       50,00 D
+                 01/12 07:50 POSTO AMERICAN PE                                  
+01/12/09 000000  Tarifa SMS - Mês Anterior 91.103                         2,50 D
+03/12/09 1273-4  Compra com Cartão         142.238                       21,42 D
+                 03/12 11:43 FINO SABOR                                         
+03/12/09 1273-4  Compra com Cartão         264.561                       27,36 D
+                 03/12 17:56 SUPERMERCADOS PRA                                  
+03/12/09 4811-9  Saque no TAA              31.327.179.968.996           100,00 D
+                 03/12 13:27 SOP-CORREIOS                                       
+03/12/09 000000  Pagto cartão crédito      730.127.300.288.996          491,27 D
+03/12/09 000000  Pagto conta telefone      120.301                      256,49 D
+03/12/09 000000  Pagamento conta luz       120.302                       10,86 D
+03/12/09 000000  Pagamento conta luz       120.303                       33,25 D
+03/12/09 000000  Pagamento de Título       120.304                      270,00 D
+03/12/09 000000  Emissão de DOC            120.305                      250,00 D
+03/12/09 000000  Tarifa DOC/TED Internet   91.203                         8,00 D
+                 Tarifa referente a 03/12/2009                                  
+03/12/09 1903-8  Cheque Compensado         850.647                      350,00 D
+04/12/09 1273-4  Compra com Cartão         144.953                        6,25 D
+                 04/12 12:29 PONTO DO QUEIJO                                    
+04/12/09 1273-4  Compra com Cartão         245.816                        3,96 D
+                 04/12 12:43 CH PLANALTAO 150                                   
+07/12/09 000000  Pagto conta telefone      120.701                       52,85 D
+07/12/09 000000  INSS Arrecadação          120.702                       93,00 D
+08/12/09 1273-4  Compra com Cartão         169.717                       16,00 D
+                 08/12 19:21 BEIRUTE NORTE                                      
+08/12/09 1302-1  Transferido para Poupança 10.009.585                   232,50 D
+                 07/12 1302   10009585-2 VALDIVA RODRIG                         
+08/12/09 4811-9  Saque no TAA              71.214.549.968.996           300,00 D
+                 07/12 12:14 SOP-CORREIOS                                       
+08/12/09 4811-9  Saque no TAA              81.232.269.968.996           100,00 D
+                 08/12 12:32 SOP-CORREIOS                                       
+08/12/09 1273-4  Transferência on line     522.500.000.017.154           56,00 D
+                 08/12 2500      17154-9 ANTONIO CLEOFA                         
+09/12/09 1273-4  Compra com Cartão         166.238                      100,00 D
+                 09/12 18:23 LS PNEUS E RODAS                                   
+09/12/09 1273-4  Compra com Cartão         278.349                       60,39 D
+                 09/12 21:45 LIBANUS                                            
+10/12/09 000000  Pagamento de Título       121.001                      175,56 D
+11/12/09 1273-4  Compra com Cartão         163.982                       31,70 D
+                 11/12 17:46 FERCON                                             
+11/12/09 1273-4  Compra com Cartão         275.374                       50,00 D
+                 11/12 20:56 POSTO CASCOL 411                                   
+11/12/09 1273-4  Transferência on line     523.477.000.006.025           50,00 D
+                 11/12 3477       6025-9 ANTONIO E T NA                         
+14/12/09 1273-4  Compra com Cartão         164.000                       15,00 D
+                 14/12 17:46 DETROIT PECAS E A                                  
+15/12/09 000000  IMPOSTO DE RENDA          103.480.800.045.177          185,99 C
+15/12/09 4811-9  Saque no TAA              151.223.479.968.996          150,00 D
+                 15/12 12:23 SOP-CORREIOS                                       
+16/12/09 1273-4  Compra com Cartão         162.986                       11,00 D
+                 16/12 17:29 DETROIT PECAS E A                                  
+17/12/09 1273-4  Compra com Cartão         127.440                       50,00 D
+                 17/12 07:37 POSTO AMERICAN PE                                  
+17/12/09 1273-4  Compra com Cartão         247.646                        6,50 D
+                 17/12 13:14 SABORELLA SORVETE                                  
+17/12/09 1273-4  Compra com Cartão         378.574                       20,90 D
+                 17/12 21:49 RESTAURANTE PARAI                                  
+18/12/09 1273-4  Compra com Cartão         182.423                       20,00 D
+                 18/12 22:53 BAR DO MINEIRO                                     
+21/12/09 000000  Recebimento de Proventos  323.419                    3.486,48 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+21/12/09 1273-4  Compra com Cartão         136.238                       30,00 D
+                 19/12 10:03 JC ELETRONICOS                                     
+21/12/09 1903-8  Cheque Compensado         850.648                      118,00 D  pg 
+22/12/09 1903-8  Cheque Compensado         850.649                      170,00 D  pg
+23/12/09 1273-4  Compra com Cartão         172.432                       16,43 D
+                 23/12 20:07 IMPERIO DOS PAES                                   
+24/12/09 1273-4  Compra com Cartão         139.236                       78,88 D
+                 24/12 10:53 POSTO REI DO GADO                                  
+28/12/09 1273-4  Compra com Cartão         160.119                       55,00 D presente Niver Raquel
+                 28/12 16:41 LOJA OSCAR MORATO                                  
+28/12/09 0967-9  Saque no TAA              281.620.279.968.996          200,00 D
+                 28/12 16:20 SAA-PITANGUI                                       
+28/12/09 1903-8  Cheque Compensado         850.651                      130,00 D  pg
+29/12/09 000000  Tarifa SMS - Mês Anterior 91.201                         2,50 D
+                 Tarifa referente a 01/12/2009                                  
+29/12/09 1903-8  Cheque Compensado         850.650                      200,00 D  pg 
+29/12/09 000000  Compra com Cartão         985.624                       47,00 D
+31/12/09 1273-4  Compra com Cartão         163.125                       18,00 D
+                 31/12 17:32 PADARIA SILVA                                      
+31/12/09 1273-4  Compra com Cartão         264.155                       35,00 D
+                 31/12 17:49 CALCADOS DUVALLE                                   
+31/12/09 000000  S A L D O                 0                          4.346,54 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,29%
+TAXA CHEQUE ESPECIAL AO ANO                                              132,65%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                O SEU CARTAO JA ESTA' DISPONIVEL EM SUA AGENCIA.                
+                                                                                
+                2010 E DO BRASIL.                                               
+                2010 E TODO SEU.                                                
+                                                                                
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+                Ouvidoria BB 0800 729 5678                                      

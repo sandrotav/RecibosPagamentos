@@ -1,0 +1,145 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+02/06/2011                       Auto-Atendimento                       09:03:08
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+29/04/11 000000  Saldo Anterior            0                          4.872,85 C
+02/05/11 1273-4  Compra com Cartão         127.195                        5,40 D
+                 30/04 07:33 TRIGALE                                            
+02/05/11 1273-4  Compra com Cartão         246.407                       34,00 D
+                 30/04 12:53 UNITINTAS                                          
+02/05/11 1273-4  Compra com Cartão         346.879                       22,50 D
+                 30/04 13:01 UNITINTAS                                          
+02/05/11 1273-4  Compra com Cartão         671.755                       37,00 D
+                 30/04 19:55 R BRASIL                                           
+02/05/11 1273-4  Compra com Cartão         769.467                       50,00 D
+                 01/05 19:17  CASCOL 411 NORTE                                  
+02/05/11 1273-4  Compra com Cartão         841.619                       52,00 D
+                 02/05 11:33 UNITINTAS                                          
+03/05/11 000000  Recarga Pré-Pago Celular  82.221.983.024.824            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+03/05/11 000000  Pagto cartão crédito      730.127.300.326.761          662,65 D
+03/05/11 000000  Pagamento de Título       50.301                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+03/05/11 000000  Pagamento conta luz       50.302                        46,95 D
+                 CEB                                                            
+03/05/11 000000  Pagamento de Título       50.303                       184,34 D
+                 BANCO SANTANDER (BRASIL) S.A.                                  
+04/05/11 1273-4  Compra com Cartão         144.333                        3,10 D
+                 04/05 12:18 ANTONIO VENANCIO                                   
+05/05/11 1273-4  Compra com Cartão         161.708                        4,60 D
+                 05/05 17:08 ICADORA S ANTONIO                                  
+05/05/11 4811-9  Saque no TAA              51.329.108.936.761           250,00 D
+                 05/05 13:29 SOP-CORREIOS                                       
+06/05/11 000000  Recebimento de Proventos  303.730                    1.161,60 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+06/05/11 1273-4  Compra com Cartão         145.947                       23,50 D
+                 06/05 12:45 PENINSULA RESTAUR                                  
+06/05/11 000000  Pagamento conta luz       50.601                        53,28 D
+                 CEB                                                            
+06/05/11 000000  Pagto conta telefone      50.602                        62,78 D
+                 NET BRASILIA                                                   
+06/05/11 000000  Pagamento de Impostos     50.603                       101,72 D
+                 GDF CONTA ARRECADACAO                                          
+09/05/11 1273-4  Compra com Cartão         152.346                       13,80 D
+                 07/05 14:32 TORTERIA DE LOREN                                  
+09/05/11 1273-4  Compra com Cartão         243.402                       50,00 D
+                 08/05 12:03 FLAMINGO SHOPPING                                  
+09/05/11 000000  Pagamento de Impostos     50.901                        59,95 D
+                 GPS - CODIGO DE BARRAS                                         
+09/05/11 000000  Pagamento de Impostos     50.902                       109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+10/05/11 1273-4  Compra com Cartão         161.836                       20,50 D
+                 10/05 17:10 PONTO DO QUEIJO                                    
+10/05/11 1273-4  Compra com Cartão         262.543                        6,45 D
+                 10/05 17:22 SUPERMERCADOS PRA                                  
+10/05/11 4811-9  Saque no TAA              101.031.498.936.761          800,00 D
+                 10/05 10:31 SOP-CORREIOS                                       
+10/05/11 000000  BB Ref DI Plus Estilo     1.200.032                  1.600,00 D
+10/05/11 000000  Pagto conta telefone      51.001                       112,71 D
+                 TIM CELULAR S.A.                                               
+10/05/11 1903-8  Cheque Compensado         850.712                      400,00 D
+10/05/11 1903-8  Cheque Compensado         850.713                       95,00 D
+11/05/11 1273-4  Compra com Cartão         148.853                       35,90 D
+                 11/05 13:34 O BOTICARIO                                        
+12/05/11 000000  Recebimento de Proventos  40.741                     1.119,56 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+12/05/11 1273-4  Compra com Cartão         150.499                       79,90 D
+                 12/05 14:01 LOJAS RENNER FL 1                                  
+12/05/11 1273-4  Compra com Cartão         251.766                      169,99 D
+                 12/05 14:22 ZINZANE                                            
+12/05/11 000000  Recarga Pré-Pago Celular  82.221.983.514.670            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+13/05/11 1273-4  Compra com Cartão         173.272                       50,00 D
+                 13/05 20:21 GASOL 210N                                         
+13/05/11 1273-4  Compra com Cartão         280.938                       40,50 D
+                 13/05 22:28 QUE DA ROSA                                        
+16/05/11 1273-4  Compra com Cartão         146.345                       20,38 D
+                 14/05 12:52 PENINSULA RESTAUR                                  
+16/05/11 1273-4  Compra com Cartão         259.187                       29,60 D
+                 14/05 16:26 CIMFEL                                             
+16/05/11 1273-4  Compra com Cartão         361.006                       10,15 D
+                 14/05 16:56 QUITANDAS DE MINA                                  
+17/05/11 1273-4  Compra com Cartão         162.816                        7,88 D
+                 17/05 17:26 PANIFIC LIDERANCA                                  
+18/05/11 1273-4  Compra com Cartão         145.643                       17,18 D
+                 18/05 12:40 PENINSULA RESTAUR                                  
+19/05/11 1273-4  Compra com Cartão         142.019                       20,00 D
+                 19/05 11:40 POSTO CASCOL 411                                   
+19/05/11 1273-4  Compra com Cartão         244.414                       21,66 D
+                 19/05 12:20 PENINSULA RESTAUR                                  
+19/05/11 1273-4  Compra com Cartão         368.136                       17,74 D
+                 19/05 18:55 PANIFIC LIDERANCA                                  
+19/05/11 1273-4  Compra com Cartão         678.529                       27,00 D
+                 19/05 21:48 DROGARIA 403 NORT                                  
+19/05/11 000000  Pagamento de Impostos     51.901                       389,02 D
+                 GDF CONTA ARRECADACAO                                          
+20/05/11 1273-4  Compra com Cartão         147.999                       13,70 D
+                 20/05 13:19 O MILHAO                                           
+24/05/11 1273-4  Compra com Cartão         133.677                       40,00 D
+                 24/05 09:21 POSTO XAVANTE                                      
+24/05/11 1273-4  Compra com Cartão         252.997                      155,93 D
+                 24/05 14:43 NALOJINHA                                          
+24/05/11 1273-4  Compra com Cartão         361.706                       21,00 D
+                 24/05 17:08 DROGARIA VIDAMINA                                  
+25/05/11 000000  Tarifa SMS - Mês Anterior 881.451.101.164.005            2,50 D
+                 Tarifa referente a 02/05/2011                                  
+26/05/11 1273-4  Compra com Cartão         156.051                       18,70 D
+                 26/05 15:34 DROGARIA VIDAMINA                                  
+27/05/11 0967-9  Saque no TAA              271.044.478.936.761          300,00 D
+                 27/05 10:44 SAA-PITANGUI                                       
+30/05/11 1273-4  Compra com Cartão         146.973                       30,00 D
+                 28/05 13:02 POSTO SAO JOAO                                     
+30/05/11 1273-4  Compra com Cartão         260.614                      360,00 D
+                 30/05 16:50    J ANGELO CONFECCO                               
+31/05/11 000000  Recebimento de Proventos  303.225                    3.660,12 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+31/05/11 0967-9  Saque no TAA              311.558.318.936.761          200,00 D
+                 31/05 15:58 SAA-PITANGUI                                       
+31/05/11 000000  S A L D O                 0                          3.640,17 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,18%
+TAXA CHEQUE ESPECIAL AO ANO                                              156,90%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                OUROCAP - SORTEIO DO SABADO DIA 21.05.2011                      
+                REALIZADO DIA 26.05 - DEZENAS: 01-09-20-22-32-43                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

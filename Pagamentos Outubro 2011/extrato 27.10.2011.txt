@@ -1,0 +1,145 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+27/10/2011                       Auto-Atendimento                       16:19:29
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/09/11 000000  Saldo Anterior            0                          9.377,36 C
+03/10/11 2887-8  Transferência on line     552.887.000.012.122          700,00 C
+                 03/10 2887      12122-3 RONALDO & ALIN                         
+03/10/11 1273-4  Compra com Cartão         138.739                       50,00 D
+                 01/10 10:45    POSTO 313 NORTE                                 
+03/10/11 1273-4  Compra com Cartão         239.651                       16,82 D
+                 01/10 11:00    BSB CARNES 216 NO                               
+03/10/11 1273-4  Aplicação Poupança        10.005.742                   500,00 D
+                 03/10 1273   10005742-X SANDRO TAVARES                         
+03/10/11 1273-4  Aplicação Poupança        910.005.742                  300,00 D
+                 03/10 1273  910005742-3 SANDRO TAVARES                         
+03/10/11 000000  Pagto cartão crédito      730.127.300.276.761          436,56 D
+03/10/11 000000  BB Ref DI Plus Estilo     1.200.032                  4.000,00 D
+03/10/11 000000  Pagamento de Título       100.301                      200,00 D
+                 ITAU UNIBANCO S.A.                                             
+03/10/11 000000  Pagamento conta luz       100.302                       70,56 D
+                 CEB                                                            
+03/10/11 000000  Pagamento de Impostos     100.303                      101,76 D
+                 GDF CONTA ARRECADACAO                                          
+04/10/11 4811-9  Transferido da poupança   1.606.010.059.092            120,00 C
+                 04/10 1606      59092-4 JOAO FRANCISCO                         
+04/10/11 1273-4  Compra com Cartão         161.509                        4,50 D
+                 04/10 17:05 CA DOS BOLOS                                       
+04/10/11 000000  Recarga Pré-Pago Celular  91.325.118.027.138            17,00 D
+                 3791325118-TIM - Minas Gerais                                  
+06/10/11 000000  Pagto conta telefone      100.601                       56,14 D
+                 NET BRASILIA                                                   
+06/10/11 000000  Pagto conta telefone      100.602                       93,81 D
+                 TIM CELULAR S.A.                                               
+06/10/11 000000  Pagamento de Impostos     100.603                      109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+06/10/11 000000  Pagamento de Título       100.604                       64,00 D
+                 ITAU UNIBANCO S.A.                                             
+07/10/11 1273-4  Compra com Cartão         142.248                      140,14 D
+                 07/10 11:44    CASA DO RIO G DO                                
+07/10/11 1903-8  Cheque Compensado         850.705                       15,00 D
+10/10/11 1273-4  Compra com Cartão         147.294                        7,50 D
+                 08/10 13:08    BSB CARNES 216 NO                               
+10/10/11 1273-4  Compra com Cartão         247.673                       50,00 D
+                 08/10 13:14 P GASOL 210 NORTE                                  
+10/10/11 1273-4  Compra com Cartão         352.945                       92,38 D
+                 08/10 14:42    EXTRA BRASILIA LJ                               
+10/10/11 1273-4  Compra com Cartão         653.044                       49,90 D
+                 08/10 14:44    EXTRA BRASILIA LJ                               
+10/10/11 1273-4  Compra com Cartão         762.979                       40,00 D
+                 08/10 17:29    UTIL LAR PRESENTE                               
+10/10/11 3477-0  Saque no TAA              91.235.538.936.761           200,00 D
+                 09/10 12:35 CLN 214                                            
+11/10/11 1273-4  Compra com Cartão         161.870                       87,71 D
+                 11/10 17:11    POSTO CASCOL 411                                
+13/10/11 1273-4  Compra com Cartão         134.521                      136,00 D
+                 12/10 09:35    POSTO REST MAR DO                               
+13/10/11 1273-4  Compra com Cartão         235.575                       37,50 D
+                 12/10 09:52    POSTO REST MAR DO                               
+14/10/11 000000  Tarifa SMS - Mês Anterior 882.870.100.224.264            3,50 D
+                 Tarifa referente a 01/09/2011                                  
+14/10/11 1903-8  Cheque Compensado         850.717                      265,00 D
+17/10/11 1273-4  Compra com Cartão         166.048                       43,82 D
+                 16/10 18:20 CIA SOLUCAO                                        
+17/10/11 1273-4  Compra com Cartão         269.864                        3,50 D
+                 16/10 19:24 IA PAO NOSSO                                       
+17/10/11 1273-4  Compra com Cartão         340.453                       14,90 D
+                 17/10 11:14 RIA SOLUCOES                                       
+17/10/11 1273-4  Compra com Cartão         667.418                       13,55 D
+                 17/10 18:43 RIA SOLUCOES                                       
+18/10/11 1273-4  Compra com Cartão         144.718                       37,50 D
+                 18/10 12:25 L FARIA DE SOUZA                                   
+18/10/11 1273-4  Compra com Cartão         261.852                       54,00 D
+                 18/10 17:10    AUTO POSTO F RODR                               
+21/10/11 000000  Recebimento de Proventos  102.215                      591,94 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+24/10/11 1273-4  Compra com Cartão         162.579                       14,00 D
+                 24/10 17:22    PADARIA SILVA                                   
+24/10/11 0967-9  Saque no TAA              231.042.248.936.761          150,00 D
+                 23/10 10:42 SAA-PITANGUI                                       
+25/10/11 1273-4  Compra com Cartão         143.246                      135,34 D
+                 25/10 12:00    POSTO PIONEIRO LT                               
+25/10/11 1273-4  Compra com Cartão         249.858                       62,00 D
+                 25/10 13:50    HOTEL REST BELAS                                
+25/10/11 000000  Tarifa SMS - Mês Anterior 842.980.801.028.001            3,50 D
+                 Tarifa referente a 10/10/2011                                  
+26/10/11 1273-4  Compra com Cartão         152.253                       18,80 D
+                 26/10 14:30 RIA 213 NORTE                                      
+27/10/11 1273-4  Recarga Pré-Pago Celular  82.221.983.505.569            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+27/10/11 000000  S A L D O                 0                          3.076,61 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      4.376,61 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO VEICULO TODO SEU*                                            26.309,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,22%
+TAXA CHEQUE ESPECIAL AO ANO                                              158,04%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Plus Est                                                     23.270,91
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               48.038,00                
+                BB Crédito Salário                     41.599,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                31.773,00                
+                BB Crd Veículo/Leasing                 26.309,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS SET/11:     73                 
+                TAXA  CONTA  ESPECIAL:   8,41%  P/VOCE:    8,22%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     36                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                                                                                
+                PARABENS AO SERVIDOR PUBLICO PELO SEU DIA 28/10                 
+                O BANCO DO BRASIL AGRADECE PELA PARCERIA.                       
+                                                                                
+                BB CREDITO VEICULO. SOLUCOES PARA ADQUIRIR                      
+                SEU VEICULO DE FORMA RAPIDA E FACIL.                            
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

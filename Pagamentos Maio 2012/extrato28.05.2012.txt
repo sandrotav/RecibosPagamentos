@@ -1,0 +1,205 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+28/05/2012                       Auto-Atendimento                       09:49:59
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/04/12 000000  Saldo Anterior            0                          6.978,57 C
+02/05/12 000000  Recebimento de Proventos  269.363                      458,42 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+02/05/12 1273-4  Compra com Cartão         134.651                       13,71 D
+                 01/05 09:37 RIA ROSARIO                                        
+03/05/12 000000  Pagto cartão crédito      730.127.300.496.761          351,72 D
+03/05/12 000000  Pagamento conta luz       50.301                        68,52 D
+                 CEB                                                            
+03/05/12 000000  Pagamento de Título       50.302                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+03/05/12 000000  Pagamento de Impostos     50.303                       316,95 D
+                 GDF CONTA ARRECADACAO                                          
+04/05/12 000000  Transferência Agendada    288.700.000.012.122          700,00 C
+                 04/05 2887      12122-3 RONALDO & ALIN                         
+04/05/12 1273-4  Aplicação Poupança        10.005.742                   500,00 D
+                 04/05 1273   10005742-X SANDRO TAVARES                         
+04/05/12 1273-4  Aplicação Poupança        910.005.742                  500,00 D
+                 04/05 1273  910005742-3 SANDRO TAVARES                         
+04/05/12 4811-9  Saque com cartão          41.127.088.936.761           350,00 D
+                 04/05 11:27 SOP-CORREIOS                                       
+04/05/12 000000  Mult Arbitragem Estilo    1.100.166                    500,00 D
+04/05/12 000000  Renda Fixa LP 100         1.200.002                    300,00 D
+04/05/12 000000  BB Ref DI Plus Estilo     1.200.032                  2.000,00 D
+07/05/12 1273-4  Compra com Cartão         132.429                        5,48 D
+                 05/05 09:00    PAO DO CERRADO                                  
+07/05/12 1273-4  Compra com Cartão         166.945                        7,75 D
+                 06/05 18:35    ILHA DOS PAES                                   
+07/05/12 1273-4  Compra com Cartão         239.773                       22,00 D
+                 05/05 11:02  KIDS                                              
+07/05/12 1273-4  Compra com Cartão         340.168                       50,00 D
+                 05/05 11:09    POSTO 314 NORTE                                 
+07/05/12 1273-4  Compra com Cartão         646.957                      123,71 D
+                 05/05 13:02    WALMART ASA NORTE                               
+07/05/12 1273-4  Compra com Cartão         761.394                       23,10 D
+                 05/05 17:03    COMPER VALPARAISO                               
+07/05/12 1273-4  Compra com Cartão         841.075                       49,99 D
+                 06/05 11:24    O BOTICARIO                                     
+07/05/12 000000  Pagto conta telefone      50.701                        36,51 D
+                 NET BRASILIA                                                   
+07/05/12 000000  Pagto conta telefone      50.702                        94,20 D
+                 TIM CELULAR S.A.                                               
+07/05/12 000000  Pagamento de Impostos     50.703                        68,42 D
+                 GPS - CODIGO DE BARRAS                                         
+07/05/12 000000  Pagamento de Impostos     50.704                       124,40 D
+                 GPS - CODIGO DE BARRAS                                         
+08/05/12 1273-4  Compra com Cartão         161.547                        9,90 D
+                 08/05 17:05    CACAU SHOW                                      
+08/05/12 1273-4  Compra com Cartão         262.165                       10,00 D
+                 08/05 17:16    DESTAK COSTURA                                  
+08/05/12 4811-9  Saque com cartão          81.332.238.936.761            80,00 D
+                 08/05 13:32 SOP-CORREIOS                                       
+08/05/12 000000  Telefone Pre-Pago         82.221.983.506.346            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+08/05/12 1908-9  Cheque Compensado         850.726                       70,00 D
+09/05/12 1273-4  Compra com Cartão         128.939                       50,00 D
+                 09/05 08:02    GASOL 210N                                      
+10/05/12 0967-9  Depósito Online           9.671.482.100.338            150,00 C
+10/05/12 1273-4  Compra com Cartão         164.049                        5,60 D
+                 10/05 17:47    PANIF PAO MORENO                                
+10/05/12 1273-4  Transferência on line     521.273.000.023.011           70,00 D
+                 10/05 1273      23011-1 ALEXANDRE CONC                         
+11/05/12 1273-4  Compra com Cartão         134.010                       37,84 D
+                 11/05 09:26    DROGARIA SANTA LU                               
+11/05/12 1273-4  Compra com Cartão         249.789                        2,70 D
+                 11/05 13:49    BANCA E CHAVEIRO                                
+14/05/12 1273-4  Compra com Cartão         144.011                       25,00 D
+                 13/05 12:13    GILMAR QUERINO PE                               
+14/05/12 1273-4  Compra com Cartão         229.334                       50,00 D
+                 14/05 08:08    AUTO EIXO 208 NOR                               
+14/05/12 1273-4  Compra com Cartão         344.099                        8,30 D
+                 14/05 12:14    PENINSULA RESTAUR                               
+14/05/12 1273-4  Compra com Cartão         656.045                       55,50 D
+                 14/05 15:34    OIE MODA INFANTIL                               
+14/05/12 1273-4  Compra com Cartão         757.098                        4,50 D
+                 14/05 15:51 CA DOS BOLOS                                       
+14/05/12 1273-4  Compra com Cartão         857.288                        4,40 D
+                 14/05 15:54    PAO DO CERRADO                                  
+15/05/12 000000  Ordem Bancária            1.935.075.000.000            191,54 C
+                 003944940116-85  1A.SUPERINTEND.DE POL                         
+15/05/12 1273-4  Compra com Cartão         154.898                       37,40 D
+                 15/05 15:14    OIE MODA INFANTIL                               
+15/05/12 4811-9  Saque com cartão          151.021.548.936.761          200,00 D
+                 15/05 10:21 SOP-CORREIOS                                       
+15/05/12 1903-8  Cheque Compensado         850.731                      105,00 D
+16/05/12 1273-4  Compra com Cartão         150.290                        4,67 D
+                 16/05 13:58    OIE MODA INFANTIL                               
+16/05/12 1273-4  Compra com Cartão         252.616                       66,00 D
+                 16/05 14:36  KIDS                                              
+16/05/12 1273-4  Compra com Cartão         360.012                        5,04 D
+                 16/05 16:40    PAO DO CERRADO                                  
+18/05/12 1273-4  Compra com Cartão         176.245                       18,50 D
+                 18/05 21:10    CACAU SHOW                                      
+18/05/12 1273-4  Compra com Cartão         276.701                       24,99 D
+                 18/05 21:18    ART DO SURF                                     
+18/05/12 1273-4  Compra com Cartão         377.657                       50,00 D
+                 18/05 21:34 NGO SHOPPING                                       
+18/05/12 000000  Telefone Pre-Pago         99.643.395.002.057            18,00 D
+                 6199643395-Vivo AC,DF,GO,MS,MT,RO,TO                           
+18/05/12 000000  Telefone Pre-Pago         99.726.009.002.037            18,00 D
+                 6199726009-Vivo AC,DF,GO,MS,MT,RO,TO                           
+21/05/12 1273-4  Compra com Cartão         169.840                       63,24 D
+                 20/05 19:24 RIA 214 NORTE                                      
+21/05/12 1273-4  Estorno de Débito         169.840                       63,24 C
+21/05/12 1273-4  Compra com Cartão         658.931                       26,35 D
+                 21/05 16:22 RIA SANTA LUCIA                                    
+21/05/12 1273-4  Compra com Cartão         759.113                       50,00 D
+                 21/05 16:25    SERV CAR P PLANAL                               
+22/05/12 1273-4  Compra com Cartão         172.840                       33,90 D
+                 22/05 20:14 ELLE                                               
+22/05/12 1273-4  Compra com Cartão         277.360                       63,24 D
+                 22/05 21:29 RIA 214 NORTE                                      
+23/05/12 1273-4  Compra com Cartão         124.019                        6,46 D
+                 23/05 06:40    CIRANDINHA PREMIU                               
+23/05/12 1273-4  Compra com Cartão         253.422                       21,98 D
+                 23/05 14:50    LOJAS AMERICANAS                                
+23/05/12 1273-4  Compra com Cartão         354.421                       15,00 D
+                 23/05 15:07    SUPER DIGITAL                                   
+23/05/12 1273-4  Compra com Cartão         659.749                        4,50 D
+                 23/05 16:35 CA DOS BOLOS                                       
+23/05/12 000000  Telefone Pre-Pago         82.221.983.009.942            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+23/05/12 000000  Pagamento de Impostos     52.301                        69,86 D
+                 DETRAN DF                                                      
+25/05/12 1273-4  Compra com Cartão         148.582                       29,90 D
+                 25/05 13:29    EMPORIO SOARES &                                
+25/05/12 1273-4  Estorno de Débito         148.582                       29,90 C
+25/05/12 1273-4  Compra com Cartão         348.636                       29,90 D
+                 25/05 13:30    EMPORIO SOARES &                                
+25/05/12 1273-4  Compra com Cartão         649.008                       10,60 D
+                 25/05 13:36    TARCISIO FERRAGEN                               
+25/05/12 000000  Tarifa SMS - Mês Anterior 801.460.801.233.042            3,50 D
+                 Tarifa referente a 10/05/2012                                  
+25/05/12 1903-8  Cheque Compensado         850.732                    1.000,00 D
+28/05/12 9008-5  Compra com Cartão         140.535                       50,00 D
+                 26/05 11:15 NGO SHOPPING                                       
+28/05/12 9008-5  Compra com Cartão         242.952                        7,97 D
+                 26/05 11:55    LOJAO DO BEBE                                   
+28/05/12 9008-5  Compra com Cartão         348.314                       13,65 D
+                 26/05 13:25    SUPERMERCADO ELDO                               
+28/05/12 9008-5  Compra com Cartão         650.461                        8,40 D
+                 26/05 14:01 EX                                                 
+28/05/12 000000  S A L D O                 0                            291,42 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      1.591,42 C
+JUROS                                                                       0,00
+DATA DE DEBITO DE JUROS                                             1./06./20,12
+IOF                                                                         0,00
+DATA DE DEBITO DE IOF                                               1./06./20,12
+CREDITO PESSOAL TODO SEU*                                            60.974,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,08%
+TAXA CHEQUE ESPECIAL AO ANO                                              154,06%
+DT. VENC. CH. ESP.                                                    30/11/2012
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Renda Fixa LP 100                                                      908,74
+BB Ref DI Plus Est                                                     32.567,76
+BB Mult Arbit LP Est                                                    1.829,28
+BB CDB DI PARCERIA *                                                      512,75
+                                                                                
+                                                                                
+                (*) Saldo atualizado ate 25.05.2012                             
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               60.974,00                
+                BB Crédito Salário                     48.118,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                50.000,00                
+                BB Crd Veículo/Leasing                 32.818,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                TAXA  CONTA  ESPECIAL:   8,31%  P/VOCE:    8,08%                
+                ------------------------------------------------                
+                                                                                
+                Pensando em  trocar de carro? O  BB  tem taxa de                
+                financiamento a partir de 0,77. Procure  sua Ag.                
+                                                                                
+                SOS Amazonas. Ajude as vítimas das enchentes.                   
+                Faça sua doação: agência 3563-7 e conta 2100-8                  
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

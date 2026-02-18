@@ -1,0 +1,98 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+14/08/2008                       Auto-Atendimento                       12:34:28
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 3593-9       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/07/08 000000  Saldo Anterior            0                          3.294,09 C
+04/08/08 3593-9  Compra com Cartão         162.099                       50,00 D
+                 04/08 17:14 GASOL 302N                                         
+05/08/08 000000  Pagto cartão crédito      930.359.300.070.286           45,49 D
+05/08/08 000000  Pagto cartão crédito      930.359.300.124.075          499,99 D
+05/08/08 000000  Emissão de DOC            80.505                       200,00 D
+05/08/08 000000  Tarifa DOC/TED Internet   80.805                         8,00 D
+                 Tarifa referente a 05/08/2008                                  
+06/08/08 0967-9  Depósito Online           2.464.274.956                200,00 C
+06/08/08 3593-9  Saque no TAA              61.125.454.864.075            50,00 D
+                 06/08 11:25 SAA-CORREIOS                                       
+07/08/08 000000  Movimento do Dia          440                            8,00 C
+11/08/08 3593-9  Compra com Cartão         139.364                        7,00 D
+                 09/08 10:56 FERRAGENS XIMENES                                  
+11/08/08 3593-9  Compra com Cartão         245.914                       20,70 D
+                 09/08 12:45 VERDE AMARELO POS                                  
+11/08/08 3593-9  Compra com Cartão         346.371                       18,00 D
+                 09/08 12:52 FERRAGENS XIMENES                                  
+11/08/08 000000  Pagamento de Título       81.101                       175,56 D
+12/08/08 1920-8  Cheque Compensado         850.005                       60,00 D
+14/08/08 000000  S A L D O                 0                          2.367,35 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE OURO                                                    1.800,00 C
+SALDO DISPONIVEL                                                      4.167,35 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE OURO AO MÊS                                                    7,75%
+TAXA CHEQUE OURO AO ANO                                                  144,91%
+DT. VENC. CH. ESP.                                                    31/10/2008
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB R.Fixa Bonus Mil                                                       819,70
+BB RF LP 10 MIL                                                         4.543,32
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 BB Credito Salario              0,00  24.510,00                
+                 CDC Emprestimo Eletronico       0,00  11.398,00                
+                 CDC Renovacao                   0,00  24.510,00                
+                 CDC Veiculo Proprio             0,00  17.407,00                
+                 BB Crediario/Construcao         0,00  20.000,00                
+                 BB Crd Veiculo/Leasing          0,00  25.000,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parcelado Cartao         0,00  17.106,00                
+                 Limite Transf p/Cartao      1.778,00   9.499,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  70.000,00                
+                 BB Renovacao Consignacao*       0,00  70.000,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             160,02     854,98                
+                Prestacao para ECF               0,00   7.248,98                
+                Prestacao para Veiculo           0,00     854,98                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento, Internet ou Computador de mao.                     
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS JUL/08:    165                 
+                TAXA  CONTA  ESPECIAL:   8,56%  P/VOCE:    7,75%                
+                TARIFA PACOTE SERV.:  R$ 3,00 **P/VOCE: R$ 0,00                 
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     82                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                Fundos de investimento BB. Bons rendimentos com                 
+                o dobro de pontos no programa de relacionamento.                
+                ** CONDICIONADO A EXISTENCIA DE SALDO NO DIA DO                 
+                DEBITO.                                                         
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                AGORA O BB TAMBEM EH DOMICILIO REDECARD.                        
+                CENTRALIZE O RECEBIMENTO DAS SUAS VENDAS AQUI.                  
+                                                                                
+                CENTRAL DE ATENDIMENTO BB                                       
+                Transacoes, informacoes, duvidas, reclamacoes,                  
+                elogios e sugestoes                                             
+                  4004 0001  0800 729 0001                                      
+                Deficientes Auditivos                                           
+                  0800 729 0088                                                 
+                OUVIDORIA BB                                                    
+                  0800 729 5678                                                 

@@ -1,0 +1,21 @@
+13/07/2016    -  BANCO  DO  BRASIL  -   10:12:13
+127301273                                   0003
+
+     COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BANCO DO BRASIL
+------------------------------------------------
+00190000090224741521566854707180700000000000000
+NR. DOCUMENTO                             71.105
+NOSSO NUMERO                   22474152166854707
+CONVENIO                                02247415
+MIDWAY SA CREDITO FINANCIAMENT
+AG/COD. BENEFICIARIO               3070/00070100
+DATA DO PAGAMENTO                     11/07/2016
+VALOR DO DOCUMENTO                         58,75
+VALOR COBRADO                              58,75
+================================================
+NR.AUTENTICACAO            9.DA1.DB5.E07.D2F.E5C

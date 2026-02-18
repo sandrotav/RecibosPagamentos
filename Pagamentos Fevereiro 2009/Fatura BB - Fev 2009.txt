@@ -1,0 +1,13 @@
+03/02/2009       AUTO-ATENDIMENTO       13.24.53 
+359303593                                   0006 
+ 
+              PAGAMENTO DE OUROCARD 
+ 
+CLIENTE: SANDRO TAVARES 
+AGENCIA: 3593-9          CONTA:          5.742-8 
+================================================ 
+CARTAO:                      4984.****.****.8996 
+DATA DO PAGAMENTO:                    03/02/2009 
+VALOR:                                    303,50 
+------------------------------------------------ 
+NR.AUTENTICACAO            A.B33.2B8.70A.B17.EAA 

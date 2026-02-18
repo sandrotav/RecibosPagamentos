@@ -1,0 +1,29 @@
+Amor,  paguei segue recibo do pagamento.  Por favor não deixa ficar em cima da hora como desta vez.
+
+
+
+bj
+
+
+
+25/08/2011    -  BANCO  DO  BRASIL  -   09:20:16 
+127301273                                   0010 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+ITAU UNIBANCO S.A.                               
+------------------------------------------------ 
+34191760800483548293880174030009550700000004327  
+NR. DOCUMENTO                             82.501 
+DATA DO PAGAMENTO                     25/08/2011 
+VALOR DO DOCUMENTO                         43,27 
+VALOR COBRADO                              43,27 
+================================================ 
+NR.AUTENTICACAO            1.840.183.FBF.787.939 
+
+
+Transação efetivada com sucesso!

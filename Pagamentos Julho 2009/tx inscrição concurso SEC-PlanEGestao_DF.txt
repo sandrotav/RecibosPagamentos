@@ -1,0 +1,25 @@
+13/07/2009    -  BANCO  DO  BRASIL  -   09:35:44 
+127301273                                   0016 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO DO BRASIL                                  
+------------------------------------------------ 
+00190000090101180400096100324183442970000009100  
+NR. DOCUMENTO                             71.301 
+NOSSO NUMERO                   10118040096100324 
+CONVENIO                                01011804 
+FUNDACAO UNIVERSA                                
+AGENCIA/COD. CEDENTE               3307/00007780 
+DATA DE VENCIMENTO                    13/07/2009 
+DATA DO PAGAMENTO                     13/07/2009 
+VALOR DO DOCUMENTO                         91,00 
+VALOR COBRADO                              91,00 
+================================================ 
+NR.AUTENTICACAO            9.316.0A9.CBD.08E.834 
+
+Transação efetivada com sucesso!

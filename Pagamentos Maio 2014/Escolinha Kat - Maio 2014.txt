@@ -1,0 +1,19 @@
+06/05/2014    -  BANCO  DO  BRASIL  -   09:24:20
+127301273                                   0006
+                                                    
+      COMPROVANTE DE PAGAMENTO DE TITULOS        
+                                                   
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+ITAU UNIBANCO S.A.                              
+------------------------------------------------
+34191750091440110054120037770003760590000085800 
+NR. DOCUMENTO                             50.604
+DATA DO PAGAMENTO                     06/05/2014
+VALOR DO DOCUMENTO                        858,00
+DESCONTO/ABATIMENTO                        25,74
+VALOR COBRADO                             832,26
+================================================
+NR.AUTENTICACAO            C.EFA.C68.A0D.9DA.24E
+

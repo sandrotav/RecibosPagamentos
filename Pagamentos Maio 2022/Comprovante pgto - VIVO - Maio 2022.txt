@@ -1,0 +1,16 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+10/05/2022 -     AUTOATENDIMENTO      - 10.57.27
+1273401273         SEGUNDA VIA              0005
+            COMPROVANTE DE PAGAMENTO
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  VIVO MG - TELEMIG
+Codigo de Barras   84600000002-2   49990064100-6
+                   01120120098-4   92204844740-8
+Data do pagamento                     10/05/2022
+Valor Total                               249,99
+------------------------------------------------
+DOCUMENTO:  051002
+AUTENTICACAO SISBB:        5.4F2.3F7.749.F48.A19
+                                                

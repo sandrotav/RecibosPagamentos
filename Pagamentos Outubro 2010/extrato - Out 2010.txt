@@ -1,0 +1,123 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+03/11/2010                       Auto-Atendimento                       11:22:38
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/09/10 000000  Saldo Anterior            0                          4.285,11 C
+04/10/10 4811-9  Depósito bloq.2dias úteis 1.976.918.530                200,00 *
+04/10/10 1273-4  Compra com Cartão         142.403                       23,10 D
+                 02/10 11:46 WALMART ASA NORTE                                  
+04/10/10 1273-4  Compra com Cartão         262.781                       48,00 D
+                 04/10 17:26 OLADO LITURGICO                                    
+04/10/10 1302-1  Transferido para Poupança 10.009.585                   200,00 D
+                 04/10 1302   10009585-2 VALDIVA RODRIG                         
+04/10/10 4811-9  Saque no TAA              40.859.388.936.761           800,00 D
+                 04/10 08:59 SOP-CORREIOS                                       
+04/10/10 000000  Pagto cartão crédito      730.127.300.436.761          890,51 D
+04/10/10 000000  Pagto cartão crédito      730.127.300.478.996          515,83 D
+04/10/10 000000  Pagamento conta luz       100.401                       36,22 D
+                 CEB                                                            
+04/10/10 000000  Pagamento conta luz       100.402                       22,51 D
+                 CEB                                                            
+04/10/10 000000  Pagamento de Título       100.403                      200,00 D
+                 ITAU UNIBANCO S.A.                                             
+04/10/10 000000  Pagamento de Título       100.404                      175,56 D
+                 CONDOMINIO RURAL SOLAR DA SERR                                 
+04/10/10 000000  Pagto conta telefone      100.405                       55,26 D
+                 NET BRASILIA                                                   
+04/10/10 000000  Pagto conta telefone      100.406                      121,20 D
+                 TIM CELULAR S.A.                                               
+04/10/10 000000  Pagamento de Impostos     100.407                       53,83 D
+                 GDF CONTA ARRECADACAO                                          
+04/10/10 000000  Pagamento de Impostos     100.408                       98,25 D
+                 GDF CONTA ARRECADACAO                                          
+04/10/10 000000  Pagamento de Título       100.409                       88,00 D
+                 CONDOMINIO RURAL SOLAR DA SERR                                 
+04/10/10 000000  INSS Arrecadação          100.410                      102,00 D
+04/10/10 000000  Emissão de DOC            100.411                      250,00 D
+04/10/10 000000  Tarifa DOC/TED Internet   802.771.200.100.806            8,00 D
+                 Tarifa referente a 04/10/2010                                  
+05/10/10 000000  Transf de Resgate da CI   1.200.032                    300,00 C
+05/10/10 1273-4  Compra com Cartão         164.219                       30,36 D
+                 05/10 17:50 OX 408 409 NORTE                                   
+05/10/10 4811-9  Saque no TAA              51.007.598.936.761           500,00 D
+                 05/10 10:07 SOP-CORREIOS                                       
+06/10/10 0967-9  Depósito Online           2.347.346.575              1.000,00 C
+06/10/10 0967-9  Cheque Pago Outra Agência 850.684                      300,00 D
+06/10/10 000000  Desbloqueio de depósito   1.976.918.530                200,00 C
+07/10/10 1273-4  Compra com Cartão         152.364                       66,00 D
+                 07/10 14:32 ESPETTUS E CIA                                     
+07/10/10 1273-4  Compra com Cartão         260.133                       31,77 D
+                 07/10 16:42 DE BISCOITO MINEIR                                 
+07/10/10 1273-4  Compra com Cartão         369.747                       54,90 D
+                 07/10 19:22 GASOL - 210N                                       
+08/10/10 1273-4  Compra com Cartão         153.467                       74,02 D
+                 08/10 14:51 RESTAURANTE MANGA                                  
+08/10/10 1273-4  Compra com Cartão         270.187                        3,00 D
+                 08/10 19:29 MAIS BARATO GASOL                                  
+11/10/10 1273-4  Compra com Cartão         143.845                        6,83 D
+                 09/10 12:10 TUTTI VITA                                         
+11/10/10 1273-4  Compra com Cartão         249.402                       50,00 D
+                 11/10 13:43 GASOL - 210N                                       
+13/10/10 000000  Depósito COMPE            22.832                       700,00 C
+                 104 0087      470108606 MARCO AURELIO                          
+13/10/10 1273-4  Compra com Cartão         143.920                       34,50 D
+                 12/10 12:12 VIVENDA DO CAMARA                                  
+13/10/10 1273-4  Compra com Cartão         260.419                       22,00 D
+                 13/10 16:46 PATIO BRASIL                                       
+13/10/10 1273-4  Compra com Cartão         364.548                       11,09 D
+                 13/10 17:55 LOJAS AMERICANAS                                   
+13/10/10 000000  Recarga Pré-Pago Celular  91.244.207.003.288            17,00 D
+                 3791244207-TIM - Minas Gerais                                  
+13/10/10 2872-X  Saque no TAA              131.729.078.936.761           60,00 D
+                 13/10 17:29 PATIO BRASIL-TERREO                                
+15/10/10 3477-0  Saque no TAA              151.752.398.936.761          590,00 D
+                 15/10 17:52 SAA-ASA NORTE 515                                  
+18/10/10 1273-4  Compra com Cartão         139.756                      105,00 D
+                 16/10 11:02 LUB                                                
+18/10/10 000000  Recarga Pré-Pago Celular  91.244.207.504.521            17,00 D
+                 3791244207-TIM - Minas Gerais                                  
+19/10/10 0967-9  Depósito Online           9.671.364.300.042            800,00 C
+20/10/10 1273-4  Compra com Cartão         128.494                       20,00 D
+                 20/10 07:54 GASOL - 210N                                       
+20/10/10 000000  Recarga Pré-Pago Celular  91.244.207.503.186            17,00 D
+                 3791244207-TIM - Minas Gerais                                  
+20/10/10 4811-9  Saque no TAA              201.014.068.936.761          100,00 D
+                 20/10 10:14 SOP-CORREIOS                                       
+25/10/10 000000  Tarifa SMS - Mês Anterior 892.980.800.201.093            2,50 D
+                 Tarifa referente a 01/10/2010                                  
+26/10/10 1273-4  Compra com Cartão         147.282                       39,20 D
+                 26/10 13:08 PARAISO COCURUTO                                   
+26/10/10 1273-4  Compra com Cartão         256.534                       35,90 D
+                 26/10 15:42 POEME MODA INTIMA                                  
+28/10/10 0967-9  Cheque Pago Outra Agência 850.687                      240,00 D
+29/10/10 000000  Recebimento de Proventos  296.229                    3.638,63 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+29/10/10 1273-4  Compra com Cartão         152.098                       58,50 D
+                 29/10 14:28 REST REI DO PEIXE                                  
+29/10/10 1273-4  Compra com Cartão         278.856                       16,70 D
+                 29/10 21:54 GIRAFFAS                                           
+31/10/10 000000  S A L D O                 0                          4.732,20 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,86%
+TAXA CHEQUE ESPECIAL AO ANO                                              147,93%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                OUROCAP - SORTEIO DO SABADO DIA 23.10.2010                      
+                REALIZADO DIA 28.10 - DEZENAS: 23-25-32-38-40-45                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

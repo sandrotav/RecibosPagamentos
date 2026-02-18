@@ -1,0 +1,58 @@
+
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+15/12/2014 -     AUTOATENDIMENTO      - 11.41.10 
+1273401273                                  0002 
+                                                 
+          COMPROVANTE DE PAGAMENTO               
+                                                 
+ MINISTERIO DA PREVIDENCIA E ASSISTENCIA SOCIAL  
+     INSTITUTO NACIONAL DO SEGURO SOCIAL         
+      GUIA DA PREVIDENCIA SOCIAL - GPS           
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4 CONTA:         5.742-8           
+================================================ 
+CODIGO DO PAGAMENTO                         1406 
+COMPETENCIA                              11/2014 
+IDENTICADOR                          11417600491 
+DATA DO PAGAMENTO                     15/12/2014 
+VALOR DO INSS                             144,80 
+VALOR OUTRAS ENTIDADES                      0,00 
+VALOR ATM/JUROS/MULTA                       0,00 
+VALOR TOTAL                               144,80 
+================================================ 
+DOCUMENTO: 121502                                
+AUTENTICACAO SISBB:        8.9A1.4ED.5C4.E8E.E12 
+       ********  VIA EMPREGADOR  ********        
+                                                 
+                                                 
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+15/12/2014 -     AUTOATENDIMENTO      - 11.41.10 
+1273401273                                  0002 
+                                                 
+          COMPROVANTE DE PAGAMENTO               
+                                                 
+ MINISTERIO DA PREVIDENCIA E ASSISTENCIA SOCIAL  
+     INSTITUTO NACIONAL DO SEGURO SOCIAL         
+      GUIA DA PREVIDENCIA SOCIAL - GPS           
+                                                 
+CLIENTE: SANDRO TAVARES                          
+================================================ 
+CODIGO DO PAGAMENTO                         1406 
+COMPETENCIA                              11/2014 
+IDENTICADOR                          11417600491 
+DATA DO PAGAMENTO                     15/12/2014 
+VALOR DO INSS                             144,80 
+VALOR OUTRAS ENTIDADES                      0,00 
+VALOR ATM/JUROS/MULTA                       0,00 
+VALOR TOTAL                               144,80 
+================================================ 
+DOCUMENTO: 121502                                
+AUTENTICACAO SISBB:        8.9A1.4ED.5C4.E8E.E12 
+       ******** VIA CONTRIBUINTE ********        
+
+    
+
+
+Transação efetivada com sucesso!

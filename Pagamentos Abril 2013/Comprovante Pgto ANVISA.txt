@@ -1,0 +1,24 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+22/04/2013  -   AUTO-ATENDIMENTO    -   10.47.10 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  GRU-GUIA RECOLHIM. UNIAO               
+Codigo de Barras   89990000000-7   70000001010-8 
+                   95523162888-3   30432615633-1 
+Data do pagamento                     22/04/2013 
+NRO de Referencia                          65769 
+Competencia MM/AAAA                      03/2013 
+Data de Vencimento                    22/04/2013 
+CPF                                11.862.826-73 
+Valor Principal                            70,00 
+Valor em Dinheiro                          70,00 
+Valor em Cheque                             0,00 
+Valor Total                                70,00 
+================================================ 
+DOCUMENTO:  042201                               
+AUTENTICACAO SISBB:        5.165.8DD.8A0.3C3.835                            

@@ -1,0 +1,199 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+03/01/2013                       Auto-Atendimento                       14:06:47
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/11/12 000000  Saldo Anterior            0                          5.910,83 C
+03/12/12 000000  Recebimento de Proventos  265.201                    2.068,70 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+03/12/12 1273-4  Compra com Cartão         139.378                       44,80 D
+                 01/12 10:56    CRISTAL PRESENTES                               
+03/12/12 1273-4  Compra com Cartão         251.625                       59,90 D
+                 01/12 14:20    BLESSED COM DE RO                               
+03/12/12 1273-4  Compra com Cartão         342.102                       50,00 D
+                 02/12 11:41 P GASOL 210 NORTE                                  
+03/12/12 1273-4  Compra com Cartão         667.494                        9,41 D
+                 02/12 18:44    CAPRI PANIFICADOR                               
+03/12/12 1273-4  Compra com Cartão         742.416                        8,30 D
+                 03/12 11:46    RESTAURANTE O KIL                               
+03/12/12 1273-4  Compra com Cartão         854.918                       31,98 D
+                 03/12 15:15 RIA ROSARIO                                        
+03/12/12 1273-4  Aplicação Poupança        521.273.510.005.742          500,00 D
+                 03/12 1273  510005742-0 SANDRO TAVARES                         
+03/12/12 1273-4  Aplicação Poupança        521.273.960.005.742          500,00 D
+                 03/12 1273  960005742-2 SANDRO TAVARES                         
+03/12/12 1273-4  Transferido para Poupança 523.593.510.015.068          100,00 D
+                 03/12 3593  510015068-4 TATIANE SILVA                          
+03/12/12 000000  Pagto cartão crédito      730.127.300.033.696        1.273,76 D
+03/12/12 000000  Pagto conta telefone      120.301                      189,30 D
+                 TIM CELULAR S.A.                                               
+03/12/12 000000  Pagamento conta luz       120.302                       57,53 D
+                 CEB                                                            
+03/12/12 1903-8  Cheque Compensado         850.745                      833,00 D
+04/12/12 1273-4  Compra com Cartão         170.766                       70,80 D
+                 04/12 19:39 ART ASA NORTE1275                                  
+04/12/12 4811-9  Saque com cartão          41.454.388.643.696           500,00 D
+                 04/12 14:54 SOP-CORREIOS                                       
+04/12/12 000000  Pagamento de Título       120.401                      250,00 D
+                 ITAU UNIBANCO S.A.                                             
+04/12/12 1903-8  Cheque Compensado         850.747                       50,00 D
+05/12/12 1273-4  Compra com Cartão         179.923                       12,60 D
+                 05/12 22:12    GIRAFFAS                                        
+05/12/12 000000  Telefone Pre-Pago         82.221.983.005.607            18,00 D
+                 61082221983-TIM - Distrito Federal                             
+06/12/12 7801-8  Depósito Online           78.011.644.200.104           600,00 C
+06/12/12 1273-4  Compra com Cartão         134.117                      190,00 D
+                 06/12 09:28    GOIS MATERIAIS PA                               
+06/12/12 1273-4  Compra com Cartão         247.251                       50,00 D
+                 06/12 13:07 P GASOL 210 NORTE                                  
+06/12/12 000000  Pagamento de Impostos     120.601                       68,42 D
+                 GPS - CODIGO DE BARRAS                                         
+06/12/12 000000  Pagamento de Impostos     120.602                      124,40 D
+                 GPS - CODIGO DE BARRAS                                         
+07/12/12 4811-9  Transferido da poupança   1.606.510.059.092              4,24 C
+                 07/12 1606      59092-4 JOAO FRANCISCO                         
+07/12/12 000000  Pagto conta telefone      120.701                       64,73 D
+                 NET BRASILIA                                                   
+10/12/12 0967-9  Transferência on line     220.967.000.016.407          300,00 C
+                 10/12 0967      16407-0 MARIA INES SIL                         
+10/12/12 1273-4  Compra com Cartão         134.415                        9,99 D
+                 08/12 09:33    CIRANDINHA PREMIU                               
+10/12/12 1273-4  Compra com Cartão         171.836                       19,75 D
+                 09/12 19:57    BONYS LANCHES                                   
+10/12/12 1273-4  Compra com Cartão         239.270                       49,90 D
+                 08/12 10:54    IMAGINARIUM                                     
+10/12/12 1273-4  Compra com Cartão         273.746                        3,50 D
+                 09/12 20:29    BONYS LANCHES                                   
+10/12/12 1273-4  Compra com Cartão         347.115                       14,80 D
+                 08/12 13:05    PENINSULA RESTAUR                               
+10/12/12 1273-4  Compra com Cartão         348.226                       50,00 D
+                 10/12 13:23    POSTO CASCOL 411                                
+10/12/12 1273-4  Compra com Cartão         667.203                      120,00 D
+                 08/12 18:40    MARIA DE LOURDES                                
+10/12/12 1273-4  Compra com Cartão         745.214                       24,52 D
+                 09/12 12:33    SUPERMECADO S BER                               
+10/12/12 1273-4  Compra com Cartão         870.855                        7,00 D
+                 09/12 19:40    CHAULET & MARENGO                               
+10/12/12 3411-8  Saque com cartão          91.259.138.643.696           150,00 D
+                 09/12 12:59 SAA-VALPARAISO GOIAS                               
+10/12/12 000000  Pagam Presta Créd Imobili 127.300.339.000.032          873,23 D
+10/12/12 1903-8  Cheque Compensado         850.748                      450,00 D
+11/12/12 4811-9  Transferido da poupança   1.606.510.059.092             36,00 C
+                 11/12 1606      59092-4 JOAO FRANCISCO                         
+11/12/12 1273-4  Compra com Cartão         141.847                       14,30 D
+                 11/12 11:37    RESTAURANTE O KIL                               
+11/12/12 1273-4  Compra com Cartão         278.362                       19,90 D
+                 11/12 21:46 R BRASIL                                           
+11/12/12 000000  Telefone Pre-Pago         99.643.395.514.221            18,00 D
+                 61099643395-Vivo AC,DF,GO,MS,MT,RO,TO                          
+11/12/12 000000  Telefone Pre-Pago         99.726.009.514.198            18,00 D
+                 61099726009-Vivo AC,DF,GO,MS,MT,RO,TO                          
+12/12/12 000000  Renda Fixa LP 100         1.200.002                  1.729,13 C
+12/12/12 000000  BB Ref DI Plus Estilo     1.200.032                  7.031,17 C
+12/12/12 1273-4  Compra com Cartão         142.708                       67,43 D
+                 12/12 11:51 RIA ROSARIO                                        
+12/12/12 1273-4  Compra com Cartão         261.630                       16,13 D
+                 12/12 17:07    CAPRI PANIFICADOR                               
+12/12/12 1273-4  Compra com Cartão         361.854                       22,00 D
+                 12/12 17:10  KIDS                                              
+12/12/12 000000  Pagam Presta Créd Imobili 127.300.339.000.042       10.000,00 D
+13/12/12 1273-4  Compra com Cartão         142.075                       16,80 D
+                 13/12 11:41 URANTE O KILAO                                     
+13/12/12 3593-9  Saque com cartão          194.735                      259,75 D
+13/12/12 1273-4  Compra com Cartão         261.853                       18,75 D
+                 13/12 17:10    VERDURAO SAFRAS                                 
+13/12/12 1273-4  Compra com Cartão         362.014                       17,60 D
+                 13/12 17:13    CAPRI PANIFICADOR                               
+14/12/12 1273-4  Compra com Cartão         144.390                       12,00 D
+                 14/12 12:19 URANTE O KILAO                                     
+14/12/12 1273-4  Compra com Cartão         274.964                        3,00 D
+                 14/12 20:49    BOULEVARD BRASILI                               
+17/12/12 1273-4  Compra com Cartão         178.503                        8,00 D
+                 15/12 21:48    BOULEVARD BRASILI                               
+17/12/12 1273-4  Compra com Cartão         247.020                       12,00 D
+                 16/12 13:03 NHO LANCHES                                        
+17/12/12 1273-4  Compra com Cartão         347.329                       40,00 D
+                 16/12 13:08    CROSARA CONFECCOE                               
+17/12/12 1273-4  Compra com Cartão         674.847                       15,76 D
+                 16/12 20:47 ART ASA NORTE1275                                  
+17/12/12 1273-4  Compra com Cartão         774.880                        5,00 D
+                 16/12 20:48 ART ASA NORTE1275                                  
+17/12/12 1273-4  Compra com Cartão         843.694                       89,90 D
+                 17/12 12:08    CAMISARIA COLOMBO                               
+18/12/12 1273-4  Compra com Cartão         144.675                       10,00 D
+                 18/12 12:24    POSTO CASCOL 411                                
+18/12/12 1273-4  Compra com Cartão         266.375                       20,00 D
+                 18/12 18:26    POSTO CASCOL 411                                
+18/12/12 1273-4  Compra com Cartão         372.135                       34,00 D
+                 18/12 20:02    DEPYL ACTION                                    
+19/12/12 000000  Mult Arbitragem Estilo    1.200.166                  1.972,94 C
+19/12/12 1273-4  Compra com Cartão         156.168                        3,50 D
+                 19/12 15:36 R ALIMENTOS                                        
+19/12/12 1273-4  Compra com Cartão         274.693                       26,11 D
+                 19/12 20:44    DROGARIA SANTA LU                               
+20/12/12 1273-4  Compra com Cartão         162.268                       11,50 D
+                 20/12 17:17    CAPRI PANIFICADOR                               
+20/12/12 1273-4  Compra com Cartão         262.547                        8,97 D
+                 20/12 17:22    VERDURAO SAFRAS                                 
+20/12/12 3477-0  Saque com cartão          201.202.418.643.696          150,00 D
+                 20/12 12:02 CLN 214                                            
+20/12/12 1273-4  Transferido para Poupança 523.593.510.015.068          100,00 D
+                 20/12 3593  510015068-4 TATIANE SILVA                          
+21/12/12 000000  Recebimento de Proventos  218.170                    4.891,51 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+21/12/12 1273-4  Compra com Cartão         115.868                      116,94 D
+                 21/12 04:24    AUTO EIXO 208 NOR                               
+21/12/12 1273-4  Compra com Cartão         230.898                        7,50 D
+                 21/12 08:34    TREVO 2                                         
+21/12/12 1273-4  Compra com Cartão         339.576                      123,00 D
+                 21/12 10:59    POSTO ALIANCA                                   
+21/12/12 1273-4  Compra com Cartão         640.091                       13,50 D
+                 21/12 11:08    RESTAURANTE ALIAN                               
+24/12/12 1273-4  Compra com Cartão         144.265                        4,50 D
+                 23/12 12:17 TADOS 1 99                                         
+24/12/12 1273-4  Compra com Cartão         270.356                       29,98 D
+                 24/12 19:32    O BOTICARIO                                     
+24/12/12 0967-9  Saque com cartão          241.856.498.643.696          400,00 D
+                 24/12 18:56 SAA-PITANGUI                                       
+27/12/12 1273-4  Compra com Cartão         142.313                       13,00 D
+                 27/12 11:45    LOJA OSCAR MORATO                               
+27/12/12 1273-4  Compra com Cartão         244.405                       18,20 D
+                 27/12 12:20    TENDA                                           
+27/12/12 1273-4  Compra com Cartão         365.869                       30,00 D
+                 27/12 18:17 LA BICALHO                                         
+31/12/12 1273-4  Compra com Cartão         140.765                       33,33 D
+                 29/12 11:19    ANTONIO L DA FONS                               
+31/12/12 1273-4  Compra com Cartão         271.890                       80,00 D
+                 29/12 19:58    AUTO POSTO F RODR                               
+31/12/12 1273-4  Compra com Cartão         342.624                       11,85 D
+                 30/12 11:50    POSTO JK                                        
+31/12/12 1273-4  Compra com Cartão         642.938                      140,00 D
+                 30/12 11:55    POSTO JK                                        
+31/12/12 1273-4  Compra com Cartão         748.495                        8,15 D
+                 31/12 13:28 URANTE O KILAO                                     
+31/12/12 1273-4  Compra com Cartão         849.138                       40,85 D
+                 31/12 13:38    CASA DE CARNES QU                               
+31/12/12 000000  S A L D O                 0                          5.605,70 C
+--------------------------------------------------------------------------------
+Limite Cheque Especial                                                1.300,00 C
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                3,88%
+Taxa Cheque Especial AO ANO                                               57,90%
+DT. VENC. CH. ESP.                                                    29/11/2013
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                O SEU CARTAO JA ESTA' DISPONIVEL EM SUA AGENCIA.                
+                                                                                
+                Para ser bom pra gente, tem que ser bom pra você                
+                do começo ao fim. Bom 2013 para todos.                          
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

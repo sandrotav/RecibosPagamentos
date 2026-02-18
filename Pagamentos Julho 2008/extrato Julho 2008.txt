@@ -1,0 +1,87 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+14/08/2008                       Auto-Atendimento                       12:35:02
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 3593-9       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/06/08 000000  Saldo Anterior            0                          5.220,56 C
+01/07/08 3594-7  Saque no TAA              11.557.484.864.075            30,00 D
+                 01/07 15:57 SAA-AEROP.INTERNACIO                               
+07/07/08 3593-9  Compra com Cartão         160.677                       64,00 D
+                 06/07 16:51 BORDANDO COM ARTE                                  
+07/07/08 000000  Pagto cartão crédito      930.359.300.060.286           86,28 D
+07/07/08 000000  Pagto cartão crédito      930.359.300.074.075          380,91 D
+07/07/08 000000  Emissão de DOC            70.701                       200,00 D
+07/07/08 000000  Pagamento de Título       70.702                       250,00 D
+07/07/08 000000  Tarifa DOC/TED Internet   80.707                         8,00 D
+                 Tarifa referente a 07/07/2008                                  
+08/07/08 000000  Pagamento conta luz       70.801                        25,71 D
+08/07/08 000000  Pagamento de Impostos     70.802                        90,93 D
+08/07/08 000000  Pagamento de Título       70.803                       404,35 D
+09/07/08 000000  Movimento do Dia          386                            8,00 C
+10/07/08 3593-9  Saque no TAA              101.506.054.864.075           70,00 D
+                 10/07 15:06 SAA-CORREIOS                                       
+10/07/08 000000  Pagamento de Título       71.001                        34,91 D
+14/07/08 3593-9  Compra com Cartão         100.583                       50,00 D
+                 12/07 00:09 POSTO 409 SUL                                      
+14/07/08 1339-0  Saque no TAA              121.056.294.864.075           50,00 D
+                 12/07 10:56 SAA-CEASA                                          
+14/07/08 3593-9  Saque no TAA              141.111.444.864.075           30,00 D
+                 14/07 11:11 SAA-CORREIOS                                       
+16/07/08 3593-9  Compra com Cartão         169.722                       50,00 D
+                 16/07 19:22 POSTO CASCOL 411                                   
+17/07/08 000000  Transf de Resgate da CI   1.200.139                 31.000,00 C
+17/07/08 3413-4  Saque no Caixa            341.300                   17.014,79 D
+                 17/07 12:09 BRASILIA SHOPPING                                  
+17/07/08 3413-4  Saque no Caixa            341.300                   17.985,44 D
+                 17/07 12:19 BRASILIA SHOPPING                                  
+17/07/08 3593-9  Saque no TAA              171.608.304.864.075           40,00 D
+                 17/07 16:08 SAA-CORREIOS                                       
+18/07/08 000000  Transf de Resgate da CI   1.200.012                  1.000,00 C
+18/07/08 3593-9  Compra com Cartão         157.215                       57,00 D
+                 18/07 15:53 TRAIRA SEM ESPINH                                  
+21/07/08 000000  Transf de Resgate da CI   1.200.012                    300,00 C
+21/07/08 000000  Pagamento de Título       72.101                       174,57 D
+21/07/08 1903-8  Cheque Compensado         850.002                      100,00 D
+22/07/08 3593-9  Saque no TAA              221.353.594.864.075           50,00 D
+                 22/07 13:53 SAA-CORREIOS                                       
+22/07/08 1903-8  Cheque Compensado         850.003                      200,00 D
+23/07/08 000000  Transf de Resgate da CI   1.200.012                    100,00 C
+23/07/08 000000  Pagamento de Título       72.301                        34,91 D
+24/07/08 000000  Pagto conta telefone      72.401                        87,29 D
+25/07/08 000000  Tarifa SMS - Mês Anterior 80.602                         2,50 D
+                 Tarifa referente a 02/06/2008                                  
+28/07/08 1236-X  Transferência on line     221.003.000.023.816          263,00 C
+                 28/07 1003      23816-3 PAULA CRISTINA                         
+28/07/08 000000  Pagto conta telefone      72.801                        99,12 D
+30/07/08 0967-9  Depósito Online           2.464.270.459                 65,00 C
+31/07/08 000000  Recebimento de Proventos  882.489                    3.011,72 C
+                 EMPRESA BRASILEIRA DE CORREIOS                                 
+31/07/08 000000  Cobrança de Juros         511.058.923                    1,01 D
+31/07/08 000000  Cobrança de I.O.F.        391.100.701                    2,47 D
+31/07/08 000000  S A L D O                 0                          3.294,09 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE OURO                                                    1.800,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE OURO AO MÊS                                                    7,00%
+TAXA CHEQUE OURO AO ANO                                                  125,22%
+DT. VENC. CH. ESP.                                                    31/10/2008
+                                                                                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                AGORA O BB TAMBEM EH DOMICILIO REDECARD.                        
+                CENTRALIZE O RECEBIMENTO DAS SUAS VENDAS AQUI.                  
+                                                                                
+                CENTRAL DE ATENDIMENTO BB                                       
+                Transacoes, informacoes, duvidas, reclamacoes,                  
+                elogios e sugestoes                                             
+                  4004 0001  0800 729 0001                                      
+                Deficientes Auditivos                                           
+                  0800 729 0088                                                 
+                OUVIDORIA BB                                                    
+                  0800 729 5678                                                 

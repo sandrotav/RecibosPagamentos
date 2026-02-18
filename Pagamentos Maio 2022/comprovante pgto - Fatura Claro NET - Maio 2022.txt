@@ -1,0 +1,15 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+10/05/2022 -     AUTOATENDIMENTO      - 10.56.19
+1273401273         SEGUNDA VIA              0002
+            COMPROVANTE DE PAGAMENTO
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  CLARO SP DDD 11
+Codigo de Barras   84610000001-3   91230162202-9
+                   20510013000-9   00079402366-3
+Data do pagamento                     10/05/2022
+Valor Total                               191,23
+------------------------------------------------
+DOCUMENTO:  051001
+AUTENTICACAO SISBB:        7.D9D.7C9.CC8.6F1.1B3

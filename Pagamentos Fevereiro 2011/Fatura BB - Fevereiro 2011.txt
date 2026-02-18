@@ -1,0 +1,13 @@
+01/02/2011       AUTO-ATENDIMENTO       14.24.18 
+127301273                                   0032 
+ 
+              PAGAMENTO DE OUROCARD 
+ 
+CLIENTE: SANDRO TAVARES 
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+CARTAO:                      4984.****.****.6761 
+DATA DO PAGAMENTO:                    01/02/2011 
+VALOR:                                    463,01 
+------------------------------------------------ 
+NR.AUTENTICACAO            6.229.710.A95.233.CD2 

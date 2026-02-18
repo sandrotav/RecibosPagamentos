@@ -1,0 +1,17 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+20/11/2012  -   AUTO-ATENDIMENTO    -   10.19.42 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  SANEAMENTO DE GOIAS SA                 
+Codigo de Barras   82640000000-4   25250106154-0 
+                   51742169183-6   49846251112-8 
+Data do pagamento                     20/11/2012 
+Valor Total                                25,25 
+================================================ 
+DOCUMENTO:  112001                               
+AUTENTICACAO SISBB:        E.1ED.02A.559.36E.6FF                        

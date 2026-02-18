@@ -1,0 +1,159 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+23/10/2008                       Auto-Atendimento                       08:13:54
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 3593-9       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/09/08 000000  Saldo Anterior            0                          6.477,52 C
+01/10/08 3593-9  Saque no TAA              11.207.384.864.075            20,00 D
+                 01/10 12:07 ECT-EDIFICIO SEDE                                  
+01/10/08 000000  Pagamento de Impostos     100.101                      122,48 D
+02/10/08 000000  Pagto cartão crédito      930.359.300.144.075          100,00 D
+02/10/08 000000  Pagto conta telefone      100.201                      110,70 D
+02/10/08 000000  Pagamento de Título       100.202                      250,00 D
+02/10/08 000000  Pagamento conta luz       100.203                       13,99 D
+02/10/08 000000  Pagto conta telefone      100.204                       77,52 D
+02/10/08 000000  Pagamento de Título       100.205                      420,61 D
+02/10/08 000000  Pagto conta telefone      100.206                       11,60 D
+02/10/08 000000  Pagamento de Título       100.207                       29,12 D
+02/10/08 000000  Pagamento de Título       100.208                      175,56 D
+06/10/08 3593-9  Compra com Cartão         169.615                       19,50 D
+                 05/10 19:20 MAIS BARATO GASOL                                  
+06/10/08 3593-9  Compra com Cartão         250.454                        9,91 D
+                 06/10 14:00 NANA CAFE                                          
+06/10/08 1236-X  Saque no TAA              41.025.104.864.075           110,00 D
+                 04/10 10:25 SAA-ASA NORTE 510                                  
+06/10/08 000000  Tarifa Pacote de Serviços 81.006                        17,85 D
+                 Tarifa referente a 06/10/2008                                  
+07/10/08 3593-9  Compra com Cartão         143.884                       13,60 D
+                 07/10 12:11 FINO SABOR                                         
+07/10/08 3593-9  Compra com Cartão         268.485                        3,50 D
+                 07/10 19:01 DROGARIA TREVO                                     
+07/10/08 3593-9  Saque no TAA              71.730.464.864.075            50,00 D
+                 07/10 17:30 SAA-CORREIOS                                       
+07/10/08 000000  Pagto cartão crédito      930.359.300.010.286           45,49 D
+07/10/08 000000  Emissão de DOC            100.701                      200,00 D
+07/10/08 1903-8  Cheque Compensado         850.007                       25,00 D
+08/10/08 3593-9  Compra com Cartão         100.256                       10,00 D
+                 08/10 00:04 FREDERIC CHOPIN                                    
+08/10/08 3593-9  Compra com Cartão         246.655                        9,61 D
+                 08/10 12:57 NANA CAFE                                          
+08/10/08 3593-9  Compra com Cartão         371.301                       16,50 D
+                 08/10 19:48 A CASA DO LOURO                                    
+09/10/08 3593-9  Saque no TAA              91.320.534.864.075            20,00 D
+                 09/10 13:20 SAA-CORREIOS                                       
+10/10/08 1903-8  Cheque Compensado         850.008                       40,00 D
+13/10/08 3593-9  Compra com Cartão         129.941                       18,00 D
+                 11/10 08:19 FERRAGENS XIMENES                                  
+13/10/08 3593-9  Compra com Cartão         232.726                        7,06 D
+                 12/10 09:05 SUPERMERCADOS PRA                                  
+13/10/08 3593-9  Compra com Cartão         337.605                       50,00 D
+                 12/10 10:26 POSTO GUARAPARI                                    
+13/10/08 4346-X  Saque no TAA              121.632.294.864.075          450,00 D
+                 12/10 16:32 SAA-RIACHO FUNDO                                   
+14/10/08 3593-9  Saque no TAA              141.226.374.864.075          300,00 D
+                 14/10 12:26 SAA-CORREIOS                                       
+15/10/08 3593-9  Compra com Cartão         102.526                       10,89 D
+                 15/10 00:42 POIZE BRASILIA                                     
+15/10/08 3593-9  Compra com Cartão         267.242                       20,00 D
+                 15/10 18:40 GASOL - MELHOR4                                    
+16/10/08 1903-8  Cheque Compensado         850.010                    4.891,00 D
+17/10/08 000000  CH DEVOLV COM IRREGULARID 850.010                    4.891,00 C
+17/10/08 000000  Transf de Resgate da CI   1.200.139                  4.586,34 C
+17/10/08 3593-9  Compra com Cartão         172.035                       20,00 D
+                 17/10 20:00 AUTO POSTO SORRIS                                  
+17/10/08 1235-1  Saque no TAA              171.743.434.864.075          600,00 D
+                 17/10 17:43 SAA-TAGUATINGA NORTE                               
+20/10/08 3593-9  Compra com Cartão         144.402                       30,00 D
+                 19/10 12:20 POSTO CASCOL 411                                   
+20/10/08 3593-9  Compra com Cartão         267.977                       20,00 D
+                 20/10 18:52 VERDE AMARELO POS                                  
+20/10/08 2863-0  Saque no TAA              181.014.074.864.075          300,00 D
+                 18/10 10:14 RODOVIARIA                                         
+20/10/08 1903-8  Cheque Compensado         850.012                      900,00 D
+21/10/08 3590-4  Depósito bloq.3dias úteis 1.341.470.365                243,97 *
+22/10/08 000000  TED Transf.Eletr.Disponiv 102.201                    5.000,00 D
+22/10/08 000000  Tarifa DOC/TED Internet   81.022                         8,00 D
+                 Tarifa referente a 22/10/2008                                  
+23/10/08 000000  S A L D O                 0                          1.407,37 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE OURO                                                    1.800,00 C
+SALDO DISPONIVEL                                                      3.207,37 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE OURO AO MÊS                                                    8,58%
+TAXA CHEQUE OURO AO ANO                                                  168,53%
+DT. VENC. CH. ESP.                                                    31/10/2008
+                                                                                
+================================================================================
+                               Valores Bloqueados                               
+                                                                                
+SALDO BLQ.1D UTIL                                                           243,97
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB R.Fixa Bonus Mil                                                       833,23
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 BB Credito Salario              0,00  12.018,00                
+                 CDC Emprestimo Eletronico       0,00   4.567,00                
+                 CDC Renovacao                   0,00  12.018,00                
+                 CDC Veiculo Proprio             0,00   8.535,00                
+                 BB Crediario/Construcao     3.703,00   9.026,00                
+                 BB Crd Veiculo/Leasing          0,00  12.124,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parc Cartao/Ch.Esp       0,00   7.942,00                
+                 Limite Transf p/Cartao      1.778,00   4.657,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  70.000,00                
+                 BB Renovacao Consignacao*       0,00  70.000,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             595,79     419,21                
+                Prestacao para ECF               0,00   6.813,21                
+                Prestacao para Veiculo           0,00     419,21                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento ou Internet.                                        
+                ** Utilizacao do limite sujeita ao enquadramento                
+                nas disposicoes de microcredito.                                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS SET/08:     67                 
+                TAXA  CONTA  ESPECIAL:   8,62%  P/VOCE:    8,58%                
+                TARIFA PACOTE SERV.:  R$25,50 **P/VOCE: R$17,85                 
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     33                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                Fundos de investimento BB. Bons rendimentos com                 
+                o dobro de pontos no programa de relacionamento.                
+                ** CONDICIONADO A EXISTENCIA DE SALDO NO DIA DO                 
+                DEBITO.                                                         
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                  SEU CONTRATO DE CONTA/CHEQUE ESPECIAL SERAH                   
+                  RENOVADO,  DESDE QUE NA  DATA DO VENCIMENTO                   
+                  NAO HAJA RESTRICOES CADASTRAIS.                               
+                                                                                
+                UMA HISTORIA FEITA DE SONHOS,IDEIAS E PESSOAS.                  
+                BANCO DO BRASIL - 200 ANOS FAZENDO O FUTURO.                    
+                                                                                
+                CENTRAL DE ATENDIMENTO BB                                       
+                Transacoes, informacoes, duvidas, reclamacoes,                  
+                elogios e sugestoes                                             
+                  4004 0001  0800 729 0001                                      
+                Deficientes Auditivos                                           
+                  0800 729 0088                                                 
+                OUVIDORIA BB                                                    
+                  0800 729 5678                                                 

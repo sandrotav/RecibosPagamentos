@@ -1,0 +1,90 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+04/04/2008                       Auto-Atendimento                       13:05:33
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 3413-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+24/03/08 000000  Saldo Anterior            0                            503,82 C
+25/03/08 000000  Tarifa SMS - Mês Anterior 80.201                         2,50 D
+25/03/08 000000  Tarifa Pacote de Serviços 80.325                         3,00 D
+25/03/08 1903-8  Cheque Compensado         850.606                       30,00 D pinga - conceição pará
+26/03/08 3413-4  Compra com Cartão         161.014                       18,52 D pão de açucar
+                 26/03 16:56 PAO DE ACUCAR LJ                                   
+27/03/08 3413-4  Compra com Cartão         143.632                       10,55 D Americanas
+                 27/03 12:07 LOJAS AMERICANAS                                   
+28/03/08 3413-4  Compra com Cartão         146.923                       40,00 D alcool 
+                 28/03 13:02 POSTO SAO BERNARD                                  
+28/03/08 3413-4  Compra com Cartão         259.022                       65,00 D alcool 
+                 28/03 16:23 POSTO OASIS                                        
+28/03/08 3413-4  Compra com Cartão         372.584                       60,01 D alcool
+                 28/03 20:09 POSTO CAXUXA                                       
+31/03/08 0967-9  Saque no TAA              301.316.465.851.322          100,00 D
+                 30/03 13:16 SAA-PITANGUI                                       
+02/04/08 3413-4  Compra com Cartão         140.891                       60,00 D
+                 02/04 11:21 POSTO TREVO                                        
+02/04/08 3413-4  Estorno de Débito         140.891                       60,00 C
+02/04/08 3413-4  Compra com Cartão         340.974                       60,00 D alcool
+                 02/04 11:22 POSTO TREVO                                        
+03/04/08 3413-4  Compra com Cartão         179.547                       13,41 D Extra
+                 03/04 22:05 EXTRA 1347                                         
+03/04/08 1908-9  Cheque Compensado         850.607                       55,00 D barriu - pinga
+04/04/08 000000  S A L D O                 0                             45,83 C
+--------------------------------------------------------------------------------
+LIMITE CONTA UNIVERSITARIA                                            1.850,00 C
+SALDO DISPONIVEL                                                      1.895,83 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CONTA UNIVERSITARIA AO MÊS                                            7,81%
+TAXA CONTA UNIVERSITARIA AO ANO                                          146,55%
+DT. VENC. CH. ESP.                                                    31/10/2008
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB RF LP 10 MIL                                                        14.615,05
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 CDC Emprestimo Eletronico       0,00  13.719,00                
+                 CDC Renovacao                   0,00  19.360,00                
+                 CDC Veiculo Proprio             0,00  17.407,00                
+                 BB Crediario/Construcao         0,00  20.000,00                
+                 BB Crd Mat de Construcao        0,00  17.500,00                
+                 BB Crd Veiculo/Leasing          0,00  25.000,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parcelado Cartao         0,00  17.854,00                
+                 Limite Transf p/Cartao      1.778,00   9.499,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  27.910,00                
+                 BB Renovacao Consignacao*       0,00  27.910,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             160,02     854,98                
+                Prestacao para ECF               0,00   1.252,98                
+                Prestacao para Veiculo           0,00     854,98                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento, Internet ou Computador de mao.                     
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS FEV/08:     22                 
+                TAXA  CONTA  ESPECIAL:   7,85%  P/VOCE:    7,81%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     11                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                Fundos de investimento BB. Bons rendimentos com                 
+                o dobro de pontos no programa de relacionamento.                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                FINANCIE O CARRO DOS SEUS SONHOS.                               
+                BANCO DO BRASIL - CREDITO TODO SEU.                             
+                                                                                

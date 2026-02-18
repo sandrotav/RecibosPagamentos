@@ -1,0 +1,153 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+18/06/2012                       Auto-Atendimento                       16:36:20
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/05/12 000000  Saldo Anterior            0                          3.954,76 C
+01/06/12 1273-4  Compra com Cartão         129.246                       50,00 D
+                 01/06 08:07    POSTO CASCOL 411                                
+01/06/12 1273-4  Compra com Cartão         229.384                        7,00 D
+                 01/06 08:09 CA DOS BOLOS                                       
+01/06/12 1273-4  Compra com Cartão         361.237                       15,16 D
+                 01/06 17:00 OX 408 409 NORTE                                   
+01/06/12 1273-4  Compra com Cartão         661.914                       39,00 D
+                 01/06 17:11 DE CARNE 411                                       
+04/06/12 2887-8  Transferência on line     552.887.000.012.122          790,00 C
+                 04/06 2887      12122-3 RONALDO & ALIN                         
+04/06/12 1273-4  Compra com Cartão         133.946                       53,97 D
+                 02/06 09:25    LOJINHA DA CRIANC                               
+04/06/12 1273-4  Compra com Cartão         264.758                       10,00 D
+                 02/06 17:59    CENTER PARQUE NIC                               
+04/06/12 1273-4  Compra com Cartão         361.106                        8,00 D
+                 04/06 16:58 CA DOS BOLOS                                       
+04/06/12 1273-4  Aplicação Poupança        510.005.742                  300,00 D
+                 04/06 1273  510005742-0 SANDRO TAVARES                         
+04/06/12 3593-9  Transferido para Poupança 510.015.068                  200,00 D
+                 04/06 3593  510015068-4 TATIANE SILVA                          
+04/06/12 000000  Pagto cartão crédito      730.127.300.606.761          337,39 D
+04/06/12 000000  Pagamento conta luz       60.401                        33,95 D
+                 CEB                                                            
+04/06/12 000000  Pagto conta telefone      60.402                       113,80 D
+                 TIM CELULAR S.A.                                               
+04/06/12 000000  Pagamento de Título       60.403                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+04/06/12 000000  Pagamento de Impostos     60.404                        68,42 D
+                 GPS - CODIGO DE BARRAS                                         
+04/06/12 000000  Pagamento de Impostos     60.405                       124,40 D
+                 GPS - CODIGO DE BARRAS                                         
+05/06/12 4811-9  Transferido da poupança   1.606.010.059.092            124,68 C
+                 05/06 1606      59092-4 JOAO FRANCISCO                         
+05/06/12 000000  Pagto conta telefone      60.501                        64,79 D
+                 NET BRASILIA                                                   
+08/06/12 1273-4  Compra com Cartão         151.350                       49,99 D
+                 07/06 14:15    HI HAPPY BRINQUED                               
+08/06/12 1273-4  Compra com Cartão         160.348                       24,90 D
+                 08/06 16:45 IA BIJUTERIAS                                      
+08/06/12 1273-4  Compra com Cartão         255.448                       66,50 D
+                 07/06 15:24 CCA                                                
+08/06/12 1273-4  Compra com Cartão         358.438                       18,37 D
+                 07/06 16:13 OX 408 409 NORTE                                   
+08/06/12 1273-4  Compra com Cartão         665.650                       19,90 D
+                 07/06 18:14    LOJAS RENNER FL 6                               
+08/06/12 1273-4  Compra com Cartão         732.324                       50,00 D
+                 08/06 08:58 P GASOL 210 NORTE                                  
+08/06/12 1273-4  Compra com Cartão         841.780                       20,36 D
+                 08/06 11:36    SUPERMERCADO PRA                                
+11/06/12 1273-4  Compra com Cartão         147.852                       20,00 D
+                 09/06 13:17    ELETRICA R E R                                  
+11/06/12 1273-4  Compra com Cartão         257.347                       53,20 D
+                 09/06 15:55    LEROY MERLIN                                    
+11/06/12 1273-4  Compra com Cartão         342.518                      110,89 D
+                 10/06 11:48    WALMART ASA NORTE                               
+12/06/12 1273-4  Compra com Cartão         131.483                       13,40 D
+                 12/06 08:44 MIX SUPERMERCADO                                   
+12/06/12 1273-4  Compra com Cartão         233.048                        8,05 D
+                 12/06 09:10    VERDURAO 411 NORT                               
+12/06/12 1273-4  Compra com Cartão         333.743                        8,10 D
+                 12/06 09:22    PANIFICADORA SYRI                               
+12/06/12 1273-4  Compra com Cartão         661.499                       22,89 D
+                 12/06 17:04 OX 408 409 NORTE                                   
+13/06/12 4811-9  Saque com cartão          131.631.198.936.761          150,00 D
+                 13/06 16:31 SOP-CORREIOS                                       
+13/06/12 1908-9  Cheque Compensado         850.727                       70,00 D
+14/06/12 1273-4  Compra com Cartão         130.014                       50,00 D
+                 14/06 08:20 P GASOL 210 NORTE                                  
+14/06/12 1273-4  Compra com Cartão         244.426                       11,33 D
+                 14/06 12:20    PENINSULA RESTAUR                               
+14/06/12 000000  Telefone Pre-Pago         82.221.983.025.691            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+18/06/12 9008-5  Compra com Cartão         149.037                       40,64 D
+                 16/06 13:37    RESTAURANTE TAVAR                               
+18/06/12 9008-5  Compra com Cartão         254.690                       35,90 D
+                 16/06 15:11    MARRY TECIDOS                                   
+18/06/12 9008-5  Compra com Cartão         357.240                        7,50 D
+                 16/06 15:54    FINA FARINHA S GL                               
+18/06/12 9008-5  Compra com Cartão         662.782                       33,87 D
+                 16/06 17:26    DROGARIA SANTA LU                               
+18/06/12 9008-5  Compra com Cartão         764.593                       10,00 D
+                 17/06 17:56    JOSMARI CUBAS BEL                               
+18/06/12 9008-5  Compra com Cartão         865.075                       60,00 D
+                 17/06 18:04    MARCO ANTONIO                                   
+18/06/12 9008-5  Compra com Cartão         165.966                       30,00 D
+                 17/06 18:19    BALILU AMITAF COL                               
+18/06/12 4811-9  Saque no TAA              181.351.288.936.761          200,00 D
+                 18/06 13:51 SOP-CORREIOS                                       
+18/06/12 000000  S A L D O                 0                          2.040,77 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      3.340,77 C
+JUROS                                                                       0,00
+DATA DE DEBITO DE JUROS                                             2./07./20,12
+IOF                                                                         0,00
+DATA DE DEBITO DE IOF                                               2./07./20,12
+CREDITO BOMPRATODOS*                                                 60.974,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,04%
+TAXA CHEQUE ESPECIAL AO ANO                                              152,94%
+DT. VENC. CH. ESP.                                                    30/11/2012
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Renda Fixa LP 100                                                      909,49
+BB Ref DI Plus Est                                                     32.440,10
+BB Mult Arbit LP Est                                                    1.828,80
+BB CDB DI PARCERIA *                                                      514,23
+                                                                                
+                                                                                
+                (*) Saldo atualizado ate 15.06.2012                             
+                ================================================                
+                Linhas de Crédito           Crédito BOMPRATODOS*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               60.974,00                
+                BB Crédito Salário                     48.118,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                50.000,00                
+                BB Crd Veículo/Leasing                 32.818,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                TAXA  CONTA  ESPECIAL:   8,27%  P/VOCE:    8,04%                
+                ------------------------------------------------                
+                                                                                
+                Receber salário no BB é pagar no máximo 3,90% am                
+                em qualquer linha de empréstimo pessoal.                        
+                                                                                
+                SOS seca na Paraíba. Faça sua doação:                           
+                agência 1618-7 e conta 100.000-4                                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

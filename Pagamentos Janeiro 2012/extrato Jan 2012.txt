@@ -1,0 +1,159 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+08/02/2012                       Auto-Atendimento                       09:37:01
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/12/11 000000  Saldo Anterior            0                          3.103,44 C
+02/01/12 1273-4  Compra com Cartão         170.120                       16,50 D
+                 31/12 19:28    CHIQUINHOS BAR                                  
+02/01/12 1273-4  Compra com Cartão         237.120                      155,00 D
+                 02/01 10:18    SABIN VACINAS                                   
+02/01/12 1273-4  Compra com Cartão         349.573                       50,00 D
+                 02/01 13:46 P GASOL 210 NORTE                                  
+02/01/12 000000  Telefone Pre-Pago         82.221.983.028.441            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+03/01/12 2887-8  Transferência on line     552.887.000.012.122          700,00 C
+                 03/01 2887      12122-3 RONALDO & ALIN                         
+03/01/12 000000  Pagamento de Título       10.301                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+04/01/12 1273-4  Compra com Cartão         162.513                       18,00 D
+                 04/01 17:21    SOS MATERIAIS                                   
+04/01/12 000000  Pagto cartão crédito      730.127.300.066.761          428,00 D
+04/01/12 000000  Pagamento conta luz       10.401                        44,81 D
+                 CEB                                                            
+04/01/12 000000  Pagto conta telefone      10.402                       144,30 D
+                 TIM CELULAR S.A.                                               
+05/01/12 1273-4  Compra com Cartão         143.178                       16,88 D
+                 05/01 11:59    PENINSULA RESTAUR                               
+05/01/12 1273-4  Compra com Cartão         261.346                       30,73 D
+                 05/01 17:02    FARMACIA PAGUE ME                               
+05/01/12 4811-9  Saque com cartão          51.513.498.936.761           150,00 D
+                 05/01 15:13 SOP-CORREIOS                                       
+06/01/12 1273-4  Compra com Cartão         144.527                        8,23 D
+                 06/01 12:22    PENINSULA RESTAUR                               
+09/01/12 1273-4  Compra com Cartão         162.711                       28,95 D
+                 07/01 17:25    LOJAS AMERICANAS                                
+09/01/12 1273-4  Compra com Cartão         262.346                        3,00 D
+                 08/01 17:19    BOBS                                            
+09/01/12 1273-4  Compra com Cartão         366.177                       11,98 D
+                 08/01 18:22    LOJAS AMERICANAS                                
+09/01/12 1273-4  Compra com Cartão         633.587                       50,00 D
+                 09/01 09:19    GASOL 210N                                      
+09/01/12 1273-4  Compra com Cartão         743.217                       13,65 D
+                 09/01 12:00    PENINSULA RESTAUR                               
+10/01/12 1273-4  Compra com Cartão         142.539                       28,90 D
+                 10/01 11:48    FARMACOTECNICA 31                               
+10/01/12 1273-4  Compra com Cartão         244.707                       10,58 D
+                 10/01 12:25    PENINSULA RESTAUR                               
+10/01/12 1273-4  Compra com Cartão         360.590                        2,00 D
+                 10/01 16:49    BANCA PALACIO DES                               
+10/01/12 000000  Pagamento de Impostos     11.001                        59,95 D
+                 GPS - CODIGO DE BARRAS                                         
+10/01/12 000000  Pagto conta telefone      11.002                       114,04 D
+                 NET BRASILIA                                                   
+11/01/12 000000  Telefone Pre-Pago         82.221.983.522.278            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+11/01/12 4811-9  Saque com cartão          110.807.508.936.761          100,00 D
+                 11/01 08:07 SOP-CORREIOS                                       
+12/01/12 000000  Pagamento de Impostos     11.201                       109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+16/01/12 1273-4  Compra com Cartão         146.264                       77,30 D
+                 14/01 12:51 LE                                                 
+16/01/12 1273-4  Compra com Cartão         247.926                       99,90 D
+                 14/01 13:18    BABY FIGUEREDO                                  
+16/01/12 1273-4  Compra com Cartão         350.523                       33,80 D
+                 14/01 14:02 NI PIZZA                                           
+16/01/12 1273-4  Compra com Cartão         657.993                       37,46 D
+                 14/01 16:06 FOUR BAN 363                                       
+16/01/12 1273-4  Compra com Cartão         742.398                       50,00 D
+                 15/01 11:46    POSTO CASCOL 411                                
+17/01/12 1273-4  Compra com Cartão         162.797                       26,95 D
+                 17/01 17:26    DROGASIL 454                                    
+17/01/12 1273-4  Compra com Cartão         263.312                        4,00 D
+                 17/01 17:35    FARMACOTECNICA                                  
+17/01/12 1273-4  Compra com Cartão         368.003                       11,79 D
+                 17/01 18:53    PANIFIC LIDERANCA                               
+18/01/12 1273-4  Compra com Cartão         156.847                       15,90 D
+                 18/01 15:47    AGENCIA CENTRAL                                 
+19/01/12 1273-4  Compra com Cartão         163.235                        4,50 D
+                 19/01 17:33    FABRICA DOS BOLOS                               
+20/01/12 1273-4  Compra com Cartão         144.120                        9,60 D
+                 20/01 12:15    PENINSULA RESTAUR                               
+20/01/12 4811-9  Saque com cartão          201.135.508.936.761          100,00 D
+                 20/01 11:35 SOP-CORREIOS                                       
+23/01/12 1273-4  Compra com Cartão         131.349                       10,31 D
+                 22/01 08:42    CIRANDINHA PREMIU                               
+23/01/12 1273-4  Compra com Cartão         152.824                        8,00 D
+                 21/01 14:40    BARRACA DA CHIQUI                               
+23/01/12 1273-4  Compra com Cartão         252.486                       15,99 D
+                 22/01 14:34 RIA ROSARIO F74                                    
+23/01/12 1273-4  Compra com Cartão         252.939                       16,00 D
+                 21/01 14:42 CA GALEGO                                          
+23/01/12 1273-4  Compra com Cartão         357.218                      149,54 D
+                 21/01 15:53    LEROY MERLIN                                    
+23/01/12 1273-4  Compra com Cartão         657.771                       49,90 D
+                 21/01 16:02    LEROY MERLIN                                    
+23/01/12 1273-4  Compra com Cartão         758.674                       50,00 D
+                 21/01 16:17    GASOL POSTO CAL L                               
+23/01/12 1273-4  Compra com Cartão         858.811                        6,00 D
+                 21/01 16:20    MAIS BARATO GASOL                               
+25/01/12 000000  Recebimento de Proventos  101.553                    4.081,01 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+25/01/12 1273-4  Compra com Cartão         143.448                       14,41 D
+                 25/01 12:04    PENINSULA RESTAUR                               
+25/01/12 1273-4  Compra com Cartão         264.342                       50,97 D
+                 25/01 17:52 RIA SANTA LUCIA                                    
+25/01/12 000000  Telefone Pre-Pago         82.221.983.503.505            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+25/01/12 4811-9  Saque com cartão          251.118.088.936.761          200,00 D
+                 25/01 11:18 SOP-CORREIOS                                       
+25/01/12 000000  Tarifa SMS - Mês Anterior 890.251.000.194.592            3,50 D
+                 Tarifa referente a 10/01/2012                                  
+27/01/12 1273-4  Compra com Cartão         160.369                        9,10 D
+                 27/01 16:46    PANETUTTI                                       
+27/01/12 1273-4  Compra com Cartão         274.322                        1,45 D
+                 27/01 20:38    BOULEVARD BRASILI                               
+27/01/12 1273-4  Compra com Cartão         374.759                       50,00 D
+                 27/01 20:45    SMAFF COMBUSTIVEI                               
+27/01/12 1273-4  Aplicação Poupança        10.005.742                   500,00 D
+                 27/01 1273   10005742-X SANDRO TAVARES                         
+27/01/12 1273-4  Aplicação Poupança        910.005.742                  500,00 D
+                 27/01 1273  910005742-3 SANDRO TAVARES                         
+27/01/12 000000  Mult Arbitragem Estilo    1.100.166                    200,00 D
+27/01/12 000000  Renda Fixa LP 100         1.200.002                    200,00 D
+27/01/12 1903-8  Cheque Compensado         850.720                       99,98 D
+30/01/12 1273-4  Compra com Cartão         168.137                        4,80 D
+                 28/01 18:55    MAIS BARATO GASOL                               
+30/01/12 1273-4  Compra com Cartão         243.449                       11,81 D
+                 30/01 12:04    PENINSULA RESTAUR                               
+31/01/12 1273-4  Compra com Cartão         136.514                       15,80 D
+                 31/01 10:08    AGENCIA CENTRAL                                 
+31/01/12 1273-4  Transferência on line     524.885.000.017.354          126,32 D
+                 31/01 4885      17354-1 CRISTINA MARA                          
+31/01/12 000000  S A L D O                 0                          3.273,87 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,18%
+TAXA CHEQUE ESPECIAL AO ANO                                              156,90%
+DT. VENC. CH. ESP.                                                    30/11/2012
+                                                                                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                BB realiza em 17/02/2012, Leilão Oficial para                   
+                venda de imóveis em Brasília.Fone:3465-2203/2542                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

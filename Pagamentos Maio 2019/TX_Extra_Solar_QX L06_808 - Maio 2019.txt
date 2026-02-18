@@ -1,0 +1,30 @@
+06/05/2019    -  BANCO  DO  BRASIL  -   15:58:03
+127301273                                   0030
+                                                
+     AGENDAMENTO DE PAGAMENTO DE TITULOS        
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BRB - BANCO DE BRASILIA S.A.                    
+------------------------------------------------
+07090000876001731112116116070430178850000030000 
+BENEFICIARIO:                                   
+COND RURAL SOLAR DA SERRA                       
+NOME FANTASIA:                                  
+SOLAR DA SERRA                                  
+CNPJ: 37.138.013/0001-31                        
+SACADOR AVALISTA:                               
+COND RURAL SOLAR DA SERRA                       
+CNPJ: 37.138.013/0001-31                        
+PAGADOR:                                        
+SANDRO TAVARES                                  
+CPF: 011.862.826-73                             
+------------------------------------------------
+NR. DOCUMENTO                             51.002
+DATA DE VENCIMENTO                    10/05/2019
+DATA DO PAGAMENTO                     10/05/2019
+VALOR DO DOCUMENTO                        300,00
+VALOR COBRADO                             300,00
+================================================
+PAGAMENTO AGENDADO.                             

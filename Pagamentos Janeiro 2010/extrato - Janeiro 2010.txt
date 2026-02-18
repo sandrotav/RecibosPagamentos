@@ -1,0 +1,107 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+02/02/2010                       Auto-Atendimento                       09:32:19
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/12/09 000000  Saldo Anterior            0                          4.346,54 C
+04/01/10 1273-4  Compra com Cartão         136.474                       78,00 D
+                 03/01 10:07 POSTO REI DO GADO                                  
+04/01/10 1273-4  Compra com Cartão         277.246                       50,00 D
+                 03/01 21:27 POSTO AMERICAN PE                                  
+04/01/10 4811-9  Saque no TAA              41.420.239.968.996           500,00 D
+                 04/01 14:20 SOP-CORREIOS                                       
+04/01/10 000000  Pagto cartão crédito      730.127.300.328.996          753,71 D
+04/01/10 000000  Pagto conta telefone      10.401                       135,60 D
+04/01/10 000000  Pagto conta telefone      10.402                        53,12 D
+04/01/10 000000  Pagamento conta luz       10.403                        11,10 D
+04/01/10 000000  Pagamento de Título       10.404                       175,56 D
+04/01/10 000000  Pagamento conta luz       10.405                        33,35 D
+04/01/10 000000  Pagamento de Título       10.406                       270,00 D
+04/01/10 000000  Emissão de DOC            10.407                       250,00 D
+04/01/10 000000  Tarifa DOC/TED Internet   100.104                        8,00 D
+                 Tarifa referente a 04/01/2010                                  
+05/01/10 1273-4  Compra com Cartão         167.168                        9,90 D
+                 05/01 18:39 GIRAFFAS                                           
+07/01/10 4811-9  Depósito Online           2.252.781.949                450,00 C
+07/01/10 1273-4  Compra com Cartão         143.738                        8,05 D
+                 07/01 12:08 MASTER SERVICOS P                                  
+07/01/10 1302-1  Transferido para Poupança 10.009.585                   232,50 D
+                 07/01 1302   10009585-2 VALDIVA RODRIG                         
+07/01/10 000000  Pagto via Auto-Atend.BB   10.701                        25,18 D
+07/01/10 000000  INSS Arrecadação          10.702                        93,00 D
+08/01/10 1273-4  Compra com Cartão         144.415                        7,19 D
+                 08/01 12:20 MASTER SERVICOS P                                  
+08/01/10 1273-4  Compra com Cartão         280.030                       22,50 D
+                 08/01 22:13 FAUSTO E MANOEL                                    
+08/01/10 1273-4  Compra com Cartão         381.803                       50,00 D
+                 08/01 22:43 POSTO 105                                          
+11/01/10 1273-4  Compra com Cartão         146.187                       18,46 D
+                 09/01 12:49 PAO NOSSO MIX                                      
+11/01/10 1273-4  Compra com Cartão         246.517                        5,46 D
+                 11/01 12:55 MASTER SERVICOS P                                  
+12/01/10 1273-4  Compra com Cartão         144.140                        8,40 D
+                 12/01 12:15 MASTER SERVICOS P                                  
+12/01/10 1273-4  Compra com Cartão         164.438                       24,07 D
+                 12/01 17:53 DROGARIA ROSARIO                                   
+13/01/10 1273-4  Compra com Cartão         178.627                       22,00 D
+                 13/01 21:50 BRASILIA SHOPPING                                  
+14/01/10 1273-4  Compra com Cartão         128.914                       50,00 D
+                 14/01 08:01 POSTO AMERICAN PE                                  
+14/01/10 1273-4  Compra com Cartão         246.091                       20,73 D
+                 14/01 12:48 ASPARGUS BAR E RE                                  
+15/01/10 1273-4  Compra com Cartão         154.056                       19,00 D
+                 15/01 15:00 FERCON                                             
+18/01/10 4811-9  Depósito bloquead.1d útil 1.927.865.533                700,00 *
+18/01/10 1273-4  Compra com Cartão         145.433                       15,00 D
+                 16/01 12:37 POSTO AMERICAN PE                                  
+19/01/10 1273-4  Compra com Cartão         171.014                       47,63 D
+                 19/01 19:43 C EST SI BON CREP                                  
+19/01/10 1908-9  Cheque Compensado         850.652                       59,00 D
+19/01/10 000000  Desbloqueio de depósito   1.927.865.533                700,00 C
+22/01/10 000000  Recebimento de Proventos  111.938                    3.610,23 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+22/01/10 1273-4  Compra com Cartão         150.106                       19,90 D
+                 22/01 13:55 KALUNGA                                            
+22/01/10 1273-4  Compra com Cartão         261.305                       55,00 D
+                 22/01 17:01 SO REPAROS                                         
+22/01/10 1273-4  Compra com Cartão         363.706                       50,00 D
+                 22/01 17:41 GASOL 405 NORTE                                    
+25/01/10 1273-4  Compra com Cartão         102.392                       32,85 D
+                 24/01 00:39 TALHER BRASIL                                      
+26/01/10 1273-4  Compra com Cartão         128.790                       50,00 D
+                 26/01 07:59 POSTO AMERICAN PE                                  
+26/01/10 4811-9  Saque no TAA              261.707.468.936.761          200,00 D
+                 26/01 17:07 SOP-CORREIOS                                       
+28/01/10 1273-4  Compra com Cartão         145.507                       20,89 D
+                 28/01 12:38 ASPARGUS BAR E RE                                  
+28/01/10 1273-4  Compra com Cartão         247.447                        2,80 D
+                 28/01 13:10 TORTERIA DE LOREN                                  
+28/01/10 000000  Pagamento de Título       12.801                        60,00 D
+29/01/10 1273-4  Compra com Cartão         148.899                       26,70 D
+                 29/01 13:34 CARNE DE SOL 111                                   
+31/01/10 000000  S A L D O                 0                          5.532,12 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,29%
+TAXA CHEQUE ESPECIAL AO ANO                                              132,65%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                OUROCAP - SORTEIO DO DIA 30.01.2010                             
+                DEZENAS SORTEADAS 02 - 07 - 08 - 09 - 19 - 39                   
+                                                                                
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+                Ouvidoria BB 0800 729 5678                                      

@@ -1,0 +1,17 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+04/08/2015 -     AUTOATENDIMENTO      - 13.53.58
+1273401273         SEGUNDA VIA              0020
+            COMPROVANTE DE PAGAMENTO
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  TIM CELULAR S.A.
+Codigo de Barras   84690000000-7   29900109010-7
+                   00122749993-4   89660714199-2
+Data do pagamento                     04/08/2015
+Valor em Dinheiro                          29,90
+Valor em Cheque                             0,00
+Valor Total                                29,90
+------------------------------------------------
+DOCUMENTO:  080405
+AUTENTICACAO SISBB:        F.132.D69.1D4.021.686

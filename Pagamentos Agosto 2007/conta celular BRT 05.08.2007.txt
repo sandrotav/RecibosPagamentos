@@ -1,0 +1,25 @@
+Pagamento de contas de consumo - Água/Luz/Telefone/Gás  
+ 
+
+
+         SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/08/2007  -   AUTO-ATENDIMENTO    -   19.33.41 
+3413403413 
+ 
+            COMPROVANTE DE PAGAMENTO 
+ 
+CLIENTE: SANDRO TAVARES 
+AGENCIA: 3413-4    CONTA:          5.742-8 
+================================================ 
+CONVENIO  BRASIL TELECOM GSM (DF) 
+Codigo de Barras 
+84630000002-9    15630150904-8    66322020070-8 
+83118400000-6 
+Data do pagamento                     06/08/2007 
+Valor Total                               215,63 
+================================================ 
+DOCUMENTO:  080605 
+AUTENTICACAO SISBB: 
+7.20F.62E.E52.961.914 
+         
+

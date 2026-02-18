@@ -1,0 +1,22 @@
+28/02/2013    -  BANCO  DO  BRASIL  -   14:14:07 
+127301273                                   0034 
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BRB - BANCO DE BRASILIA S.A.                     
+------------------------------------------------ 
+07090441684004706611908112070472256230000003200  
+NR. DOCUMENTO                             22.801 
+DATA DO PAGAMENTO                     28/02/2013 
+VALOR DO DOCUMENTO                         32,00 
+VALOR COBRADO                              32,00 
+================================================ 
+                                                 
+NR.AUTENTICACAO            7.068.5D8.950.BB0.8AA 
+
+Transação efetivada com sucesso!
+
+

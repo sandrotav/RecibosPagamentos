@@ -1,0 +1,18 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+09/06/2008  -   AUTO-ATENDIMENTO    -   08.24.18 
+3593903593                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3593-9    CONTA:          5.742-8       
+================================================ 
+Convenio  BRASIL TELECOM GSM (DF)                
+Codigo de Barras   84690000000-7   69210150904-4 
+                   66322020080-7   63118800000-6 
+Data do pagamento                     09/06/2008 
+Valor Total                                69,21 
+================================================ 
+DOCUMENTO:  060901                               
+AUTENTICACAO SISBB:                              
+5.1A8.252.CD8.24D.306                       

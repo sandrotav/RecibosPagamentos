@@ -1,0 +1,28 @@
+04/03/2024    -  BANCO  DO  BRASIL  -   13:25:20
+127301273                                   0005
+                                                
+     AGENDAMENTO DE PAGAMENTO DE TITULOS        
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BANCO DO BRASIL                                 
+------------------------------------------------
+00190000090321615300100218843175796460000009900 
+BENEFICIARIO:                                   
+BL PROVEDOR DE ACESSO A INTERN                  
+NOME FANTASIA:                                  
+BL TELECOMUNICACOES E SERVICOS EIRE             
+CNPJ: 32.111.268/0001-97                        
+PAGADOR:                                        
+Sandro Tavares                                  
+CPF: 011.862.826-73                             
+------------------------------------------------
+NR. DOCUMENTO                             30.501
+NOSSO NUMERO                   32161530000218843
+CONVENIO                                03216153
+DATA DE VENCIMENTO                    05/03/2024
+DATA DO PAGAMENTO                     05/03/2024
+VALOR DO DOCUMENTO                         99,00
+VALOR COBRADO                              99,00
+================================================

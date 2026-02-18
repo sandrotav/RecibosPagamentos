@@ -1,0 +1,112 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+10/06/2010                       Auto-Atendimento                       10:51:31
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/05/10 000000  Saldo Anterior            0                          6.513,58 C
+02/06/10 1273-4  Compra com Cartão         159.903                        5,40 D farmácia Pitangui
+                 02/06 16:38 BRAGACRED CELULAR                                  
+02/06/10 1273-4  Compra com Cartão         260.847                       92,00 D perfume Tati-minha
+                 02/06 16:54 O BOTICARIO                                        
+02/06/10 1273-4  Compra com Cartão         379.082                       24,00 D Zezinho Para de Minas
+                 02/06 21:58 JOSE GERCINO S FI                                  
+04/06/10 000000  Recebimento de Proventos  198.606                    1.136,19 C PLR
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+04/06/10 1273-4  Compra com Cartão         153.913                       13,00 D Óleo carro - Posto latitopo
+                 04/06 14:58 AUTO POSTO PITANG                                  
+04/06/10 0967-9  Saque no TAA              41.348.168.936.761           100,00 D
+                 04/06 13:48 SAA-PITANGUI                                       
+04/06/10 000000  Tar DOC/TED Eletrônico    891.550.800.386.492            8,00 D
+                 Tarifa referente a 31/05/2010                                  
+07/06/10 1273-4  Compra com Cartão         139.268                       65,61 D Abastecimento volta pra casa.
+                 06/06 10:54 POSTO QUATI                                        
+07/06/10 1273-4  Compra com Cartão         259.526                       87,63 D Abastecimento volta pra casa. 
+                 06/06 16:32 POSTO PARACATU                                     
+07/06/10 000000  Pagto cartão crédito      730.127.300.686.761        1.720,82 D
+07/06/10 000000  Pagto cartão crédito      730.127.300.738.996          562,66 D
+07/06/10 000000  Pagamento conta luz       60.701                         5,56 D
+07/06/10 000000  Pagamento conta luz       60.702                        35,79 D
+07/06/10 000000  Pagto conta telefone      60.703                        50,47 D
+07/06/10 000000  Pagamento de Título       60.704                       200,00 D
+07/06/10 000000  Pagamento de Título       60.705                       175,56 D
+07/06/10 000000  Emissão de DOC            60.706                       350,00 D
+07/06/10 000000  Pagamento de Impostos     60.707                        98,22 D
+07/06/10 000000  Pagamento de Impostos     60.708                        53,79 D
+08/06/10 1273-4  Compra com Cartão         162.643                        3,60 D
+                 08/06 17:24 AGENCIA CENTRAL                                    
+08/06/10 4811-9  Saque no TAA              81.228.368.936.761           500,00 D
+                 08/06 12:28 SOP-CORREIOS                                       
+08/06/10 000000  Tarifa DOC/TED Internet   871.590.100.239.829            8,00 D
+                 Tarifa referente a 07/06/2010                                  
+09/06/10 1273-4  Compra com Cartão         150.557                        9,60 D 
+                 09/06 14:02 FUJIOKA 29                                         
+10/06/10 1273-4  Pagto conta telefone      61.001                        93,30 D
+10/06/10 000000  S A L D O                 0                          3.386,76 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      4.686,76 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,44%
+TAXA CHEQUE ESPECIAL AO ANO                                              136,59%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+================================================================================
+                              Lançamentos  Futuros                              
+                                                                                
+16/06/2010   Canc. de agendamento          61.601                        93,30 C
+16/06/2010   Pagamento de Telefone         61.601                        93,30 D
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 BB Crédito Salário              0,00  12.286,00                
+                 BB Crédito Automático           0,00   6.305,00                
+                 BB Crédito Renovação            0,00  12.286,00                
+                 CDC Veículo Próprio             0,00   9.609,00                
+                 BB Crediário/Construção         0,00  11.378,00                
+                 BB Crd Veículo/Leasing          0,00  18.069,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parc Cartão/Ch.Esp       0,00   4.516,00                
+                 Limite Transf p/Cartão      6.520,00   4.757,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  70.000,00                
+                 BB Renov/Reesc.Consig. *        0,00  70.000,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             586,80     428,20                
+                Prestacao para ECF               0,00   1.958,20                
+                Prestacao para Veiculo           0,00     428,20                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento ou Internet.                                        
+                ** Utilizacao do limite sujeita ao enquadramento                
+                nas disposicoes de microcredito.                                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS MAI/10:     54                 
+                TAXA  CONTA  ESPECIAL:   7,69%  P/VOCE:    7,44%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     27                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                COMPRE A TV DOS SEUS SONHOS COM O BB CREDIARIO E                
+                PAGUE EM ATE 60X. CONSULTE SEU LIMITE DE CREDITO                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

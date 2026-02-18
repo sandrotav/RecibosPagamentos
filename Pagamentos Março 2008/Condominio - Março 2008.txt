@@ -1,0 +1,22 @@
+Pagamento de boletos bancários e títulos  
+03/03/2008    -  BANCO  DO  BRASIL  -   16:01:28 
+341303413                                   0022 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 3413-4          CONTA:          5.742-8 
+================================================ 
+BANCO ITAU S.A.                                  
+------------------------------------------------ 
+34191090080940962158940480840004138020000025000  
+NR. DOCUMENTO                             30.302 
+DATA DO PAGAMENTO                     03/03/2008 
+VALOR DO DOCUMENTO                        250,00 
+VALOR COBRADO                             250,00 
+================================================ 
+NR.AUTENTICACAO            A.61F.6CF.9CA.48C.81A 
+
+Transação efetivada com sucesso!
+

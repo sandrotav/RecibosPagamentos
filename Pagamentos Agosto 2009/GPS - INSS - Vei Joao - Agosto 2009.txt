@@ -1,0 +1,35 @@
+Comprovante 
+
+SISBB - Sistema de Informações Banco do Brasil - 05/08/2009 
+- Auto-Atendimento BB - Hora: 15:21:00
+Agência: 1273-4 - Conta: 5742-8 - Cliente: SANDRO TAVARES  
+
+Número de inscrição: 11417600491 
+Código de pagamento: 1406 
+Competência: 72009 
+Data do pagamento: 05/08/2009 
+Valor do INSS: 93,00 
+Valor de outras Entidades: 0,00 
+ATM/Juros/Multa: 0,00 
+Total: 93,00 
+via Empregador
+
+Autenticação: 8.180.7B5.5A9.1BA.D3A  
+
+Cliente: SANDRO TAVARES 
+
+------------------------------------------------------
+
+Número de inscrição: 11417600491 
+Código de pagamento: 1406 
+Competência: 72009 
+Data do pagamento: 05/08/2009 
+Valor do INSS: 93,00 
+Valor de outras Entidades: 0,00 
+ATM/Juros/Multa: 0,00 
+Total: 93,00 
+via Contribuinte
+
+Autenticação: 8.180.7B5.5A9.1BA.D3A  
+
+Transação efetivada com sucesso!

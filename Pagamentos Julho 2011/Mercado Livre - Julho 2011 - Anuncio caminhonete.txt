@@ -1,0 +1,21 @@
+11/07/2011    -  BANCO  DO  BRASIL  -   09:08:28 
+127301273                                   0029 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO BRADESCO S.A.                              
+------------------------------------------------ 
+23793380295970399866277006333304450320000003990  
+NR. DOCUMENTO                             71.101 
+DATA DO PAGAMENTO                     11/07/2011 
+VALOR DO DOCUMENTO                         39,90 
+VALOR COBRADO                              39,90 
+================================================ 
+NR.AUTENTICACAO            8.F8C.C95.F29.154.241 
+
+Transação efetivada com sucesso!
+

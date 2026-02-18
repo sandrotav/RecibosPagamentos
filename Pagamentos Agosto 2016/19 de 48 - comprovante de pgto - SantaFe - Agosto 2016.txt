@@ -1,0 +1,17 @@
+23/08/2016    -  BANCO  DO  BRASIL  -   10:51:32
+127301273                                   0006
+
+     COMPROVANTE DE PAGAMENTO DE TITULOS
+
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BANCO ITAU S.A.
+------------------------------------------------
+34190195463763601097900000060004868920000062241
+NR. DOCUMENTO                             82.201
+DATA DO PAGAMENTO                     22/08/2016
+VALOR DO DOCUMENTO                        622,41
+VALOR COBRADO                             622,41
+================================================
+NR.AUTENTICACAO            1.FF5.A65.486.80D.20F

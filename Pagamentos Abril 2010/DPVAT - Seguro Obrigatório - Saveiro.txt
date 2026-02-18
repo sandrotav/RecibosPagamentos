@@ -1,0 +1,19 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+15/04/2010  -   AUTO-ATENDIMENTO    -   16.47.15 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  DPVAT  SEGURADORA LIDER                
+Codigo de Barras   86600000000-4   98060924860-7 
+                   80007639818-2   34002111007-7 
+Data do pagamento                     15/04/2010 
+Valor em Dinheiro                          98,06 
+Valor em Cheque                             0,00 
+Valor Total                                98,06 
+================================================ 
+DOCUMENTO:  041502                               
+AUTENTICACAO SISBB:        B.183.605.D3F.D50.860                            

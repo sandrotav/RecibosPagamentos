@@ -1,0 +1,17 @@
+09/09/2015    -  BANCO  DO  BRASIL  -   10:27:50
+127301273                                   0007
+                                                
+     COMPROVANTE DE PAGAMENTO DE TITULOS        
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BANCO BRADESCO S.A.                             
+------------------------------------------------
+23794150099943162415613000224504100000000000000 
+NR. DOCUMENTO                             90.905
+DATA DO PAGAMENTO                     09/09/2015
+VALOR DO DOCUMENTO                         39,22
+VALOR COBRADO                              39,22
+================================================
+NR.AUTENTICACAO            5.981.E01.583.881.DFE

@@ -1,0 +1,23 @@
+                                       Transferências » DOC » Transferir  
+ 
+SANDRO TAVARES   Agência: 0815  Conta Corrente: 01-000591-8  
+ CONTA CORRENTE DE ORIGEM    
+Agência 0815 Conta 01 000591-8 
+Remetente SANDRO TAVARES  
+
+ CONTA CORRENTE DE DESTINO    
+Tipo de DOC DOC-D Mesmo Titular sem CPMF  
+Finalidade Crédito em Conta Corrente 
+Tipo de Conta Conta Corrente Individual  
+Banco 1 - BANCO DO BRASIL S.A. 
+Agência (sem dígito) 3413 
+Conta Corrente (com dígito) 57428 
+Favorecido SANDRO TAVARES 
+CPF  011.862.826-73 
+Valor 3.500,00 
+Tarifa do Serviço 0,00 Tarifa Adicional 0,00 
+
+Data da Transação  05/11/2007 Horário   11:54:25h 
+Autenticação Bancária  ABB6974F6135A5546AA5A24 
+
+ 

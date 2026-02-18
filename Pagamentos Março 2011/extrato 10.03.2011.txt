@@ -1,0 +1,103 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+10/03/2011                       Auto-Atendimento                       10:35:13
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+28/02/11 000000  Saldo Anterior            0                          4.031,41 C
+02/03/11 1273-4  Compra com Cartão         170.122                        9,00 D pão
+                 02/03 19:28 RIA 214 NORTE                                      
+02/03/11 000000  Pagto cartão crédito      730.127.300.136.761          459,48 D cartão credito
+02/03/11 000000  Pagamento conta luz       30.201                        48,68 D luz - apto.
+                 CEB                                                            
+02/03/11 000000  Pagamento conta luz       30.202                        53,13 D luz - Solar
+                 CEB                                                            
+02/03/11 000000  Pagamento de Título       30.203                       200,00 D condominio
+                 ITAU UNIBANCO S.A.                                             
+02/03/11 000000  Pagamento de Título       30.204                       184,34 D condominio solar
+                 CONDOMINIO RURAL SOLAR DA SERR                                 
+02/03/11 1903-8  Cheque Compensado         850.694                      126,00 D bateria carro
+03/03/11 1273-4  Compra com Cartão         144.726                       19,93 D almoço restaurante
+                 03/03 12:25 PENINSULA RESTAUR                                  
+03/03/11 1273-4  Compra com Cartão         245.010                        7,20 D almoço banca
+                 03/03 12:30  VITORIA                                           
+03/03/11 000000  Pagamento de Título       30.301                        24,90 D Renner
+                 ITAU UNIBANCO S.A.                                             
+04/03/11 1273-4  Compra com Cartão         121.272                       40,00 D posto Pitangui
+                 04/03 05:54 AUTO POSTO ESTREL                                  
+04/03/11 1273-4  Compra com Cartão         243.166                       49,50 D posto Pitangui
+                 04/03 11:59 POSTO ALIANCA                                      
+04/03/11 1273-4  Compra com Cartão         343.506                        4,50 D sorvete
+                 04/03 12:05 POSTO ALIANCA                                      
+09/03/11 1273-4  Compra com Cartão         141.092                       30,00 D presente Vo
+                 05/03 11:24 A DI FIORI                                         
+09/03/11 1273-4  Compra com Cartão         162.037                       92,01 D  br040
+                 09/03 17:13 POSTO TAMPINHA                                     
+09/03/11 1273-4  Compra com Cartão         242.325                        9,45 D jade - nenem
+                 05/03 11:45 JAD ENXOVAIS                                       
+09/03/11 1273-4  Compra com Cartão         274.713                        9,23 D pra VC
+                 09/03 20:45 SUPERMERCADOS PRA                                  
+09/03/11 1273-4  Compra com Cartão         360.538                       11,98 D sorvete - solução
+                 07/03 16:48 SUPER SOLUCAO SUP                                  
+09/03/11 1273-4  Compra com Cartão         635.244                        7,50 D pastel Para de Minas
+                 09/03 09:47  CONFEC E PRES                                     
+09/03/11 1273-4  Compra com Cartão         737.520                       78,05 D posto pitangui
+                 09/03 10:25 AUTO POSTO F RODR                                  
+09/03/11 1273-4  Compra com Cartão         851.990                        3,50 D estrada Pitangui
+                 09/03 14:26 BAR E RESTAURANTE                                  
+10/03/11 1273-4  Recarga Pré-Pago Celular  82.221.983.006.590            17,00 D credito Tati
+                 6182221983-TIM - Distrito Federal                              
+10/03/11 1273-4  Pagto conta telefone      31.001                       111,75 D Tim
+                 TIM CELULAR S.A.                                               
+10/03/11 1273-4  Pagto conta telefone      31.002                        52,92 D Net
+                 NET BRASILIA                                                   
+10/03/11 000000  S A L D O                 0                          2.381,36 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      3.681,36 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO PESSOAL TODO SEU*                                            30.443,00 C
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,08%
+TAXA CHEQUE ESPECIAL AO ANO                                              154,06%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Estilo                                                        7.286,66
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               30.443,00                
+                BB Crédito Salário                     15.549,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crd Veículo/Leasing                 18.069,00                
+                BB Crediário/Construção                13.391,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS JAN/11:     36                 
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     18                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                                                                                
+                PECA O OUROCARD BONUS CELULAR. SUA ANUIDADE E                   
+                PARTE DOS SEUS GASTOS VIRAM BONUS NO SEU CELULAR                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

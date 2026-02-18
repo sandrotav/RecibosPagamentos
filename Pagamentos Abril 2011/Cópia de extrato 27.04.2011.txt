@@ -1,0 +1,131 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+27/04/2011                       Auto-Atendimento                       10:25:28
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/03/11 000000  Saldo Anterior            0                          5.277,53 C
+01/04/11 1273-4  Compra com Cartão         128.769                       18,34 D
+01/04/11 1273-4  Compra com Cartão         261.224                        5,75 D
+01/04/11 1273-4  Compra com Cartão         382.180                       45,76 D
+01/04/11 1903-8  Cheque Compensado         850.695                      128,00 D
+04/04/11 1273-4  Compra com Cartão         135.363                       11,70 D
+04/04/11 1273-4  Compra com Cartão         141.535                       14,90 D
+04/04/11 1273-4  Compra com Cartão         239.742                       17,80 D
+04/04/11 1273-4  Compra com Cartão         243.174                       14,29 D
+04/04/11 1273-4  Compra com Cartão         341.518                       38,29 D
+04/04/11 1273-4  Compra com Cartão         360.058                        4,74 D
+04/04/11 1273-4  Compra com Cartão         642.127                       50,00 D
+04/04/11 1273-4  Compra com Cartão         744.022                       32,76 D
+04/04/11 1273-4  Compra com Cartão         882.981                        7,90 D
+05/04/11 1273-4  Compra com Cartão         162.842                        9,86 D
+05/04/11 1273-4  Compra com Cartão         274.067                       32,99 D
+05/04/11 1273-4  Compra com Cartão         374.651                        8,77 D
+05/04/11 000000  Recarga Pré-Pago Celular  82.221.983.018.045            17,00 D
+05/04/11 000000  Pagto cartão crédito      730.127.300.026.761          433,54 D
+05/04/11 000000  Pagamento conta luz       40.501                        51,30 D
+05/04/11 000000  Pagamento conta luz       40.502                        48,50 D
+05/04/11 000000  Pagamento de Título       40.503                       200,00 D
+05/04/11 000000  Pagto conta telefone      40.504                       113,31 D
+05/04/11 000000  Pagamento de Título       40.505                       184,34 D
+05/04/11 000000  Pagamento de Impostos     40.506                        59,95 D
+05/04/11 000000  Pagto conta telefone      40.507                        55,26 D
+06/04/11 1273-4  Compra com Cartão         162.392                        3,70 D
+07/04/11 1273-4  Compra com Cartão         148.440                       80,00 D
+07/04/11 1273-4  Compra com Cartão         262.829                        8,00 D
+07/04/11 000000  Pagamento de Título       40.701                        32,00 D
+08/04/11 1273-4  Compra com Cartão         178.022                       10,00 D
+08/04/11 1273-4  Compra com Cartão         278.629                       13,90 D
+08/04/11 1273-4  Compra com Cartão         378.737                        8,40 D
+08/04/11 1903-8  Cheque Compensado         850.704                       95,00 D
+08/04/11 1903-8  Cheque Compensado         850.716                      100,00 D
+11/04/11 1273-4  Compra com Cartão         136.091                       50,00 D
+11/04/11 1273-4  Compra com Cartão         151.340                        7,88 D
+11/04/11 1273-4  Compra com Cartão         238.143                        7,60 D
+11/04/11 1273-4  Compra com Cartão         242.254                       13,00 D
+11/04/11 1273-4  Compra com Cartão         345.001                       22,90 D
+11/04/11 1273-4  Compra com Cartão         350.414                       50,00 D
+11/04/11 1273-4  Compra com Cartão         651.183                        1,69 D
+11/04/11 1273-4  Compra com Cartão         661.871                        3,79 D
+11/04/11 1273-4  Compra com Cartão         751.970                       18,10 D
+11/04/11 1273-4  Compra com Cartão         856.106                       51,11 D
+11/04/11 000000  Pagamento de Impostos     41.101                       109,00 D
+11/04/11 000000  Pagto via Auto-Atend.BB   41.102                       279,27 D
+11/04/11 000000  Pagamento de Impostos     41.103                        45,70 D
+11/04/11 000000  Pagamento de Impostos     41.104                        98,19 D
+13/04/11 1273-4  Compra com Cartão         127.747                       30,00 D
+14/04/11 1273-4  Compra com Cartão         142.191                        8,24 D
+15/04/11 2887-8  Transferência on line     552.887.000.012.122          500,00 C
+15/04/11 1273-4  Compra com Cartão         147.238                       50,00 D
+15/04/11 1903-8  Cheque Compensado         850.715                       40,00 D
+18/04/11 1273-4  Compra com Cartão         143.912                      187,00 D
+18/04/11 1273-4  Compra com Cartão         244.634                        8,64 D
+18/04/11 000000  Pagamento de Impostos     41.801                       389,02 D
+18/04/11 000000  Pagto via Auto-Atend.BB   41.802                       105,68 D
+19/04/11 1273-4  Compra com Cartão         145.114                       19,22 D
+19/04/11 1273-4  Compra com Cartão         264.018                      211,00 D
+19/04/11 1273-4  Compra com Cartão         366.774                        6,50 D
+19/04/11 1273-4  Compra com Cartão         674.270                        7,98 D
+20/04/11 1273-4  Compra com Cartão         163.466                       20,00 D
+20/04/11 1273-4  Compra com Cartão         264.085                       50,00 D
+25/04/11 1273-4  Compra com Cartão         176.298                       32,00 D
+25/04/11 1273-4  Compra com Cartão         201.914                       46,35 D
+25/04/11 0967-9  Saque no TAA              241.707.328.936.761          200,00 D
+25/04/11 0967-9  Saque no TAA              251.451.148.936.761          100,00 D
+25/04/11 000000  Tarifa SMS - Mês Anterior 891.150.800.160.820            2,50 D
+26/04/11 000000  Recarga Pré-Pago Celular  82.221.983.508.487            17,00 D
+26/04/11 4811-9  Saque no TAA              261.344.548.936.761          100,00 D
+26/04/11 1903-8  Cheque Compensado         850.714                      100,00 D
+27/04/11 000000  S A L D O                 0                          1.332,12 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      2.632,12 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO PESSOAL TODO SEU*                                            32.670,00 C
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,08%
+TAXA CHEQUE ESPECIAL AO ANO                                              154,06%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Plus Est                                                      7.381,81
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               32.670,00                
+                BB Crédito Salário                     14.862,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crd Veículo/Leasing                 18.069,00                
+                BB Crediário/Construção                13.391,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS MAR/11:     34                 
+                TAXA  CONTA  ESPECIAL:   8,27%  P/VOCE:    8,08%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     17                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                PROMOCAO OUROCARD VISA RIO. VA VOANDO                           
+                GANHAR PREMIOS. SAIBA MAIS EM BB.COM.BR                         
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

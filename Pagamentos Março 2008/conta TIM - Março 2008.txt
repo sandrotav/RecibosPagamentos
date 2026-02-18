@@ -1,0 +1,22 @@
+Pagamento de contas de consumo - Água/Luz/Telefone/Gás  
+         SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/03/2008  -   AUTO-ATENDIMENTO    -   15.27.07 
+3413403413                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3413-4    CONTA:          5.742-8       
+================================================ 
+Convenio  TIM CELULAR S.A.                       
+Codigo de Barras   84610000000-5   89290109010-0 
+                   00018585177-1   95060299299-8 
+Data do pagamento                     05/03/2008 
+Valor Total                                89,29 
+================================================ 
+DOCUMENTO:  030503                               
+AUTENTICACAO SISBB:                              
+C.8C9.B33.3AE.15C.8D1                            
+
+Transação efetivada com sucesso!
+

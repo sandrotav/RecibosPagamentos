@@ -1,0 +1,30 @@
+Pagamento de cobrança bancária e títulos na conta corrente 
+ 
+
+
+    17/08/2011    -  BANCO  DO  BRASIL  -   08:32:11 
+127301273                                   0003 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO DO BRASIL                                  
+------------------------------------------------ 
+00192533272000000000806323254216550670000019154  
+NR. DOCUMENTO                             81.701 
+NOSSO NUMERO                             6323254 
+CONVENIO                                00253322 
+DPRF DEP POLICIA RODOVIARIA FE                   
+AGENCIA/COD. CEDENTE               1607/00333131 
+DATA DE VENCIMENTO                    22/08/2011 
+DATA DO PAGAMENTO                     17/08/2011 
+VALOR DO DOCUMENTO                        191,54 
+VALOR COBRADO                             191,54 
+================================================ 
+NR.AUTENTICACAO            3.72D.164.A74.95E.EDA 
+
+Transação efetivada com sucesso!
+

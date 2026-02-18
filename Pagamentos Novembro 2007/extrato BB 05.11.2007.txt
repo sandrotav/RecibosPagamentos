@@ -1,0 +1,74 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+05/11/2007                       Auto-Atendimento                       12:04:50
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 3413-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data       Ag.Org  Histórico                 Documento                     Valor
+                                                                                
+25/10/2007 000000  Saldo Anterior            0                        6.252,77 C
+29/10/2007 3413-4  Compra com Cartão         145.453                     41,37 D super adega
+                                  29/10 12:37 SUPER ADEGA 
+30/10/2007 3413-4  Compra com Cartão         146.057                     15,00 D feira paraguai
+                                  30/10 12:47 FEST TRICOT 
+30/10/2007 3413-4  Compra com Cartão         248.263                     15,63 D feira paraguai
+                              30/10 13:24 KOMIDA DA KOMBI 
+30/10/2007 1339-0  Transferência on line     220.452.000.038.472         75,00 D passagem pitangui TAth
+30/10/2007 1339-0  Saque no TAA              301.331.295.851.322         60,00 D ida para Pitangui
+                                    30/10 13:31 SAA-CEASA 
+31/10/2007 1903-8  Cheque Compensado         850.571                     51,99 D combustivel
+05/11/2007 000000  CPMF                      0                            1,20 D
+05/11/2007 9008-5  Compra com Cartão         149.677                     38,66 D ferreirão
+                             03/11 13:47 SUPERM FERREIRAO 
+05/11/2007 0967-9  Saque no TAA              31.406.375.851.322         100,00 D saque pitangui
+                                 03/11 14:06 SAA-PITANGUI 
+05/11/2007 000000  S A L D O                 0                        5.853,92 C
+--------------------------------------------------------------------------------
+LIMITE CH.ESPECIAL CLASSIC                                            1.500,00 C
+SALDO DISPONIVEL                                                      7.353,92 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CPMF                                                                      0,52 -
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CH.ESPECIAL CLASSIC AO MÊS                                            7,52%
+TAXA CH.ESPECIAL CLASSIC AO ANO                                          138,71%
+DT. VENC. CH. ESP.                                                    31/10/2008
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor     Limite                
+                Financiamento BB            Utilizado Disponivel                
+                ----------------            --------- ----------                
+                                                                                
+                 CDC Salario                     0,00  13.719,00                
+                 CDC Emprestimo Eletronico       0,00  13.719,00                
+                 CDC Renovacao                   0,00  19.360,00                
+                 CDC Veiculo Proprio             0,00  17.407,00                
+                 BB Crediario/Construcao         0,00  20.000,00                
+                 BB Mat Construcao ate 36m       0,00  17.500,00                
+                 BB Crd Veiculo/Leasing          0,00  25.000,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parcelado Cartao         0,00  17.854,00                
+                 Limite Transf p/Cartao      1.778,00   9.499,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  27.153,00                
+                 BB Renovacao Consignacao*       0,00  27.153,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             160,02     854,98                
+                Prestacao para ECF               0,00   1.218,98                
+                Prestacao para Veiculo           0,00     854,98                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS SET/07:     12                 
+                TAXA  CONTA  ESPECIAL:   7,56%  P/VOCE:    7,52%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:      6                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                Fundos de investimento BB. Bons rendimentos com                 
+                o dobro de pontos no programa de relacionamento.                
+                ------------------------------------------------                
+                                                                                
+                NO BB, BENEFICIARIO DO INSS TEM EMPRESTIMO                      
+                COM DESCONTO EM FOLHA. ACESSE BB.COM.BR.                        
+                                                                                
+

@@ -1,0 +1,170 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+05/09/2013                       Auto-Atendimento                       10:33:59
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/07/13 000000  Saldo Anterior            0                          5.076,32 C
+01/08/13 4811-9  Transferência on line     224.267.000.158.085          170,00 C
+                 01/08 4267     158085-X JOSE WILSON SI                         
+01/08/13 1273-4  Compra com Cartão         143.825                      324,94 D
+                 01/08 12:10    BRASILIA SUL LJ 5                               
+01/08/13 1273-4  Compra com Cartão         245.463                       42,90 D
+                 01/08 12:37 AL BRASIL                                          
+02/08/13 1273-4  Compra com Cartão         129.849                        8,82 D
+                 02/08 08:17    CAPRI PANIFICADOR                               
+02/08/13 1273-4  Compra com Cartão         241.171                       15,50 D
+                 02/08 11:26    CASA DE CARNES QU                               
+02/08/13 1273-4  Compra com Cartão         341.459                       12,94 D
+                 02/08 11:30 URANTE PIMENTA RO                                  
+02/08/13 1273-4  Compra com Cartão         641.743                       50,00 D
+                 02/08 11:35    CASCOL COMBUSTIVE                               
+02/08/13 1273-4  Compra com Cartão         767.270                       11,80 D
+                 02/08 18:41    PAO DOURADO                                     
+02/08/13 1273-4  Transferido para Poupança 523.593.510.015.068          300,00 D
+                 02/08 3593  510015068-4 TATIANE SILVA                          
+02/08/13 1273-4  Transferido para Poupança 523.599.510.015.207           50,00 D
+                 02/08 3599  510015207-5 WIRES OLIVEIRA                         
+02/08/13 1903-8  Cheque Compensado         850.756                       52,00 D
+05/08/13 1273-4  Transferido da poupança   1.273.960.005.742          1.500,00 C
+                 05/08 1273       5742-8 SANDRO TAVARES                         
+05/08/13 1273-4  Compra com Cartão         153.857                       25,50 D
+                 03/08 14:57    AUTO POSTO MARIAN                               
+05/08/13 1273-4  Compra com Cartão         274.958                       42,26 D
+                 04/08 20:49 R BRASIL                                           
+05/08/13 1273-4  Compra com Cartão         331.642                        8,30 D
+                 05/08 08:47 DINHA PREMIUM                                      
+05/08/13 1273-4  Compra com Cartão         650.937                       27,47 D
+                 05/08 14:08    ALPHABETO                                       
+05/08/13 000000  Pagamento de Título       80.501                       250,00 D
+                 ITAU UNIBANCO S.A.                                             
+05/08/13 000000  Pagamento de Impostos     80.502                        59,90 D
+                 GDF CONTA ARRECADACAO                                          
+05/08/13 000000  Pagto conta telefone      80.503                        78,28 D
+                 TIM CELULAR S.A.                                               
+05/08/13 000000  Pagto conta telefone      80.504                        71,30 D
+                 NET BRASILIA                                                   
+05/08/13 000000  Pagamento conta luz       80.505                        48,48 D
+                 CEB                                                            
+05/08/13 000000  Pagamento de Título       80.506                       739,93 D
+                 BANCO SANTANDER (BRASIL) S.A.                                  
+05/08/13 000000  Pagto cartão crédito      52.986.461                 2.718,46 D
+06/08/13 4811-9  Transferido da poupança   1.606.510.059.092            340,00 C
+                 06/08 1606      59092-4 JOAO FRANCISCO                         
+06/08/13 1273-4  Compra com Cartão         129.780                       50,00 D
+                 06/08 08:16  CASCOL 210 N                                      
+06/08/13 1273-4  Compra com Cartão         242.883                        8,84 D
+                 06/08 11:54    PENINSULA RESTAUR                               
+06/08/13 000000  Pagamento de Impostos     80.601                        74,58 D
+                 GPS - CODIGO DE BARRAS                                         
+06/08/13 000000  Pagamento de Impostos     80.602                       135,60 D
+                 GPS - CODIGO DE BARRAS                                         
+07/08/13 1903-8  Cheque Compensado         850.758                    1.438,00 D
+08/08/13 000000  TED Transf.Eletr.Disponív 3.709.433                    600,00 C
+                 070 0237     2924662184 JESSICA WRIGHT                         
+08/08/13 1273-4  Compra com Cartão         142.266                       46,84 D
+                 08/08 11:44    CASA DE CARNES QU                               
+08/08/13 000000  Telefone Pre-Pago         82.221.983.007.929            18,00 D
+                 61082221983-TIM - Distrito Federal                             
+09/08/13 1273-4  Compra com Cartão         148.251                        9,24 D
+                 09/08 13:24    MASTER SERVICOS P                               
+09/08/13 1273-4  Compra com Cartão         279.675                       10,00 D
+                 09/08 22:07 NDO PEREIRA RAMOS                                  
+12/08/13 4811-9  Transferido da poupança   1.606.510.059.092             30,00 C
+                 12/08 1606      59092-4 JOAO FRANCISCO                         
+12/08/13 1273-4  Compra com Cartão         150.844                       11,25 D
+                 10/08 14:07    MAIS BARATO GASOL                               
+12/08/13 1273-4  Compra com Cartão         259.124                       50,00 D
+                 10/08 16:25  CASCOL 210 N                                      
+12/08/13 000000  Telefone Pre-Pago         99.643.395.516.815            15,00 D
+                 61099643395-Vivo AC,DF,GO,MS,MT,RO,TO                          
+12/08/13 000000  Telefone Pre-Pago         99.726.009.516.799            15,00 D
+                 61099726009-Vivo AC,DF,GO,MS,MT,RO,TO                          
+12/08/13 1273-4  Transferência on line     521.236.000.019.771           20,00 D
+                 12/08 1236      19771-8 NAIARA BARBOSA                         
+12/08/13 000000  Pagam Presta Créd Imobili 127.300.339.000.454          769,88 D
+14/08/13 000000  Recebimento de Proventos  23.013                     6.970,98 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+14/08/13 1273-4  Compra com Cartão         147.233                        8,15 D
+                 14/08 13:07 R ALIMENTOS                                        
+14/08/13 1273-4  Compra com Cartão         250.300                       47,22 D
+                 14/08 13:58 RIA ROSARIO                                        
+14/08/13 1273-4  Compra com Cartão         350.524                       18,00 D
+                 14/08 14:02    LE SE NECHAL                                    
+14/08/13 1273-4  Compra com Cartão         661.183                        7,50 D
+                 14/08 16:59 R ALIMENTOS                                        
+14/08/13 4811-9  Saque no TAA              141.537.228.643.696          400,00 D
+                 14/08 15:37 SOP-CORREIOS                                       
+14/08/13 1273-4  Aplicação Poupança        521.273.510.005.742          500,00 D
+                 14/08 1273  510005742-0 SANDRO TAVARES                         
+14/08/13 1273-4  Aplicação Poupança        521.273.960.005.742        5.000,00 D
+                 14/08 1273  960005742-2 SANDRO TAVARES                         
+16/08/13 1273-4  Compra com Cartão         161.105                        9,00 D
+                 16/08 16:58    PONTO DO QUEIJO                                 
+19/08/13 1273-4  Compra com Cartão         156.221                        3,00 D
+                 17/08 15:37    BOULEVARD BRASILI                               
+19/08/13 1273-4  Compra com Cartão         271.634                       64,00 D
+                 19/08 19:53    DEPYL ACTION                                    
+20/08/13 1273-4  Compra com Cartão         141.844                       32,45 D
+                 20/08 11:37    CAPRI RESTAURANTE                               
+21/08/13 000000  Produtos Brasilcap        145.023                      441,39 C
+                 BRASILCAP CAPITALIZACAO S A                                    
+21/08/13 1273-4  Compra com Cartão         142.322                       10,97 D
+                 21/08 11:45    RESTAURANTE SABOR                               
+21/08/13 1273-4  Compra com Cartão         242.706                       15,18 D
+                 21/08 11:51 OX 408 409 NORTE                                   
+21/08/13 1273-4  Compra com Cartão         361.091                       24,00 D
+                 21/08 16:58  DO QUEIJO                                         
+21/08/13 000000  Telefone Pre-Pago         82.221.983.525.492            18,00 D
+                 61082221983-TIM - Distrito Federal                             
+21/08/13 000000  Pagamento de Título       82.101                       224,00 D
+                 BANCO BRADESCO S.A.                                            
+22/08/13 1273-4  Compra com Cartão         162.632                      140,35 D
+                 22/08 17:23    POSTO GT                                        
+23/08/13 1273-4  Compra com Cartão         129.493                       10,40 D
+                 23/08 08:11 URANTE PORTAL MINA                                 
+23/08/13 1273-4  Compra com Cartão         238.421                      146,00 D
+                 23/08 10:40    POSTO BEIRA RIO                                 
+23/08/13 1273-4  Compra com Cartão         342.280                      142,00 D
+                 23/08 11:44    REST REI DO PEIXE                               
+26/08/13 1273-4  Compra com Cartão         140.116                       23,30 D
+                 24/08 11:08    LOJA OSCAR MORATO                               
+26/08/13 1273-4  Compra com Cartão         241.313                       25,00 D
+                 24/08 11:28 RIA PINTANGUI                                      
+26/08/13 1273-4  Compra com Cartão         354.228                       25,80 D
+                 26/08 15:03    BAR MERCEARIA PIT                               
+26/08/13 1273-4  Compra com Cartão         660.605                        4,20 D
+                 26/08 16:50 POPULAR                                            
+26/08/13 0967-9  Saque no TAA              261.514.478.643.696          100,00 D
+                 26/08 15:14 SAA-PITANGUI                                       
+26/08/13 000000  Pagto Mensalidade Seguro  1.597                        365,63 D
+28/08/13 000000  Depósito COMPE            937.954                      935,67 C
+                 237 2837    25892378802 RODOLFO VILELA                         
+29/08/13 1273-4  Compra com Cartão         145.368                       80,52 D
+                 29/08 12:36 MECADO PITANGUI                                    
+30/08/13 000000  Recebimento de Proventos  380.628                    4.913,03 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+30/08/13 1273-4  Compra com Cartão         157.227                       32,00 D
+                 30/08 15:53 AO MODAS                                           
+30/08/13 0967-9  Saque no TAA              301.524.368.643.696          180,00 D
+                 30/08 15:24 SAA-PITANGUI                                       
+31/08/13 000000  S A L D O                 0                          5.709,71 C
+--------------------------------------------------------------------------------
+Limite Cheque Especial                                                1.300,00 C
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                4,09%
+Taxa Cheque Especial AO ANO                                               61,77%
+DT. VENC. CH. ESP.                                                    29/11/2013
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                O SEU CARTAO JA ESTA' DISPONIVEL EM SUA AGENCIA.                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

@@ -1,0 +1,171 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+12/08/2013                       Auto-Atendimento                       10:40:41
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/07/13 000000  Saldo Anterior            0                          5.076,32 C
+01/08/13 4811-9  Transferência on line     224.267.000.158.085          170,00 C
+                 01/08 4267     158085-X JOSE WILSON SI                         
+01/08/13 1273-4  Compra com Cartão         143.825                      324,94 D
+                 01/08 12:10    BRASILIA SUL LJ 5                               
+01/08/13 1273-4  Compra com Cartão         245.463                       42,90 D
+                 01/08 12:37 AL BRASIL                                          
+02/08/13 1273-4  Compra com Cartão         129.849                        8,82 D
+                 02/08 08:17    CAPRI PANIFICADOR                               
+02/08/13 1273-4  Compra com Cartão         241.171                       15,50 D
+                 02/08 11:26    CASA DE CARNES QU                               
+02/08/13 1273-4  Compra com Cartão         341.459                       12,94 D
+                 02/08 11:30 URANTE PIMENTA RO                                  
+02/08/13 1273-4  Compra com Cartão         641.743                       50,00 D
+                 02/08 11:35    CASCOL COMBUSTIVE                               
+02/08/13 1273-4  Compra com Cartão         767.270                       11,80 D
+                 02/08 18:41    PAO DOURADO                                     
+02/08/13 1273-4  Transferido para Poupança 523.593.510.015.068          300,00 D
+                 02/08 3593  510015068-4 TATIANE SILVA                          
+02/08/13 1273-4  Transferido para Poupança 523.599.510.015.207           50,00 D
+                 02/08 3599  510015207-5 WIRES OLIVEIRA                         
+02/08/13 1903-8  Cheque Compensado         850.756                       52,00 D
+05/08/13 1273-4  Transferido da poupança   1.273.960.005.742          1.500,00 C
+                 05/08 1273       5742-8 SANDRO TAVARES                         
+05/08/13 1273-4  Compra com Cartão         153.857                       25,50 D
+                 03/08 14:57    AUTO POSTO MARIAN                               
+05/08/13 1273-4  Compra com Cartão         274.958                       42,26 D
+                 04/08 20:49 R BRASIL                                           
+05/08/13 1273-4  Compra com Cartão         331.642                        8,30 D
+                 05/08 08:47 DINHA PREMIUM                                      
+05/08/13 1273-4  Compra com Cartão         650.937                       27,47 D
+                 05/08 14:08    ALPHABETO                                       
+05/08/13 000000  Pagamento de Título       80.501                       250,00 D
+                 ITAU UNIBANCO S.A.                                             
+05/08/13 000000  Pagamento de Impostos     80.502                        59,90 D
+                 GDF CONTA ARRECADACAO                                          
+05/08/13 000000  Pagto conta telefone      80.503                        78,28 D
+                 TIM CELULAR S.A.                                               
+05/08/13 000000  Pagto conta telefone      80.504                        71,30 D
+                 NET BRASILIA                                                   
+05/08/13 000000  Pagamento conta luz       80.505                        48,48 D
+                 CEB                                                            
+05/08/13 000000  Pagamento de Título       80.506                       739,93 D
+                 BANCO SANTANDER (BRASIL) S.A.                                  
+05/08/13 000000  Pagto cartão crédito      52.986.461                 2.718,46 D
+06/08/13 4811-9  Transferido da poupança   1.606.510.059.092            340,00 C
+                 06/08 1606      59092-4 JOAO FRANCISCO                         
+06/08/13 1273-4  Compra com Cartão         129.780                       50,00 D
+                 06/08 08:16  CASCOL 210 N                                      
+06/08/13 1273-4  Compra com Cartão         242.883                        8,84 D
+                 06/08 11:54    PENINSULA RESTAUR                               
+06/08/13 000000  Pagamento de Impostos     80.601                        74,58 D
+                 GPS - CODIGO DE BARRAS                                         
+06/08/13 000000  Pagamento de Impostos     80.602                       135,60 D
+                 GPS - CODIGO DE BARRAS                                         
+07/08/13 1903-8  Cheque Compensado         850.758                    1.438,00 D
+08/08/13 000000  TED Transf.Eletr.Disponív 3.709.433                    600,00 C
+                 070 0237     2924662184 JESSICA WRIGHT                         
+08/08/13 1273-4  Compra com Cartão         142.266                       46,84 D
+                 08/08 11:44    CASA DE CARNES QU                               
+08/08/13 000000  Telefone Pre-Pago         82.221.983.007.929            18,00 D
+                 61082221983-TIM - Distrito Federal                             
+09/08/13 1273-4  Compra com Cartão         148.251                        9,24 D
+                 09/08 13:24    MASTER SERVICOS P                               
+09/08/13 1273-4  Compra com Cartão         279.675                       10,00 D
+                 09/08 22:07 NDO PEREIRA RAMOS                                  
+12/08/13 9008-5  Compra com Cartão         150.844                       11,25 D
+                 10/08 14:07    MAIS BARATO GASOL                               
+12/08/13 9008-5  Compra com Cartão         259.124                       50,00 D
+                 10/08 16:25  CASCOL 210 N                                      
+12/08/13 1273-4  Transferência on line     521.236.000.019.771           20,00 D
+                 12/08 1236      19771-8 NAIARA BARBOSA                         
+12/08/13 000000  S A L D O                 0                            875,19 C
+--------------------------------------------------------------------------------
+Limite Cheque Especial                                                1.300,00 C
+Saldo Disponivel                                                      2.175,19 C
+Juros                                                                       0,00
+Data de Debito de Juros                                             2./09./20,13
+IOF                                                                         0,00
+Data de Debito de IOF                                               2./09./20,13
+CREDITO BOMPRATODOS*                                                 63.925,00 C
+Dias de Uso Ch. Especial                                                    0,00
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                4,09%
+Taxa Cheque Especial AO ANO                                               61,77%
+DT. VENC. CH. ESP.                                                    29/11/2013
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB CP Estilo                                                            1.318,38
+T O T A L                                                               1.318,38
+                                                                                
+                ================================================                
+                Linhas de Crédito           Crédito BOMPRATODOS*                
+                ----------------- Crédito Novo -----------------                
+                BB Crédito Salário                     63.925,00                
+                BB Crd Consig em Folha**               58.065,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crd Veículo/Leasing                 56.764,00                
+                BB Crediário/Construção                50.000,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                Taxa Máxima Conta Especial: 5,80% P/você: 4,09%*                
+                                                                                
+                Você que optou pelo pacote de serviços                          
+                BOMPRATODOS com benefícios exclusivos,                          
+                pode parcelar o valor utilizado do cheque                       
+                especial com condições especiais. Para saber                    
+                mais, acesse www.bompratodos.com.br.                            
+                ------------------------------------------------                
+                                                                                
+                O SEU CARTAO JA ESTA' DISPONIVEL EM SUA AGENCIA.                
+                                                                                
+                Aberto o Programa Banco do Brasil de Patrocínios                
+                2014. Conheça o edital e inscreva seu projeto.                  
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+
+
+
+
+
+Movimentação dos últimos 5 dias 
+   Data Ag. Origem Histórico Documento Valor (R$)    
+   07/08/2013 0 Saldo Ante 0 440,52 C    
+   08/08/2013 0 TED 3.709.433 600,00 C    
+   08/08/2013 1273 Compra com Cartão 142.266 46,84 D    
+   08/08/2013 0 PRE-PAGO 82.221.983.007.929 18,00 D    
+   09/08/2013 1273 Compra com Cartão 148.251 9,24 D    
+   09/08/2013 1273 Compra com Cartão 279.675 10,00 D    
+   12/08/2013 4811 POUPANCA 1.606.510.059.092 30,00 C    
+   12/08/2013 1273 Compra com Cartão 150.844 11,25 D    
+   12/08/2013 1273 Compra com Cartão 259.124 50,00 D    
+   12/08/2013 0 PRE-PAGO 99.643.395.516.815 15,00 D    
+   12/08/2013 0 PRE-PAGO 99.726.009.516.799 15,00 D    
+   12/08/2013 1273 Transferência online 521.236.000.019.771 20,00 D    
+   12/08/2013 0 PAGA PREST 127.300.339.000.454 769,88 D    
+   13/08/2013 0 S A L D O 0 105,31 C    
+ 
+   Limite Cheque Especial 1.300,00 C    
+   Saldo Disponivel 1.405,31 C    
+   Juros 0,00     
+   IOF 0,00     
+ 
+   CREDITO BOMPRATODOS* 63.925,00 C    
+   Dias de Uso Ch. Especial 0    
+ 
+   Taxa Cheque Ouro ao mês 4,09 %    
+   Taxa Cheque Ouro ao ano 61,77 %    
+   Data Vencimento Cheque Especial 29/11/2013    
+    CONSULTE O EXTRATO COMPLETO DE SUA CONTA CORRENTE   
+ Lançamentos Futuros 
+  Você não possui Lançamentos Futuros 
+  

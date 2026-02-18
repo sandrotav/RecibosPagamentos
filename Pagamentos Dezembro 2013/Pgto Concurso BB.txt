@@ -1,0 +1,26 @@
+
+13/12/2013    -  BANCO  DO  BRASIL  -   15:37:18
+127301273                                   0022
+                                                
+     COMPROVANTE DE PAGAMENTO DE TITULOS        
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BANCO DO BRASIL                                 
+------------------------------------------------
+00190000090174633405920051683181659150000004000 
+NR. DOCUMENTO                            121.301
+NOSSO NUMERO                   17463340520051683
+CONVENIO                                01746334
+FUNDACAO CESGRANRIO                             
+AGENCIA/COD. CEDENTE               3100/00001205
+DATA DE VENCIMENTO                    17/12/2013
+DATA DO PAGAMENTO                     13/12/2013
+VALOR DO DOCUMENTO                         40,00
+VALOR COBRADO                              40,00
+================================================
+                                                
+NR.AUTENTICACAO            2.675.B0C.E04.A27.95F
+
+Transação efetivada com sucesso!

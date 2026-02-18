@@ -1,0 +1,20 @@
+Pagamento de contas de consumo - Água/Luz/Telefone/Gás  
+         SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/03/2008  -   AUTO-ATENDIMENTO    -   15.22.48 
+3413403413                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3413-4    CONTA:          5.742-8       
+================================================ 
+Convenio  DPVAT  SEGURADORA LIDER                
+Codigo de Barras   86690000000-5   84870924860-5 
+                   89227417000-0   10000200807-4 
+Data do pagamento                     05/03/2008 
+Valor Total                                84,87 
+================================================ 
+DOCUMENTO:  030502                               
+AUTENTICACAO SISBB:                              
+4.489.0ED.DE8.291.025                            
+         

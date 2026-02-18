@@ -1,0 +1,34 @@
+SISBB - Sistema de Informações Banco do Brasil - 02/03/2010 - Auto-Atendimento BB - Hora: 11:14:47
+Agência: 1273-4 - Conta: 5742-8 - Cliente: SANDRO TAVARES  
+
+
+Número de inscrição: 11417600491 
+Código de pagamento: 1406 
+Competência: 22010 
+Data do pagamento: 02/03/2010 
+Valor do INSS: 102,00 
+Valor de outras Entidades: 0,00 
+ATM/Juros/Multa: 0,00 
+Total: 102,00 
+
+Autenticação: D.60F.BEA.FCD.160.831  
+
+Cliente: SANDRO TAVARES 
+
+-----------------------------------------------------------
+ 
+
+Número de inscrição: 11417600491 
+Código de pagamento: 1406 
+Competência: 22010 
+Data do pagamento: 02/03/2010 
+Valor do INSS: 102,00 
+Valor de outras Entidades: 0,00 
+ATM/Juros/Multa: 0,00 
+Total: 102,00 
+via Contribuinte
+
+Autenticação: D.60F.BEA.FCD.160.831  
+ 
+
+Transação efetivada com sucesso!

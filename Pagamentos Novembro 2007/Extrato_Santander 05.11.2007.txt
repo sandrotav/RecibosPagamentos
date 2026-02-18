@@ -1,0 +1,35 @@
+Período: 03/11/2007 a 05/11/2007 Data/Hora: 5/11/2007 às 12:13h 
+ 
+Data     Histórico  Documento  Valor  Saldo 
+ 
+ 
+05/11/2007   M   SLD ANTERIOR           
+ 
+05/11/2007   M   LIQ VCTOS  011101  4.583,24      
+ 
+05/11/2007      PGTO TITULO  112238  -250,00      
+ 
+05/11/2007      PGTO TITULO  112707  -177,38      
+ 
+05/11/2007      DOC D BCE  009525  -3.500,00   655,86  
+ 
+ 
+ 
+ A - Saldo de ContaMax 655,86  
+ B - Limite de Cheque Especial 4.218,00  
+ C - Fundos com Resgate Automático  0,00  
+ D - Total dos Saldos (A + B + C)  4.873,86  
+ E - Total Bloqueado   0,00  
+ 
+  Desbloqueio em 1 dia 0,00  
+ Desbloqueio em 2 dias 0,00  
+ Desbloqueio em mais de 2 dias 0,00  
+ 
+ 
+ 
+ 
+ F - Disponível para Saque (D - E)  4.873,86  
+ 
+ 
+M = Movimentações de ContaMax. 
+ 

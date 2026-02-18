@@ -1,0 +1,146 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+14/12/2011                       Auto-Atendimento                       10:50:31
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/11/11 000000  Saldo Anterior            0                          4.536,51 C
+01/12/11 2887-8  Transferência on line     552.887.000.012.122          700,00 C
+                 01/12 2887      12122-3 RONALDO & ALIN                         
+01/12/11 000000  Recebimento de Proventos  280.125                    1.747,51 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+01/12/11 1273-4  Compra com Cartão         166.867                       50,00 D
+                 01/12 18:34    SMAFF COMBUSTIVEI                               
+01/12/11 1903-8  Cheque Compensado         850.721                      180,00 D
+02/12/11 000000  Tarifa SMS - Mês Anterior 853.351.300.019.107            3,50 D
+                 Tarifa referente a 01/12/2011                                  
+05/12/11 1273-4  Compra com Cartão         137.542                       22,08 D
+                 03/12 10:25    CASA DE BISCOITOS                               
+05/12/11 1273-4  Compra com Cartão         166.832                        9,80 D
+                 04/12 18:33    PANETUTTI                                       
+05/12/11 1273-4  Estorno de Débito         166.832                        9,80 C
+05/12/11 1273-4  Compra com Cartão         250.490                       12,00 D
+                 03/12 14:01  DE SOL 712 NORTE                                  
+05/12/11 1273-4  Compra com Cartão         351.701                       27,80 D
+                 04/12 14:21    PATRONI PIZZA                                   
+05/12/11 1273-4  Compra com Cartão         366.894                        9,80 D
+                 04/12 18:34    PANETUTTI                                       
+05/12/11 1273-4  Compra com Cartão         656.627                        5,03 D
+                 04/12 15:43 FOUR BAN 363                                       
+05/12/11 1273-4  Compra com Cartão         756.900                       16,00 D
+                 04/12 15:48 FOUR BAN 363                                       
+05/12/11 1273-4  Compra com Cartão         866.071                       17,88 D
+                 04/12 18:21    SUPERMAIA                                       
+05/12/11 1273-4  Aplicação Poupança        10.005.742                   500,00 D
+                 05/12 1273   10005742-X SANDRO TAVARES                         
+05/12/11 1273-4  Aplicação Poupança        910.005.742                  500,00 D
+                 05/12 1273  910005742-3 SANDRO TAVARES                         
+05/12/11 4811-9  Saque com cartão          50.813.388.936.761           150,00 D
+                 05/12 08:13 SOP-CORREIOS                                       
+05/12/11 000000  Pagto cartão crédito      730.127.300.496.761          136,38 D
+05/12/11 000000  BB Ref DI Plus Estilo     1.200.032                  1.000,00 D
+05/12/11 000000  Pagamento de Título       120.501                      200,00 D
+                 ITAU UNIBANCO S.A.                                             
+05/12/11 000000  Pagamento conta luz       120.502                       49,07 D
+                 CEB                                                            
+06/12/11 1273-4  Compra com Cartão         142.127                       10,33 D
+                 06/12 11:42    PENINSULA RESTAUR                               
+06/12/11 000000  Telefone Pre-Pago         82.221.983.504.552            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+06/12/11 000000  Pagamento de Impostos     120.601                       59,95 D
+                 GPS - CODIGO DE BARRAS                                         
+06/12/11 000000  Pagto conta telefone      120.602                      132,14 D
+                 NET BRASILIA                                                   
+07/12/11 1273-4  Compra com Cartão         161.660                       19,00 D
+                 07/12 17:07 LEMAO                                              
+08/12/11 1273-4  Compra com Cartão         143.414                       13,80 D
+                 08/12 12:03    PENINSULA RESTAUR                               
+08/12/11 1273-4  Compra com Cartão         260.404                       23,62 D
+                 08/12 16:46    SUPERMERCADOS PRA                               
+09/12/11 1273-4  Compra com Cartão         142.967                       26,80 D
+                 09/12 11:56 NI PIZZA                                           
+09/12/11 1273-4  Compra com Cartão         247.463                       58,53 D
+                 09/12 13:11    WALMART ASA NORTE                               
+09/12/11 1273-4  Compra com Cartão         358.738                       12,59 D
+                 09/12 16:18    PANETUTTI                                       
+09/12/11 000000  Pagto conta telefone      120.901                       90,08 D
+                 TIM CELULAR S.A.                                               
+09/12/11 000000  Pagamento de Título       120.902                       72,00 D
+                 TRIBUNAL SUPERIOR ELEITORAL                                    
+12/12/11 1273-4  Compra com Cartão         146.438                       15,40 D
+                 10/12 12:53    PENINSULA RESTAUR                               
+12/12/11 1273-4  Compra com Cartão         260.298                       62,33 D
+                 10/12 16:44    WALMART ASA NORTE                               
+12/12/11 1273-4  Compra com Cartão         361.251                       20,35 D
+                 10/12 17:00    FARMACIA PAGUE ME                               
+12/12/11 1273-4  Compra com Cartão         635.644                       50,00 D
+                 11/12 09:54    POSTO CASCOL 411                                
+12/12/11 1273-4  Compra com Cartão         739.896                       20,04 D
+                 11/12 11:04    FAVORITO EXPRESS                                
+12/12/11 000000  Telefone Pre-Pago         91.325.118.503.020            17,00 D
+                 3791325118-TIM - Minas Gerais                                  
+13/12/11 4811-9  Transferido da poupança   1.606.010.059.092            218,00 C
+                 13/12 1606      59092-4 JOAO FRANCISCO                         
+13/12/11 4811-9  Transferido da poupança   1.606.010.059.092             36,00 C
+                 13/12 1606      59092-4 JOAO FRANCISCO                         
+13/12/11 1273-4  Compra com Cartão         146.885                       11,48 D
+                 13/12 13:01    ESQUINA DA ALEGRI                               
+13/12/11 000000  Telefone Pre-Pago         99.643.395.518.380            18,00 D
+                 6199643395-Vivo AC,DF,GO,MS,MT,RO,TO                           
+13/12/11 000000  Telefone Pre-Pago         99.726.009.518.353            18,00 D
+                 6199726009-Vivo AC,DF,GO,MS,MT,RO,TO                           
+13/12/11 000000  Pagamento de Impostos     121.302                      109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+14/12/11 000000  S A L D O                 0                          3.481,04 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      4.781,04 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO PESSOAL TODO SEU*                                            53.732,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,22%
+TAXA CHEQUE ESPECIAL AO ANO                                              158,04%
+DT. VENC. CH. ESP.                                                    30/11/2012
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Plus Est                                                     27.412,16
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               53.732,00                
+                BB Crédito Salário                     41.599,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                28.709,00                
+                BB Crd Veículo/Leasing                 26.309,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                TAXA  CONTA  ESPECIAL:   8,41%  P/VOCE:    8,22%                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                O BB REDUZIU NOVAMENTE AS TAXAS DE JUROS DO CDC.                
+                SIMULE E COMPROVE. SUJEITO A LIMITE DISPONIVEL.                 
+                                                                                
+                BANCO DO BRASIL                                                 
+                ---------------                                                 
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

@@ -1,0 +1,37 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+17/03/2009                       Auto-Atendimento                       12:44:28
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : SANDRO TAVARES                   
+Nr.Cartão       : 4984.****.****.8996         
+Modalidade      : OUROCARD PLATINUM VISA           
+ 
+--------------------------------------------------------------------------------
+                     L A N Ç A M E N T O S    F U T U R O S                     
+--------------------------------------------------------------------------------
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+ 
+         01 - SANDRO TAVARES                         
+ 
+         Pagamentos                                  
+02/03/09 PGTO. CASH AG.    1273 00              BR           -493,19        0,00
+ 
+         Compras a vista                             
+02/03/09 FERRAGENS XIMENES      BRASILIA        BR             51,00        0,00
+14/03/09 FERCON                 BRASILIA        BR             80,00        0,00
+ 
+         Compras/Pgto Contas Parc                    
+ 
+         Compras diversas                            
+24/01/09 CIMFEL        PARC 02/03               BR             68,64        0,00
+10/02/09 STAR MOVEIS   PARC 02/03               BR             99,96        0,00
+14/02/09 CIMFEL        PARC 02/03               BR             55,35        0,00
+ 
+         Subtotal                                             354,95        0,00
+ 
+         Total                                                354,95        0,00

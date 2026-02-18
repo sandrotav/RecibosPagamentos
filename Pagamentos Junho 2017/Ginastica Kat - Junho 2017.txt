@@ -1,0 +1,22 @@
+06/06/2017    -  BANCO  DO  BRASIL  -   16:27:33
+127301273                                   0018
+                                                
+     COMPROVANTE DE PAGAMENTO DE TITULOS        
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+CAIXA ECONOMICA FEDERAL                         
+------------------------------------------------
+10498361151800010004200004930178171850000024500 
+NR. DOCUMENTO                             60.601
+DATA DO PAGAMENTO                     06/06/2017
+VALOR DO DOCUMENTO                        245,00
+VALOR COBRADO                             245,00
+================================================
+NR.AUTENTICACAO            A.D46.46B.3DE.A87.E1D
+================================================
+Central de Atendimento BB                       
+4004 0001 Capitais e regioes metropolitanas     
+0800 729 0001 Demais localidades                
+Consultas, informacoes e servicos transacionais.

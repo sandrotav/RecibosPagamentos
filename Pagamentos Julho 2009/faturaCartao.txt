@@ -1,0 +1,54 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+07/07/2009                       Auto-Atendimento                       08:58:12
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : SANDRO TAVARES                   
+Nr.Cartão       : 4984.****.****.8996         
+Modalidade      : OUROCARD PLATINUM VISA           
+ 
+--------------------------------------------------------------------------------
+                     L A N Ç A M E N T O S    F U T U R O S                     
+--------------------------------------------------------------------------------
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+ 
+         01 - SANDRO TAVARES                         
+ 
+         Pagamentos                                  
+03/07/09 PGTO. CASH AG.    1273 00              BR           -492,96        0,00
+ 
+         Compras/Pgto Contas Parc                    
+ 
+         Companhias aereas                           
+30/06/09 GOL TRAN   SP PARC 01/04               BR             47,17        0,00
+ 
+         Compras diversas                            
+23/05/09 RAF AS CALCAD PARC 02/03               BR             56,66        0,00
+25/05/09 LIZ ACESSORIO PARC 02/02               BR             52,00        0,00
+27/05/09 CASA DUVALLE  PARC 02/03               BR             76,33        0,00
+22/06/09 TELECEL CELUL PARC 01/06               BR             23,00        0,00
+30/06/09 MYLLA CALCADO PARC 01/02               BR             35,00        0,00
+ 
+         Subtotal                                             290,16        0,00
+ 
+         Total                                                290,16        0,00
+ 
+ 
+--------------------------------------------------------------------------------
+PONTO PRA VOCÊ:NOVAS FAIXAS DE BENEFÍCIOS E DESCONTOS N
+O PONTO PRA VOCÊ  A PARTIR DE JUNHO /09.INFORME-SE NO BB.COM.BR/OUROCARD.
+PROMOÇÃO OUROCARD:PARTICIPE DA PROMOÇÃO OUROCARD E CONCORR
+A A PRÊMIOS. A CADA R$ 100,00 EM COMPRAS, VOCÊ CONCORRE A PRÊMIOS DE R$ 1 MIL, R
+$ 100 MIL E R$ 1 MILHÃO.INSCREVA-SE NO BB.COM.BR/OUROCARD OU NOS TERMINAIS DE  A
+UTOATENDIMENTO BB.
+CONTRATO CARTÕES PESSOA FÍSICA:
+AS CLÁUSULAS FORAM ALTERADAS EM 01.06.2009. CONSULTE NOVA MINUTA NO WWW.BB.COM.B
+R OU SOLICITE EM QUALQUER AGÊNCIA DO BB.
+HABILITAÇÃO PARA USO NO EXTERIOR:
+É PRECISO HABILITAR SEU OUROCARD PARA UTILIZA-LO NO EXTERIOR OU EM SITES HOSPEDA
+DOS FORA DO BRASIL. SAIBA MAIS NO BB.COM.BR/OUROCARD.
+--------------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+10/05/2022    -  BANCO  DO  BRASIL  -   10:58:43
+127301273                                   0006
+     COMPROVANTE DE PAGAMENTO DE TITULOS
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BRB - BCO DE BRASILIA S.A.
+------------------------------------------------
+07090000876000994715599676070693889810000047440
+BENEFICIARIO:
+COND RURAL SOLAR DA SERRA
+NOME FANTASIA:
+SOLAR DA SERRA
+CNPJ: 37.138.013/0001-31
+BENEFICIARIO FINAL:
+COND RURAL SOLAR DA SERRA
+CNPJ: 37.138.013/0001-31
+PAGADOR:
+SANDRO TAVARES
+CPF: 011.862.826-73
+------------------------------------------------
+NR. DOCUMENTO                             51.003
+DATA DE VENCIMENTO                    10/05/2022
+DATA DO PAGAMENTO                     10/05/2022
+VALOR DO DOCUMENTO                        474,40
+VALOR COBRADO                             474,40
+================================================
+NR.AUTENTICACAO            5.920.162.DDE.F62.6F0
+================================================

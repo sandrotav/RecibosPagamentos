@@ -1,0 +1,19 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/04/2008  -   AUTO-ATENDIMENTO    -   10.59.17 
+3413403413                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3413-4    CONTA:          5.742-8       
+================================================ 
+Convenio  SECRETARIA DA FAZENDA                  
+Codigo de Barras   85770000000-6   90900091100-0 
+                   40800001115-0   51320381252-6 
+Data do pagamento                     07/04/2008 
+Valor Total                                90,90 
+================================================ 
+DOCUMENTO:  040707                               
+AUTENTICACAO SISBB:                              
+3.92D.DFB.3CE.14F.997                            
+         

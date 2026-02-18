@@ -1,0 +1,21 @@
+02/10/2008    -  BANCO  DO  BRASIL  -   18:15:47 
+359303593                                   0015 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 3593-9          CONTA:          5.742-8 
+================================================ 
+BANCO ABN AMRO REAL S.A.                         
+------------------------------------------------ 
+35690441127449943000200090003054240230000042061  
+NR. DOCUMENTO                            100.205 
+DATA DO PAGAMENTO                     02/10/2008 
+VALOR DO DOCUMENTO                        420,61 
+VALOR COBRADO                             420,61 
+================================================ 
+NR.AUTENTICACAO            0.C81.35E.8A8.80F.A02 
+
+
+Transação efetivada com sucesso!

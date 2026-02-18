@@ -1,0 +1,155 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+11/07/2011                       Auto-Atendimento                       11:07:32
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/06/11 000000  Saldo Anterior            0                          6.148,64 C
+01/07/11 1273-4  Aplicação Poupança        10.005.742                   120,00 D
+                 01/07 1273   10005742-X SANDRO TAVARES                         
+01/07/11 1273-4  Aplicação Poupança        910.005.742                  300,00 D
+                 01/07 1273  910005742-3 SANDRO TAVARES                         
+04/07/11 000000  TED Transf.Eletr.Disponív 9.375.113                 10.500,00 C
+                 341 2345    79586791149 WANDERSON LIMA                         
+04/07/11 1273-4  Compra com Cartão         138.101                       40,00 D
+                 02/07 10:35    PETROIL                                         
+04/07/11 1273-4  Compra com Cartão         181.562                       31,90 D
+                 02/07 22:39    PIZZARIA MARINELL                               
+04/07/11 1273-4  Compra com Cartão         243.434                       17,59 D
+                 02/07 12:03    DROGASIL 474                                    
+04/07/11 1273-4  Compra com Cartão         245.302                       60,00 D
+                 03/07 12:35    ART DO SURF                                     
+04/07/11 1273-4  Compra com Cartão         343.000                        1,50 D
+                 04/07 11:56    IDEAL COM PECAS E                               
+04/07/11 1273-4  Compra com Cartão         345.123                      400,00 D
+                 02/07 12:32    SHOPPING DO BEBE                                
+04/07/11 1273-4  Compra com Cartão         651.482                        4,00 D
+                 02/07 14:18 LLO                                                
+04/07/11 1273-4  Compra com Cartão         661.827                       50,00 D
+                 04/07 17:10  AMARELO                                           
+04/07/11 1273-4  Compra com Cartão         760.863                        7,70 D
+                 02/07 16:54    GIRAFFAS                                        
+04/07/11 1273-4  Compra com Cartão         763.210                        7,22 D
+                 04/07 17:33    PANETUTTI                                       
+04/07/11 1273-4  Compra com Cartão         865.087                       15,50 D
+                 02/07 18:04    TORTERIA DI LOREN                               
+04/07/11 4811-9  Saque no TAA              40.948.268.936.761           210,00 D
+                 04/07 09:48 SOP-CORREIOS                                       
+04/07/11 000000  Pagto cartão crédito      730.127.300.906.761          872,77 D
+04/07/11 000000  Pagamento de Impostos     70.401                        68,10 D
+                 DETRAN DF                                                      
+04/07/11 000000  Pagamento de Impostos     70.402                       147,50 D
+                 DETRAN DF                                                      
+04/07/11 000000  Pagamento conta luz       70.403                        32,43 D
+                 CEB                                                            
+04/07/11 000000  Pagto conta telefone      70.404                       105,54 D
+                 TIM CELULAR S.A.                                               
+04/07/11 000000  Pagamento de Título       70.405                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+04/07/11 000000  Pagamento de Impostos     70.406                       101,72 D
+                 GDF CONTA ARRECADACAO                                          
+04/07/11 000000  Pagamento de Impostos     70.407                        32,69 D
+                 GDF CONTA ARRECADACAO                                          
+04/07/11 000000  Pagamento de Impostos     70.408                        50,14 D
+                 GDF CONTA ARRECADACAO                                          
+04/07/11 000000  Pagamento de Impostos     70.409                        30,72 D
+                 GDF CONTA ARRECADACAO                                          
+04/07/11 000000  Pagamento de Impostos     70.410                        47,10 D
+                 GDF CONTA ARRECADACAO                                          
+05/07/11 1273-4  Compra com Cartão         145.647                       15,75 D
+                 05/07 12:40    PENINSULA RESTAUR                               
+05/07/11 1273-4  Compra com Cartão         260.755                       10,01 D
+                 05/07 16:52    PANETUTTI                                       
+05/07/11 000000  Pagamento de Impostos     70.501                        59,95 D
+                 GPS - CODIGO DE BARRAS                                         
+06/07/11 1273-4  Aplicação Poupança        10.005.742                   300,00 D
+                 06/07 1273   10005742-X SANDRO TAVARES                         
+06/07/11 000000  Pagto conta telefone      70.601                        60,45 D
+                 NET BRASILIA                                                   
+07/07/11 1273-4  Compra com Cartão         160.272                        7,20 D
+                 07/07 16:44    PANIF PAO MORENO                                
+07/07/11 1273-4  Compra com Cartão         272.988                       15,12 D
+                 07/07 20:16    WALMART ASA NORTE                               
+07/07/11 1273-4  Compra com Cartão         373.179                        5,10 D
+                 07/07 20:19    WALMART ASA NORTE                               
+07/07/11 1273-4  Compra com Cartão         674.159                       79,80 D
+                 07/07 20:35    O BOTICARIO                                     
+07/07/11 1273-4  Compra com Cartão         774.594                        5,99 D
+                 07/07 20:43    EXTRA 1347                                      
+07/07/11 4811-9  Saque no TAA              71.622.078.936.761           150,00 D
+                 07/07 16:22 SOP-CORREIOS                                       
+08/07/11 1273-4  Compra com Cartão         135.624                        6,74 D
+                 08/07 09:53 R ALIMENTOS                                        
+08/07/11 1273-4  Compra com Cartão         246.838                       26,70 D
+                 08/07 13:00    RESTAURANTE FORNA                               
+08/07/11 1273-4  Compra com Cartão         360.647                        3,00 D
+                 08/07 16:50    RESTAURANTE ASSET                               
+08/07/11 000000  BB Ref DI Plus Estilo     1.200.032                 10.500,00 D
+11/07/11 9008-5  Compra com Cartão         141.235                        3,52 D
+                 09/07 11:27 DINHA PREMIUM                                      
+11/07/11 9008-5  Compra com Cartão         256.647                       27,50 D
+                 09/07 15:44    GIRAFFAS                                        
+11/07/11 9008-5  Compra com Cartão         358.988                        5,70 D
+                 09/07 16:23    GIRAFFAS                                        
+11/07/11 9008-5  Compra com Cartão         661.830                       50,00 D
+                 09/07 17:10    POSTO GASOLINE                                  
+11/07/11 9008-5  Compra com Cartão         778.818                       32,53 D
+                 09/07 21:53    EXTRA BRASILIA VI                               
+11/07/11 9008-5  Compra com Cartão         851.983                       30,64 D
+                 10/07 14:26 DAO BRASILIA                                       
+11/07/11 1273-4  Pagamento de Título       71.101                        39,90 D
+                 BANCO BRADESCO S.A.                                            
+11/07/11 000000  S A L D O                 0                          2.258,92 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      3.558,92 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO PESSOAL TODO SEU*                                            48.038,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,30%
+TAXA CHEQUE ESPECIAL AO ANO                                              160,34%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Plus Est                                                     19.603,95
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               48.038,00                
+                BB Crédito Salário                     41.599,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                31.773,00                
+                BB Crd Veículo/Leasing                 26.309,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS JUN/11:     39                 
+                TAXA  CONTA  ESPECIAL:   8,49%  P/VOCE:    8,30%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     19                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                                                                                
+                CAMPANHA DO DESARMAMENTO. RECEBA SUA INDENIZACAO                
+                NO BB. SAIBA MAIS EM WWW.ENTREGUESUAARMA.GOV.BR                 
+                                                                                
+                ------------------------------------------------                
+                ------------------------------------------------                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

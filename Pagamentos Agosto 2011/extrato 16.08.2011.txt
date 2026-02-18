@@ -1,0 +1,146 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+16/08/2011                       Auto-Atendimento                       08:21:22
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+29/07/11 000000  Saldo Anterior            0                          5.095,52 C
+01/08/11 1273-4  Compra com Cartão         139.580                       11,24 D
+                 31/07 10:59    WALMART ASA NORTE                               
+02/08/11 1273-4  Compra com Cartão         158.356                       56,13 D
+                 02/08 16:12 RIA ROSARIO                                        
+02/08/11 1903-8  Cheque Compensado         850.701                      112,00 D
+03/08/11 1273-4  Compra com Cartão         137.049                       21,00 D
+                 03/08 10:17    DROGARIA UNICOM 7                               
+03/08/11 1273-4  Compra com Cartão         271.184                       19,15 D
+                 03/08 19:46    SUPERMERCADOS PRA                               
+03/08/11 1273-4  Compra com Cartão         372.116                        7,35 D
+                 03/08 20:01    DROGARIA 214 NORT                               
+04/08/11 1273-4  Compra com Cartão         111.254                       19,00 D
+                 04/08 03:07    DROGARIA 214 NORT                               
+04/08/11 1273-4  Compra com Cartão         261.631                       55,00 D
+                 04/08 17:07    MAMAE E BEBE                                    
+04/08/11 1273-4  Compra com Cartão         362.246                      157,00 D
+                 04/08 17:17  BARRIGA                                           
+04/08/11 1273-4  Compra com Cartão         663.235                      121,35 D
+                 04/08 17:33    POSTO 109 SUL                                   
+04/08/11 1273-4  Compra com Cartão         764.854                        5,70 D
+                 04/08 18:00 RIA DIST 102 SUL                                   
+05/08/11 1003-0  Depósito Online           10.031.831.900.144           386,00 C
+05/08/11 1273-4  Compra com Cartão         147.404                       19,00 D
+                 05/08 13:10    FARMACOTECNICA 10                               
+05/08/11 1273-4  Compra com Cartão         274.122                       33,90 D
+                 05/08 20:35    PIZZARIA MARINELL                               
+05/08/11 000000  Pagto cartão crédito      730.127.300.166.761        1.030,57 D
+05/08/11 000000  Compra-WEB                3.014.100                     42,80 D
+05/08/11 000000  Pagamento conta luz       80.501                        59,28 D
+                 CEB                                                            
+05/08/11 000000  Pagto conta telefone      80.502                        89,19 D
+                 TIM CELULAR S.A.                                               
+05/08/11 000000  Pagamento de Título       80.503                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+05/08/11 000000  Pagamento de Impostos     80.504                       101,72 D
+                 GDF CONTA ARRECADACAO                                          
+08/08/11 1273-4  Compra com Cartão         130.077                        6,30 D
+                 06/08 08:21    PANETUTTI                                       
+08/08/11 1273-4  Compra com Cartão         147.640                       18,90 D
+                 07/08 13:14 RIA ROSARIO                                        
+08/08/11 1273-4  Compra com Cartão         235.575                       28,00 D
+                 06/08 09:52    GIGI MIMO ARTES                                 
+08/08/11 1273-4  Compra com Cartão         276.739                        1,95 D
+                 07/08 21:18    DROGARIA 214 NORT                               
+08/08/11 1273-4  Compra com Cartão         337.986                       41,50 D
+                 06/08 10:33 UE ANA CARLA                                       
+08/08/11 1273-4  Compra com Cartão         378.613                       40,17 D
+                 07/08 21:50    WALMART ASA NORTE                               
+08/08/11 1273-4  Compra com Cartão         638.587                       13,20 D
+                 06/08 10:43    QUEIJOS E FRIOS                                 
+08/08/11 1273-4  Compra com Cartão         683.870                        6,90 D
+                 07/08 23:17    EXTRA 1347                                      
+08/08/11 1273-4  Compra com Cartão         739.737                       31,51 D
+                 06/08 11:02    SUPERMERCADO VENE                               
+08/08/11 1273-4  Compra com Cartão         761.620                       16,59 D
+                 08/08 17:07    PANETUTTI                                       
+08/08/11 1273-4  Compra com Cartão         828.786                       30,00 D
+                 07/08 07:59    DROGARIA 214 NORT                               
+08/08/11 000000  Recarga Pré-Pago Celular  82.221.983.508.159            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+08/08/11 000000  Pagto conta telefone      80.801                        59,64 D
+                 NET BRASILIA                                                   
+09/08/11 1273-4  Aplicação Poupança        10.005.742                   400,00 D
+                 09/08 1273   10005742-X SANDRO TAVARES                         
+09/08/11 1273-4  Aplicação Poupança        910.005.742                  200,00 D
+                 09/08 1273  910005742-3 SANDRO TAVARES                         
+10/08/11 1273-4  Compra com Cartão         141.851                        5,98 D
+                 10/08 11:37    SUPER VAREJAO OBA                               
+10/08/11 1273-4  Compra com Cartão         247.772                       11,00 D
+                 10/08 13:16    DROGARIA 403 NORT                               
+10/08/11 1273-4  Compra com Cartão         348.030                      104,97 D
+                 10/08 13:20 RIA ROSARIO                                        
+10/08/11 1273-4  Compra com Cartão         661.879                        4,30 D
+                 10/08 17:11    PAO DO CERRADO                                  
+11/08/11 1273-4  Compra com Cartão         162.752                       30,66 D
+                 11/08 17:25    SUPERMERCADOS PRA                               
+12/08/11 000000  Pagamento de Impostos     81.201                       109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+15/08/11 0967-9  Transferência on line     220.967.000.016.407          800,00 C
+                 13/08 0967      16407-0 MARIA INES SIL                         
+15/08/11 1273-4  Compra com Cartão         177.743                       33,00 D
+                 13/08 21:35    DROGARIA 214 NORT                               
+15/08/11 1273-4  Compra com Cartão         243.375                        9,12 D
+                 15/08 12:02    PENINSULA RESTAUR                               
+15/08/11 1236-X  Saque no TAA              131.739.188.936.761          150,00 D
+                 13/08 17:39 SAA-ASA NORTE 510                                  
+16/08/11 000000  S A L D O                 0                          2.750,45 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      4.050,45 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO VEICULO TODO SEU*                                            26.309,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,30%
+TAXA CHEQUE ESPECIAL AO ANO                                              160,34%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Plus Est                                                     17.803,53
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               48.038,00                
+                BB Crédito Salário                     41.599,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                31.773,00                
+                BB Crd Veículo/Leasing                 26.309,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS JUL/11:     63                 
+                TAXA  CONTA  ESPECIAL:   8,49%  P/VOCE:    8,30%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     31                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                OUROCAP - SORTEIO DO SABADO DIA 06.08.2011                      
+                REALIZADO DIA 11.08 - DEZENAS: 11-14-21-34-42-48                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

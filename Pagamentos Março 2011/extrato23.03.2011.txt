@@ -1,0 +1,137 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+23/03/2011                       Auto-Atendimento                       09:49:50
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+28/02/11 000000  Saldo Anterior            0                          4.031,41 C
+02/03/11 1273-4  Compra com Cartão         170.122                        9,00 D
+                 02/03 19:28 RIA 214 NORTE                                      
+02/03/11 000000  Pagto cartão crédito      730.127.300.136.761          459,48 D
+02/03/11 000000  Pagamento conta luz       30.201                        48,68 D
+                 CEB                                                            
+02/03/11 000000  Pagamento conta luz       30.202                        53,13 D
+                 CEB                                                            
+02/03/11 000000  Pagamento de Título       30.203                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+02/03/11 000000  Pagamento de Título       30.204                       184,34 D
+                 CONDOMINIO RURAL SOLAR DA SERR                                 
+02/03/11 1903-8  Cheque Compensado         850.694                      126,00 D
+03/03/11 1273-4  Compra com Cartão         144.726                       19,93 D
+                 03/03 12:25 PENINSULA RESTAUR                                  
+03/03/11 1273-4  Compra com Cartão         245.010                        7,20 D
+                 03/03 12:30  VITORIA                                           
+03/03/11 000000  Pagamento de Título       30.301                        24,90 D
+                 ITAU UNIBANCO S.A.                                             
+04/03/11 1273-4  Compra com Cartão         121.272                       40,00 D
+                 04/03 05:54 AUTO POSTO ESTREL                                  
+04/03/11 1273-4  Compra com Cartão         243.166                       49,50 D
+                 04/03 11:59 POSTO ALIANCA                                      
+04/03/11 1273-4  Compra com Cartão         343.506                        4,50 D
+                 04/03 12:05 POSTO ALIANCA                                      
+09/03/11 1273-4  Compra com Cartão         141.092                       30,00 D
+                 05/03 11:24 A DI FIORI                                         
+09/03/11 1273-4  Compra com Cartão         162.037                       92,01 D
+                 09/03 17:13 POSTO TAMPINHA                                     
+09/03/11 1273-4  Compra com Cartão         242.325                        9,45 D
+                 05/03 11:45 JAD ENXOVAIS                                       
+09/03/11 1273-4  Compra com Cartão         274.713                        9,23 D
+                 09/03 20:45 SUPERMERCADOS PRA                                  
+09/03/11 1273-4  Compra com Cartão         360.538                       11,98 D
+                 07/03 16:48 SUPER SOLUCAO SUP                                  
+09/03/11 1273-4  Compra com Cartão         635.244                        7,50 D
+                 09/03 09:47  CONFEC E PRES                                     
+09/03/11 1273-4  Compra com Cartão         737.520                       78,05 D
+                 09/03 10:25 AUTO POSTO F RODR                                  
+09/03/11 1273-4  Compra com Cartão         851.990                        3,50 D
+                 09/03 14:26 BAR E RESTAURANTE                                  
+10/03/11 000000  Recarga Pré-Pago Celular  82.221.983.006.590            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+10/03/11 4811-9  Saque no TAA              101.324.038.936.761          600,00 D
+                 10/03 13:24 SOP-CORREIOS                                       
+10/03/11 000000  Pagto conta telefone      31.001                       111,75 D
+                 TIM CELULAR S.A.                                               
+10/03/11 000000  Pagto conta telefone      31.002                        52,92 D
+                 NET BRASILIA                                                   
+10/03/11 1908-9  Cheque Compensado         850.698                      152,00 D
+11/03/11 000000  Pagamento de Impostos     31.101                        59,40 D
+                 GPS - CODIGO DE BARRAS                                         
+14/03/11 1273-4  Compra com Cartão         167.391                       50,00 D
+                 12/03 18:43 SMAFF COMBUSTIVEI                                  
+14/03/11 1273-4  Compra com Cartão         265.202                        8,60 D
+                 14/03 18:06 TRIGALE                                            
+14/03/11 1302-1  Transferido para Poupança 10.009.585                   200,00 D
+                 14/03 1302   10009585-2 VALDIVA RODRIG                         
+14/03/11 000000  INSS Arrecadação          31.401                       108,00 D
+17/03/11 1273-4  Compra com Cartão         162.283                       15,49 D
+                 17/03 17:18 CASA DE BISCOITOS                                  
+17/03/11 000000  Recarga Pré-Pago Celular  99.643.395.009.619            18,00 D
+                 6199643395-Vivo AC,DF,GO,MS,MT,RO,TO                           
+17/03/11 000000  Recarga Pré-Pago Celular  99.726.009.009.719            18,00 D
+                 6199726009-Vivo AC,DF,GO,MS,MT,RO,TO                           
+17/03/11 4811-9  Saque no TAA              171.131.338.936.761           60,00 D
+                 17/03 11:31 SOP-CORREIOS                                       
+17/03/11 1903-8  Cheque Compensado         850.699                       95,00 D
+18/03/11 1273-4  Compra com Cartão         145.892                        5,98 D
+                 18/03 12:44 LOJAS AMERICANAS                                   
+18/03/11 1903-8  Cheque Compensado         850.697                       50,00 D
+21/03/11 1273-4  Compra com Cartão         150.967                       30,00 D
+                 20/03 14:09 GASOL - 409N                                       
+21/03/11 1273-4  Compra com Cartão         267.940                       32,01 D
+                 20/03 18:52 TALHER BRASIL                                      
+21/03/11 000000  Recarga Pré-Pago Celular  82.221.983.518.712            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+22/03/11 1273-4  Compra com Cartão         167.811                        5,59 D
+                 22/03 18:50 TRIGALE                                            
+23/03/11 000000  S A L D O                 0                            856,29 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      2.156,29 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO PESSOAL TODO SEU*                                            30.443,00 C
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,08%
+TAXA CHEQUE ESPECIAL AO ANO                                              154,06%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Plus Est                                                      7.313,16
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               30.443,00                
+                BB Crédito Salário                     15.549,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crd Veículo/Leasing                 18.069,00                
+                BB Crediário/Construção                13.391,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS JAN/11:     36                 
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     18                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                AGUA BRASIL. ABRACE ESSA CAUSA VOCE TAMBEM.                     
+                SAIBA MAIS EM BB.COM.BR-AGUABRASIL.                             
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

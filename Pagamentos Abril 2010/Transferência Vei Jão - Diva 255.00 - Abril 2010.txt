@@ -1,0 +1,16 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL  
+06/04/2010  -    AUTO-ATENDIMENTO    -  10:08:43  
+CLIENTE: SANDRO TAVARES  
+AGENCIA: 1273-4   CONTA: 5742-8  
+================================================ 
+DOCUMENTO: 40.502 
+DATA DA TRANSFERÊNCIA: 05/04/2010 
+VALOR DA TRANSFERÊNCIA: 255,00 
+AGÊNCIA CREDITADA: 1302-1 
+CONTA CREDITADA: 10009585-2 
+NOME FAVORECIDO: VALDIVA RODRIGUES SANTOS 
+------------------------------------------------ 
+AUTENTICAÇÃO SISBB: D.433.67E.220.A4F.A04 
+================================================ 
+
+Transação efetivada com sucesso!

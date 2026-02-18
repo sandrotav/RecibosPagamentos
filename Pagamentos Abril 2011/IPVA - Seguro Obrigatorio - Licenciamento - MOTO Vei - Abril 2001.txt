@@ -1,0 +1,64 @@
+
+***** Seguro Obrigatório.
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+11/04/2011  -   AUTO-ATENDIMENTO    -   10.41.59 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  DPVAT  SEGURADORA LIDER                
+Codigo de Barras   86670000002-3   79270924860-5 
+                   80001845200-6   37902111107-3 
+Data do pagamento                     11/04/2011 
+Valor em Dinheiro                         279,27 
+Valor em Cheque                             0,00 
+Valor Total                               279,27 
+================================================ 
+DOCUMENTO:  041102                               
+AUTENTICACAO SISBB:        7.424.CEF.707.7B0.BA4                            
+
+
+***** Licenciamento Anual 2011.
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+11/04/2011  -   AUTO-ATENDIMENTO    -   10.45.58 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  DETRAN DF                              
+Codigo de Barras   85650000000-0   45709912130-5 
+                   61111302545-0   50773013581-5 
+Data do pagamento                     11/04/2011 
+Valor Total                                45,70 
+================================================ 
+DOCUMENTO:  041103                               
+AUTENTICACAO SISBB:       E.622.C11.02C.1C8.A2B                            
+
+
+***** IPVA - Cota Única - 2011.
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+11/04/2011  -   AUTO-ATENDIMENTO    -   10.52.12 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  GDF CONTA ARRECADACAO                  
+Codigo de Barras   85650000000-0   98190009130-8 
+                   41110081165-1   92000011244-0 
+Data do pagamento                     11/04/2011 
+Valor Total                                98,19 
+================================================ 
+DOCUMENTO:  041104                               
+AUTENTICACAO SISBB:        6.2A0.FA5.E7C.B06.115                            

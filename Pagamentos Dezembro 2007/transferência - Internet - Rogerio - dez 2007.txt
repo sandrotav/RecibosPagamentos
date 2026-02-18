@@ -1,0 +1,24 @@
+Transferência entre contas BB - Conta corrente para conta corrente  
+ 
+
+
+Comprovante 
+
+SISBB - Sistema de Informações Banco do Brasil - 05/12/2007 - Auto-Atendimento BB - Hora: 16:41:55
+Agência: 3413-4 - Conta: 5742-8 - Cliente: SANDRO TAVARES  
+
+Debitado   Creditado 
+
+  Agência: 3413-4 
+Conta: 5742-8 
+Nome: SANDRO TAVARES
+  
+   Agência: 1003-0 
+Conta: 17377-0 
+Nome: ROGERIO MORGANDO VIEIRA 
+ 
+  Data: Nesta data      Valor: 25,00  
+Transferência COM cobrança de CPMF  
+ 
+
+Transação efetivada com sucesso!

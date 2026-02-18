@@ -1,0 +1,147 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+03/01/2011                       Auto-Atendimento                       10:02:46
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/11/10 000000  Saldo Anterior            0                          3.218,53 C
+01/12/10 000000  Recebimento de Proventos  268.854                    1.484,68 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+02/12/10 1273-4  Compra com Cartão         142.076                        5,55 D
+                 02/12 11:41 R ALIMENTOS                                        
+02/12/10 4811-9  Saque no TAA              20.850.258.936.761         1.300,00 D
+                 02/12 08:50 SOP-CORREIOS                                       
+02/12/10 000000  Pagto cartão crédito      730.127.300.088.996          515,83 D
+02/12/10 000000  Pagto cartão crédito      730.127.300.106.761          821,98 D
+02/12/10 000000  Pagamento conta luz       120.201                       14,72 D
+                 CEB                                                            
+02/12/10 000000  Pagamento de Título       120.202                      200,00 D
+                 ITAU UNIBANCO S.A.                                             
+02/12/10 000000  Emissão de DOC            120.203                      250,00 D
+02/12/10 1903-8  Cheque Compensado         850.690                       11,00 D
+03/12/10 1273-4  Compra com Cartão         141.702                        5,37 D
+                 03/12 11:35 R ALIMENTOS                                        
+03/12/10 1273-4  Compra com Cartão         278.769                       16,90 D
+                 03/12 21:52 BRASIL VEXADO                                      
+03/12/10 000000  Tarifa DOC/TED Internet   803.361.400.097.821            8,00 D
+                 Tarifa referente a 02/12/2010                                  
+06/12/10 0292-5  Depósito Online           2.868.926.086                 26,00 C
+06/12/10 4811-9  Transferido da poupança   1.606.010.059.092            410,00 C
+                 06/12 1606      59092-4 JOAO FRANCISCO                         
+06/12/10 1273-4  Compra com Cartão         137.139                       50,00 D
+                 04/12 10:18 GASOL - 409N                                       
+06/12/10 1273-4  Compra com Cartão         167.848                       11,50 D
+                 06/12 18:50 P A ASA NORTE LJ                                   
+06/12/10 1273-4  Compra com Cartão         243.133                       55,00 D
+                 04/12 11:58 JS MATERIAIS DE C                                  
+06/12/10 1273-4  Compra com Cartão         347.815                       98,07 D
+                 04/12 13:16 WALMART ASA NORTE                                  
+06/12/10 1273-4  Compra com Cartão         672.882                       12,80 D
+                 05/12 20:14 GIRAFFAS                                           
+06/12/10 1273-4  Compra com Cartão         736.595                       25,40 D
+                 06/12 10:09 AGENCIA CENTRAL                                    
+06/12/10 1273-4  Compra com Cartão         866.738                        8,00 D
+                 06/12 18:32 FESTPAN                                            
+07/12/10 1273-4  Compra com Cartão         141.749                        3,36 D
+                 07/12 11:35 R ALIMENTOS                                        
+07/12/10 1273-4  Compra com Cartão         265.008                       96,50 D
+                 07/12 18:03 COSTA FERREIRA L                                   
+07/12/10 1273-4  Compra com Cartão         370.849                       10,00 D
+                 07/12 19:40 CASA DE BISCOITOS                                  
+07/12/10 1302-1  Transferido para Poupança 10.009.585                   200,00 D
+                 07/12 1302   10009585-2 VALDIVA RODRIG                         
+07/12/10 000000  Recarga Pré-Pago Celular  81.662.603.520.520            17,00 D
+                 6181662603-TIM - Distrito Federal                              
+07/12/10 000000  Pagamento conta luz       120.701                       41,83 D
+                 CEB                                                            
+07/12/10 000000  Pagto conta telefone      120.702                       56,40 D
+                 NET BRASILIA                                                   
+07/12/10 000000  Pagamento de Título       120.703                       88,00 D
+                 CONDOMINIO RURAL SOLAR DA SERR                                 
+07/12/10 000000  Pagamento de Título       120.704                      175,56 D
+                 CONDOMINIO RURAL SOLAR DA SERR                                 
+07/12/10 000000  INSS Arrecadação          120.705                      102,00 D
+08/12/10 1273-4  Compra com Cartão         130.655                        6,40 D
+                 08/12 08:30 PAO DOURADO                                        
+08/12/10 1273-4  Compra com Cartão         242.342                       17,20 D
+                 08/12 11:45 CARECA RESTAURANT                                  
+08/12/10 1273-4  Compra com Cartão         362.586                        7,73 D
+                 08/12 17:23 P A ASA NORTE LJ                                   
+08/12/10 1273-4  Compra com Cartão         682.119                       14,45 D
+                 08/12 22:48 WALMART ASA NORTE                                  
+09/12/10 1273-4  Compra com Cartão         165.945                       14,95 D
+                 09/12 18:19 SUBWAY PATIO                                       
+09/12/10 000000  Recarga Pré-Pago Celular  82.221.983.505.340            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+10/12/10 1908-9  Cheque Compensado         850.675                      325,00 D
+13/12/10 1273-4  Compra com Cartão         139.389                        4,34 D
+                 11/12 10:56 PANIFICADORA SYRI                                  
+13/12/10 1273-4  Compra com Cartão         141.881                       21,50 D
+                 12/12 11:38 MAIA LAGO NORTE                                    
+13/12/10 1273-4  Compra com Cartão         247.172                       74,07 D
+                 12/12 13:06 URANTE MANGAI                                      
+13/12/10 1273-4  Compra com Cartão         251.444                        9,76 D
+                 11/12 14:17 COMIDA DA KOMBI                                    
+13/12/10 1273-4  Compra com Cartão         358.636                       14,45 D
+                 11/12 16:17 RESTAURANTE SABOR                                  
+13/12/10 1273-4  Compra com Cartão         659.623                       50,00 D
+                 11/12 16:33 POSTO CEASA.                                       
+13/12/10 1273-4  Compra com Cartão         762.647                       25,60 D
+                 11/12 17:24 WALMART ASA NORTE                                  
+13/12/10 1273-4  Compra com Cartão         882.500                       21,90 D
+                 11/12 22:55 POULET DOR                                         
+13/12/10 4811-9  Saque no TAA              131.456.178.936.761           60,00 D
+                 13/12 14:56 SOP-CORREIOS                                       
+15/12/10 1273-4  Compra com Cartão         177.550                        6,00 D
+                 15/12 21:32 PARK PATEO BRASIL                                  
+15/12/10 4811-9  Saque no TAA              151.331.018.936.761           70,00 D
+                 15/12 13:31 SOP-CORREIOS                                       
+17/12/10 1273-4  Compra com Cartão         149.744                       17,97 D
+                 17/12 13:49 LOJINHA DA CRIANC                                  
+20/12/10 000000  Recebimento de Proventos  451.911                    3.542,78 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+20/12/10 1273-4  Compra com Cartão         130.777                        4,00 D
+                 19/12 08:32 DROGARIA TREVO                                     
+20/12/10 1273-4  Compra com Cartão         232.809                       50,00 D
+                 19/12 09:06 POSTO CASCOL 411                                   
+20/12/10 000000  Pagamento de Título       122.001                       72,00 D
+                 FUNDACAO UNIVERSIDADE DE BRASI                                 
+21/12/10 4811-9  Saque no TAA              210.939.408.936.761          200,00 D
+                 21/12 09:39 SOP-CONJ. NACIONAL                                 
+22/12/10 000000  Pagto conta telefone      122.201                      131,95 D
+                 TIM CELULAR S.A.                                               
+22/12/10 1903-8  Cheque Compensado         850.691                      140,00 D
+23/12/10 1273-4  Compra com Cartão         167.741                       13,50 D
+                 23/12 18:49 REST PORTAL DE MI                                  
+23/12/10 1903-8  Cheque Compensado         850.689                      335,00 D
+24/12/10 1273-4  Compra com Cartão         181.980                       19,50 D
+                 24/12 22:46 RIA PITANGUI                                       
+27/12/10 1273-4  Compra com Cartão         154.657                       28,20 D
+                 27/12 15:10 BAR MERCEARIA PIT                                  
+27/12/10 1273-4  Compra com Cartão         255.340                        6,45 D
+                 27/12 15:22 DO MAGELA DA SILVA                                 
+27/12/10 000000  Tarifa SMS - Mês Anterior 893.610.902.100.407            2,50 D
+                 Tarifa referente a 01/12/2010                                  
+31/12/10 000000  S A L D O                 0                          2.699,80 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,86%
+TAXA CHEQUE ESPECIAL AO ANO                                              147,93%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                EM 2011, PARA ABRACAR SEUS SONHOS,                              
+                CONTE COM O BANCO DO BRASIL.                                    
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

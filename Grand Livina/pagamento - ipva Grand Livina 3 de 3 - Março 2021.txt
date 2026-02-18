@@ -1,0 +1,26 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+05/03/2021  -   AUTO-ATENDIMENTO    -   12.23.46
+1273401273                                      
+                                                
+            COMPROVANTE DE AGENDAMENTO          
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4    CONTA:          5.742-8      
+================================================
+Convenio  SECRET. FAZENDA MG                    
+Codigo de Barras   85690000003-0   05330061202-4
+                   10322990025-5   65585900213-2
+Data do pagamento                     05/03/2021
+Valor Total                               305,33
+------------------------------------------------
+ AUTORIZADO PELA PORTARIA NR.3482 DA SRE/SEF/MG 
+ DOCUMENTO DE ARRECADACAO DE PORTE OBRIGATORIO. 
+Pagamento agendado.                             
+Atenção: Esta transação está sujeita a avaliação
+de segurança e será processada após análise.    
+O comprovante definitivo somente sera emitido   
+apos a quitacao.                                
+================================================
+O Informe de Rendimentos 2021 ja esta           
+disponivel no App BB, nos nossos terminais      
+e no portal bb.com.br.  

@@ -1,0 +1,18 @@
+12/02/2014    -  BANCO  DO  BRASIL  -   10:40:37
+127301273                                   0008
+                                                
+     COMPROVANTE DE PAGAMENTO DE TITULOS        
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+CAIXA ECONOMICA FEDERAL                         
+------------------------------------------------
+10499788004261770011986282673200159880000000570 
+NR. DOCUMENTO                             21.201
+DATA DO PAGAMENTO                     12/02/2014
+VALOR DO DOCUMENTO                          5,70
+VALOR COBRADO                               5,70
+================================================
+NR.AUTENTICACAO            2.4AB.030.E22.09A.789
+Transação efetivada com sucesso!

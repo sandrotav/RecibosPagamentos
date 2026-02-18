@@ -1,0 +1,20 @@
+08/06/2009    -  BANCO  DO  BRASIL  -   13:00:06 
+127301273                                   0028 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BRB - BANCO DE BRASILIA S.A.                     
+------------------------------------------------ 
+07090001036028188830900308070077742660000043532  
+NR. DOCUMENTO                             60.806 
+DATA DO PAGAMENTO                     08/06/2009 
+VALOR DO DOCUMENTO                        435,32 
+VALOR COBRADO                             435,32 
+================================================ 
+NR.AUTENTICACAO            1.D2D.36E.808.FC1.188 
+
+

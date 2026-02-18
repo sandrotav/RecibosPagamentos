@@ -1,0 +1,123 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+09/03/2012                       Auto-Atendimento                       11:10:08
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/01/12 000000  Saldo Anterior            0                          3.273,87 C
+01/02/12 1273-4  Compra com Cartão         161.112                        5,10 D
+                 01/02 16:58 R ALIMENTOS                                        
+01/02/12 1903-8  Cheque Compensado         850.723                      180,00 D
+03/02/12 2887-8  Transferência on line     552.887.000.012.122          700,00 C
+                 03/02 2887      12122-3 RONALDO & ALIN                         
+03/02/12 1273-4  Compra com Cartão         129.997                        2,10 D
+                 03/02 08:19    CIRANDINHA PREMIU                               
+03/02/12 1273-4  Compra com Cartão         230.201                       50,00 D
+                 03/02 08:23    GASOL 210N                                      
+06/02/12 1273-4  Compra com Cartão         152.680                       65,45 D
+                 05/02 14:38 CCA                                                
+06/02/12 1273-4  Compra com Cartão         254.240                       99,90 D
+                 05/02 15:04    BB TRENDS BRASILI                               
+06/02/12 1273-4  Compra com Cartão         366.844                       29,90 D
+                 05/02 18:34 AO BOULEVARD                                       
+06/02/12 1273-4  Compra com Cartão         667.102                        0,55 D
+                 05/02 18:38    BOULEVARD BRASILI                               
+06/02/12 1273-4  Compra com Cartão         753.749                       24,23 D
+                 06/02 14:55    DROGARIA SANTA LU                               
+06/02/12 000000  Pagto cartão crédito      730.127.300.636.761          369,66 D
+06/02/12 000000  Pagamento de Título       20.601                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+06/02/12 000000  Pagamento conta luz       20.602                        38,72 D
+                 CEB                                                            
+06/02/12 000000  Pagto conta telefone      20.603                       103,84 D
+                 TIM CELULAR S.A.                                               
+06/02/12 000000  Pagto conta telefone      20.604                       124,69 D
+                 NET BRASILIA                                                   
+07/02/12 1273-4  Compra com Cartão         147.106                        6,96 D
+                 07/02 13:05    PENINSULA RESTAUR                               
+07/02/12 4811-9  Saque com cartão          71.041.288.936.761           100,00 D
+                 07/02 10:41 SOP-CORREIOS                                       
+07/02/12 000000  Telefone Pre-Pago         82.221.983.009.598            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+07/02/12 1903-8  Cheque Compensado         850.724                       69,98 D
+08/02/12 1273-4  Compra com Cartão         160.571                       43,12 D
+                 08/02 16:49    FCIA PAGUE MENOS                                
+08/02/12 000000  Pagamento de Título       20.801                         5,70 D
+                 CAIXA ECONOMICA FEDERAL                                        
+09/02/12 1273-4  Compra com Cartão         143.983                        9,63 D
+                 09/02 12:13    PENINSULA RESTAUR                               
+09/02/12 1273-4  Compra com Cartão         254.531                       50,00 D
+                 09/02 15:08    GASOL POSTO CAL L                               
+13/02/12 1273-4  Compra com Cartão         135.715                       23,00 D
+                 11/02 09:55    PONTO DO QUEIJO                                 
+13/02/12 1273-4  Compra com Cartão         249.659                       63,31 D
+                 11/02 13:47 URANTE MANGAI                                      
+13/02/12 1273-4  Compra com Cartão         367.383                       21,50 D
+                 12/02 18:43 S BRASILIA                                         
+13/02/12 1273-4  Compra com Cartão         644.936                       10,69 D
+                 13/02 12:28    PENINSULA RESTAUR                               
+13/02/12 1273-4  Compra com Cartão         761.320                        6,67 D
+                 13/02 17:02    PAO DOURADO                                     
+14/02/12 1273-4  Compra com Cartão         141.002                       50,00 D
+                 14/02 11:23    POSTO CASCOL 411                                
+14/02/12 4811-9  Saque com cartão          141.058.278.936.761          300,00 D
+                 14/02 10:58 SOP-CORREIOS                                       
+14/02/12 000000  Pagamento de Impostos     21.401                        68,42 D
+                 GPS - CODIGO DE BARRAS                                         
+14/02/12 000000  Pagamento de Impostos     21.402                       124,40 D
+                 GPS - CODIGO DE BARRAS                                         
+15/02/12 000000  Telefone Pre-Pago         82.221.983.016.863            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+17/02/12 000000  Telefone Pre-Pago         91.325.118.005.880            17,00 D
+                 3791325118-TIM - Minas Gerais                                  
+22/02/12 1273-4  Compra com Cartão         140.170                       50,00 D
+                 18/02 11:09  MAR DOCE                                          
+22/02/12 1273-4  Compra com Cartão         268.842                       80,00 D
+                 21/02 19:07  PARACATU                                          
+23/02/12 1273-4  Compra com Cartão         178.029                       13,00 D
+                 23/02 21:40    DROGARIA 214 NORT                               
+23/02/12 3593-9  Transferido para Poupança 10.015.068                   300,00 D
+                 23/02 3593   10015068-3 TATIANE SILVA                          
+24/02/12 000000  Telefone Pre-Pago         91.325.118.508.765            17,00 D
+                 3791325118-TIM - Minas Gerais                                  
+27/02/12 1273-4  Compra com Cartão         181.320                       21,31 D
+                 25/02 22:35    SUPERMAIA                                       
+27/02/12 1273-4  Transferência on line     524.885.000.017.354           19,00 D
+                 27/02 4885      17354-1 CRISTINA MARA                          
+27/02/12 000000  Pagamento de Título       22.701                        34,00 D
+                 CAIXA ECONOMICA FEDERAL                                        
+28/02/12 1273-4  Compra com Cartão         129.133                       50,00 D
+                 28/02 08:05 P GASOL 210 NORTE                                  
+28/02/12 4811-9  Saque com cartão          280.902.378.936.761          100,00 D
+                 28/02 09:02 SOP-CORREIOS                                       
+29/02/12 000000  Recebimento de Proventos  338.646                    4.057,88 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+29/02/12 3593-9  Transferido para Poupança 10.015.068                   100,00 D
+                 29/02 3593   10015068-3 TATIANE SILVA                          
+29/02/12 000000  S A L D O                 0                          4.948,92 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,18%
+TAXA CHEQUE ESPECIAL AO ANO                                              156,90%
+DT. VENC. CH. ESP.                                                    30/11/2012
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                LIQUIDA DF 2012: 1º A 11 DE MARÇO.                              
+                UTILIZE SEU LIMITE DE CDC E BOAS COMPRAS!                       
+                                                                                
+                SOS Acre. Ajude as vítimas das chuvas. Faça sua                 
+                doação: agência 0071-x e conta 100.000-4                        
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

@@ -1,0 +1,91 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+05/12/2007                       Auto-Atendimento                       09:26:03
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 3413-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data       Ag.Org  Histórico                 Documento                     Valor
+                                                                                
+22/11/2007 000000  Saldo Anterior            0                        6.688,98 C
+26/11/2007 3413-4  Compra com Cartão         185.868                     37,84 D
+                                24/11 23:51 CASA DO QUIBE 
+26/11/2007 3413-4  Compra com Cartão         232.837                     11,89 D
+                                   25/11 09:07 PAO DE SAL 
+26/11/2007 3413-4  Compra com Cartão         358.091                     10,40 D
+                            25/11 16:08 GIRAFFAS 302 NORT 
+26/11/2007 3413-4  Compra com Cartão         675.811                     21,20 D
+                                   25/11 21:03 EXTRA 1347 
+26/11/2007 3413-4  Transferência on line     520.452.000.038.472        100,00 D
+26/11/2007 000000  Tarifa SMS - Mês Anterior 71.001                       2,50 D
+26/11/2007 000000  Tarifa Pacote de Serviços 71.126                       3,00 D
+30/11/2007 000000  DOC Crédito em Conta      11.186                   2.500,00 C
+30/11/2007 3413-4  Compra com Cartão         170.027                     39,95 D
+                            30/11 19:27 CAMISARIA COLOMBO 
+03/12/2007 3413-4  Compra com Cartão         139.629                     23,00 D presente nive ze.
+                            01/12 11:00 CASA NOVA CAPITAL 
+03/12/2007 3413-4  Compra com Cartão         270.702                     14,68 D
+                             01/12 19:38 PAO DE ACUCAR LJ 
+03/12/2007 3413-4  Compra com Cartão         345.614                     17,50 D lona proteção - janelas
+                            03/12 12:40 CASA NOVA CAPITAL 
+04/12/2007 000000  TED-Crédito em Conta      3.926.353                5.010,00 C
+04/12/2007 1903-8  Cheque Compensado         850.580                     66,26 D combustível carro
+04/12/2007 000000  CPMF                      0                            1,15 D
+05/12/2007 3413-4  Pagamento de Título       120.501                    250,00 D condomínio
+05/12/2007 3413-4  Pagamento de Título       120.502                    216,92 D cartão BB
+05/12/2007 3413-4  Pagamento de Título       120.503                    166,73 D Net-fone-TV-internet
+05/12/2007 3413-4  Pagto conta telefone      120.504                     26,57 D cel-Tim-Sandro
+05/12/2007 3413-4  Pagto conta telefone      120.505                    118,08 D cel-Brt-Sandro
+05/12/2007 3413-4  Pagamento conta luz       120.506                     34,34 D luz-CEB
+05/12/2007 3413-4  Pagto conta telefone      120.507                     20,82 D cel-Tim-Tath
+05/12/2007 000000  S A L D O                 0                       13.016,15 C
+--------------------------------------------------------------------------------
+LIMITE CONTA UNIVERSITARIA                                            1.850,00 C
+SALDO DISPONIVEL                                                     14.866,15 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CPMF                                                                      4,41 -
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CONTA UNIVERSITARIA AO MÊS                                            7,52%
+TAXA CONTA UNIVERSITARIA AO ANO                                          138,71%
+DT. VENC. CH. ESP.                                                    31/10/2008
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor     Limite                
+                Financiamento BB            Utilizado Disponivel                
+                ----------------            --------- ----------                
+                                                                                
+                 CDC Salario                     0,00  13.719,00                
+                 CDC Emprestimo Eletronico       0,00  13.719,00                
+                 CDC Renovacao                   0,00  19.360,00                
+                 CDC Veiculo Proprio             0,00  17.407,00                
+                 BB Crediario/Construcao         0,00  20.000,00                
+                 BB Mat Construcao ate 36m       0,00  17.500,00                
+                 BB Crd Veiculo/Leasing          0,00  25.000,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parcelado Cartao         0,00  17.854,00                
+                 Limite Transf p/Cartao      1.778,00   9.499,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  27.153,00                
+                 BB Renovacao Consignacao*       0,00  27.153,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             160,02     854,98                
+                Prestacao para ECF               0,00   1.218,98                
+                Prestacao para Veiculo           0,00     854,98                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS OUT/07:     12                 
+                TAXA  CONTA  ESPECIAL:   7,56%  P/VOCE:    7,52%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:      6                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                Fundos de investimento BB. Bons rendimentos com                 
+                o dobro de pontos no programa de relacionamento.                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                BB CREDITO BENEFICIO - TAXAS PROMOCIONAIS                       
+                PARA APOSENTADOS E PENSIONISTAS DO INSS.                        
+                                                                                
+

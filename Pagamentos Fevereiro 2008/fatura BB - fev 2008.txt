@@ -1,0 +1,14 @@
+03/02/2008       AUTO-ATENDIMENTO       14.21.09 
+341303413                                   0006 
+ 
+              PAGAMENTO DE OUROCARD 
+ 
+CLIENTE: SANDRO TAVARES 
+AGENCIA: 3413-4          CONTA:          5.742-8 
+================================================ 
+CARTAO:                      4984.****.****.1322 
+DATA DO PAGAMENTO:                    06/02/2008 
+VALOR:                                    441,20 
+------------------------------------------------ 
+NR.AUTENTICACAO            1.FB5.141.4C1.631.077 
+Transação efetivada com sucesso!

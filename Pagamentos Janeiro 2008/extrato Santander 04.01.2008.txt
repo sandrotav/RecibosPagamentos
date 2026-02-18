@@ -1,0 +1,20 @@
+Período: 21/12/2007 a 04/01/2008 Data/Hora: 4/1/2008 às 10:21h 
+ 
+Data     Histórico  Documento  Valor  Saldo 
+ 
+ 
+21/12/2007      SLD ANTERIOR        2.325,65  
+ 
+27/12/2007      DOC D BCE  001964  -2.200,00   125,65  
+ 
+04/01/2008   M   LIQ VCTOS  010103  6.197,08      
+ 
+04/01/2008   M   REM CONTAMAX  000000  0,04      
+ 
+04/01/2008      EMISS TED D  000000  -6.000,00      
+ 
+04/01/2008      DOC E BCE  002077  -200,00   122,77  
+ 
+ 
+ 
+ A - Saldo de ContaMax 122,77 

@@ -1,0 +1,20 @@
+16/11/2015    -  BANCO  DO  BRASIL  -   15:13:37
+127301273                                   0036
+     COMPROVANTE DE PAGAMENTO DE TITULOS
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BANCO DO BRASIL
+------------------------------------------------
+00190000090233767501700537287187966130000040935
+NR. DOCUMENTO                            111.601
+NOSSO NUMERO                   23376750100537287
+CONVENIO                                02337675
+TRIB DE JUSTICA DO DF-CORREGED
+AG/COD. BENEFICIARIO               4200/00333050
+DATA DE VENCIMENTO                    15/11/2015
+DATA DO PAGAMENTO                     16/11/2015
+VALOR DO DOCUMENTO                        409,35
+VALOR COBRADO                             409,35
+================================================
+NR.AUTENTICACAO            E.344.4C8.EFE.7AB.F37

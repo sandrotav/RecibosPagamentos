@@ -1,0 +1,19 @@
+
+
+Placa: HJL8900 ano/modelo:  2008
+
+ Consulta - Parcelas em Aberto
+  Dados do contrato
+Instituição Financeira:  BANCO ITAUCARD S.A. 	Cliente:  SANDRO TAVARES 	Contrato:  000000543763601
+Produto:  Financiamento 	Data de efetivação:  20/01/2015 	Data prevista para término:  20/01/2019
+Dia do vencimento das parcelas:  20 	Modalidade de pagamento:  CARNE 	Indexador:  PRE-FIXADA
+Parcelas em atraso: 001 	Dias em atraso:  0003 	Data de atualização:  28/12/2015
+  	  	
+
+Nº parcela 	Vencimento 	Nº identificação 	Valor da parcela 	Encargos 	Tarifa bancária 	Valor total	
+ 011 	 20/12/2015		 011543763608 	 R$ 622,41 	 R$ 17,61 	 R$ 0,00 	 R$ 640,02	
+ 012 	 20/01/2016		 012543763606 	 R$ 612,53 	 R$ 0,00 	 R$ 0,00 	 R$ 612,53	
+ 013 	 20/02/2016		 013543763604 	 R$ 599,45 	 R$ 0,00 	 R$ 0,00 	 R$ 599,45	
+ 014 	 20/03/2016		 014543763602 	 R$ 587,47 	 R$ 0,00 	 R$ 0,00 	 R$ 587,47	
+ 015 	 20/04/2016		 015543763609 	 R$ 574,93 	 R$ 0,00 	 R$ 0,00 	 R$ 574,93	
+ 016 	 20/05/2016		 016543763607 	 R$ 563,05 	 R$ 0,00 	 R$ 0,00 	 R$ 563,05

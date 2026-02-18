@@ -1,0 +1,15 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+03/08/2023 -     AUTOATENDIMENTO      - 15.30.52
+1273401273         SEGUNDA VIA              0010
+            COMPROVANTE DE PAGAMENTO
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  DETRAN DF RENAINF
+Codigo de Barras   87700000002-7   29790661310-6
+                   82323908318-6   32549010000-6
+Data do pagamento                     02/08/2023
+Valor Total                               229,79
+------------------------------------------------
+DOCUMENTO:  080204
+AUTENTICACAO SISBB:        5.3E3.8BB.6CA.0D7.3EF

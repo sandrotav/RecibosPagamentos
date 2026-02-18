@@ -1,0 +1,52 @@
+28/06/2019    -  BANCO  DO  BRASIL  -   09:46:32
+127301273                                   0005
+                                                
+     COMPROVANTE DE PAGAMENTO DE TITULOS        
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BRB - BANCO DE BRASILIA S.A.                    
+------------------------------------------------
+07090000876002828312931565070880779340000030754 
+BENEFICIARIO:                                   
+COND RURAL SOLAR DA SERRA                       
+NOME FANTASIA:                                  
+SOLAR DA SERRA                                  
+CNPJ: 37.138.013/0001-31                        
+SACADOR AVALISTA:                               
+COND RURAL SOLAR DA SERRA                       
+CNPJ: 37.138.013/0001-31                        
+PAGADOR:                                        
+SANDRO TAVARES                                  
+CPF: 011.862.826-73                             
+------------------------------------------------
+NR. DOCUMENTO                             62.801
+DATA DE VENCIMENTO                    28/06/2019
+DATA DO PAGAMENTO                     28/06/2019
+VALOR DO DOCUMENTO                        307,54
+VALOR COBRADO                             307,54
+================================================
+NR.AUTENTICACAO            5.AA4.F8A.059.9E1.41F
+================================================
+Central de Atendimento BB                       
+4004 0001 Capitais e regioes metropolitanas     
+0800 729 0001 Demais localidades                
+Consultas, informacoes e servicos transacionais.
+                                                
+SAC                                             
+0800 729 0722                                   
+Informacoes, reclamacoes e cancelamento de      
+produtos e servicos.                            
+                                                
+Ouvidoria                                       
+0800 729 5678                                   
+Reclamacoes nao solucionadas nos canais         
+habituais: agencia, SAC e demais canais de      
+atendimento.                                    
+                                                
+Atendimento a Deficientes Auditivos ou de Fala  
+0800 729 0088                                   
+Informacoes, reclamacoes, cancelamento de       
+cartao, outros produtos e servicos de Ouvidoria.
+Transação efetivada com sucesso!

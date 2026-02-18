@@ -1,0 +1,29 @@
+REDECARD               
+                 VISA                 
+COMPR:002497673    VALOR:       295,83
+ESTAB:027032353 CAPRONI VEST ESPORTIVO
+05.04.13-11:19:33 TERM:RO022490/969459
+NUMERO PARCELAS : 03                  
+CARTAO: xxxxxxxxxxxx3696     VAL:11/16
+AUTORIZACAO: 083274                   
+     RECONHECO E PAGAREI A DIVIDA     
+          AQUI REPRESENTADA           
+
+
+     ____________________________     
+                                      
+     SANDRO TAVARES                   
+
+
+
+Transação aprovada
+Data: 20130405
+Nº do Pedido: 5201345111815
+Nº do cartão: 498406******3696
+Nacionalidade: BR
+Autorização: 083274
+Comprovante de Venda: 2497673
+Autenticação: 969459
+Nº seqüencial único: 969459
+
+

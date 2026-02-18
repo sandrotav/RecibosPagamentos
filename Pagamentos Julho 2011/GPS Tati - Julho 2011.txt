@@ -1,0 +1,17 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/07/2011  -   AUTO-ATENDIMENTO    -   14.18.38 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  GPS - CODIGO DE BARRAS                 
+Codigo de Barras   85890000000-0   59950270116-2 
+                   30001306830-9   76772011063-2 
+Data do pagamento                     05/07/2011 
+Valor Total                                59,95 
+================================================ 
+DOCUMENTO:  070501                               
+AUTENTICACAO SISBB:        4.3AD.B0A.C20.9E4.BAA                            

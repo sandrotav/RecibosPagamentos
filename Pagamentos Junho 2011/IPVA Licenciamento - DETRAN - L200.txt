@@ -1,0 +1,17 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+16/06/2011  -   AUTO-ATENDIMENTO    -   08.57.10 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  DETRAN DF                              
+Codigo de Barras   85680000000-7   45709912160-2 
+                   61111301914-9   54902013581-6 
+Data do pagamento                     16/06/2011 
+Valor Total                                45,70 
+================================================ 
+DOCUMENTO:  061603                               
+AUTENTICACAO SISBB:        2.15F.6B2.C70.AD0.B3C                            

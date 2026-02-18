@@ -1,0 +1,18 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+02/12/2008  -   AUTO-ATENDIMENTO    -   20.10.22 
+3593903593                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3593-9    CONTA:          5.742-8       
+================================================ 
+Convenio  TIM CELULAR S.A.                       
+Codigo de Barras   84620000001-2   07010109010-1 
+                   00025994596-2   35060299299-1 
+Data do pagamento                     02/12/2008 
+Valor Total                               107,01 
+================================================ 
+DOCUMENTO:  120204                               
+AUTENTICACAO SISBB:                              
+C.259.236.B68.72B.D95                      

@@ -1,0 +1,16 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+17/05/2021 -     AUTOATENDIMENTO      - 09.25.38
+1273401273         SEGUNDA VIA              0011
+            COMPROVANTE DE PAGAMENTO
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  PREF. MUN. BELO HORIZONTE
+Codigo de Barras   81770000000-0   00000521202-2
+                   10517012129-4   17475490000-2
+Data do pagamento                     14/05/2021
+Valor Total                               126,57
+------------------------------------------------
+DOCUMENTO:  051401
+AUTENTICACAO SISBB:        2.1A5.9D1.FDD.033.FE2
+                                                

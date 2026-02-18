@@ -1,0 +1,15 @@
+05/05/2016    -  BANCO  DO  BRASIL  -   17:08:11
+127301273                                   0029
+     COMPROVANTE DE PAGAMENTO DE TITULOS
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+HSBC BANK BRASIL S.A.-BANCO MU
+------------------------------------------------
+39993592476443203282587586122621867830000011925
+NR. DOCUMENTO                             50.301
+DATA DO PAGAMENTO                     03/05/2016
+VALOR DO DOCUMENTO                        119,25
+VALOR COBRADO                             119,25
+================================================
+NR.AUTENTICACAO            3.26A.341.A3B.CF3.7B6

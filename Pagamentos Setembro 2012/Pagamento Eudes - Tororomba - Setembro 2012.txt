@@ -1,0 +1,48 @@
+Comprovante
+  
+SISBB - Sistema de Informações Banco do Brasil - 31/08/2012 - Autoatendimento BB - 16:11:38
+Agência: 1273-4 - Conta: 5742-8 - Cliente: SANDRO TAVARES
+  
+Debitado
+ 
+Creditado
+ 
+Agência:1273-4
+
+Conta:5742-8
+ 
+Nome:SANDRO TAVARES
+ 
+Agência:1273-4
+ 
+Conta:16025-3
+ 
+Nome:ANTONIO E T NASCIMENTO
+ 
+Data: Nesta data       Valor: 500,00
+  
+ 
+ 
+==============================================================================================================================
+
+ 
+Comprovante 
+    
+SISBB - Sistema de Informações Banco do Brasil - 17/09/2012 - Autoatendimento BB - 15:15:14
+Agência: 1273-4 - Conta: 5742-8 - Cliente: SANDRO TAVARES 
+    
+Debitado   Creditado 
+  
+  Agência:1273-4 
+Conta:5742-8 
+Nome:SANDRO TAVARES
+  
+   Agência:1273-4 
+Conta:16025-3 
+Nome:ANTONIO E T NASCIMENTO 
+ 
+  Data: Nesta data       Valor: 620,00 
+
+  Transação efetivada com sucesso!
+
+

@@ -1,0 +1,23 @@
+14/06/2013    -  BANCO  DO  BRASIL  -   15:11:35 
+127301273                                   0015 
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO DO BRASIL                                  
+------------------------------------------------ 
+00190000090170978900000003237187657300000007000  
+NR. DOCUMENTO                             61.401 
+NOSSO NUMERO                   17097890000003237 
+CONVENIO                                01709789 
+MINISTERIO DO PLANEJAMENTO ORC                   
+AGENCIA/COD. CEDENTE               1607/00333250 
+DATA DE VENCIMENTO                    17/06/2013 
+DATA DO PAGAMENTO                     14/06/2013 
+VALOR DO DOCUMENTO                         70,00 
+VALOR COBRADO                              70,00 
+================================================ 
+                                                 
+NR.AUTENTICACAO            8.8FF.153.566.C89.2C0 

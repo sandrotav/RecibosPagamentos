@@ -1,0 +1,15 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+15/12/2015 -     AUTOATENDIMENTO      - 15.54.05
+1273401273         SEGUNDA VIA              2088
+            COMPROVANTE DE PAGAMENTO
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  VIVO DF
+Codigo de Barras   84650000001-9   65930047001-3
+                   10200914753-3   11156151210-9
+Data do pagamento                     09/12/2015
+Valor Total                               165,93
+------------------------------------------------
+DOCUMENTO:  120901
+AUTENTICACAO SISBB:        7.7C1.60D.347.D5E.876

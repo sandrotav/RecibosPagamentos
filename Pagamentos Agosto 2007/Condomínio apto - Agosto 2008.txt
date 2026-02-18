@@ -1,0 +1,24 @@
+05/08/2008    -  BANCO  DO  BRASIL  -   15:55:45 
+359303593                                   0004 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+CARTAO.: 4984 **** **** 4075                     
+================================================ 
+BANCO ITAU S.A.                                  
+------------------------------------------------ 
+34191090081121257158940480840004339550000025000  
+NR. DOCUMENTO                             80.501 
+DATA DO PAGAMENTO                     05/08/2008 
+VALOR DO DOCUMENTO                        250,00 
+VALOR COBRADO                             250,00 
+================================================ 
+PAGAMENTO COM CARTAO DE CREDITO A VISTA          
+SUJEITO A COBRANCA DE TARIFA DE ACORDO COM A     
+TABELA DE TARIFAS VIGENTE NA DATA DE LIQUIDACAO. 
+NR.AUTENTICACAO            0.61B.5C5.EAE.DC8.4EF 
+ 
+
+Transação efetivada com sucesso!

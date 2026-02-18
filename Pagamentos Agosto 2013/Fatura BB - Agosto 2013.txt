@@ -1,0 +1,13 @@
+07/11/2013          ATENDIMENTO         12:34:16
+127301273            SEGUNDA VIA            0015
+
+  COMPROVANTE DE PAGAMENTO DA FATURA DO CARTAO
+
+Cliente : SANDRO TAVARES
+Agencia :  1273-4         Conta:         5.742-8
+================================================
+Descricao : PAGAMENTO FATURA CARTAO
+Referencia: PG000726296127320130805
+Valor     :       2.718,46
+Data      : 06/08/2013
+================================================

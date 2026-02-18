@@ -1,0 +1,25 @@
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+08/03/2024 -     AUTOATENDIMENTO      - 10.29.54
+1273401273                                  0001
+                                                
+         COMPROVANTE DE AGENDAMENTO             
+                                                
+ MINISTERIO DA PREVIDENCIA E ASSISTENCIA SOCIAL 
+     INSTITUTO NACIONAL DO SEGURO SOCIAL        
+      GUIA DA PREVIDENCIA SOCIAL - GPS          
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4 CONTA:         5.742-8          
+================================================
+CODIGO DO PAGAMENTO                         1163
+COMPETENCIA                              02/2024
+IDENTICADOR                          13068307677
+DATA DO PAGAMENTO                     11/03/2024
+VALOR DO INSS                             155,32
+VALOR OUTRAS ENTIDADES                      0,00
+VALOR ATM/JUROS/MULTA                       0,00
+VALOR TOTAL                               155,32
+================================================
+DOCUMENTO: 031102                               
+Pagamento Agendado.                       

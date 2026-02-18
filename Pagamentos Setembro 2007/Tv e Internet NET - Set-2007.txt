@@ -1,0 +1,19 @@
+
+
+05/09/2007    -  BANCO  DO  BRASIL  -   07:15:41 
+341303413                                   0001 
+ 
+     COMPROVANTE DE PAGAMENTO DE TITULOS 
+ 
+CLIENTE:   SANDRO TAVARES 
+AGENCIA: 3413-4          CONTA:          5.742-8 
+================================================ 
+BANCO BRADESCO S.A. 
+------------------------------------------------ 
+23790516066000029374049008145002536250000014990 
+NR. DOCUMENTO                             90.503 
+DATA DO PAGAMENTO                     05/09/2007 
+VALOR DO DOCUMENTO                        149,90 
+VALOR COBRADO                             149,90 
+================================================ 
+NR.AUTENTICACAO            4.D94.8DF.DE8.125.849 

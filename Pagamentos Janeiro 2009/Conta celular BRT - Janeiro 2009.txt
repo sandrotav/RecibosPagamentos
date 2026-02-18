@@ -1,0 +1,17 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+12/01/2009  -   AUTO-ATENDIMENTO    -   15.08.49 
+3593903593                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3593-9    CONTA:          5.742-8       
+================================================ 
+Convenio  BRASIL TELECOM GSM (DF)                
+Codigo de Barras   84650000000-1   61220150904-1 
+                   66322020090-6   10118100000-7 
+Data do pagamento                     12/01/2009 
+Valor Total                                61,22 
+================================================ 
+DOCUMENTO:  011201                               
+AUTENTICACAO SISBB:        4.03D.B3A.26D.23A.3A6                            

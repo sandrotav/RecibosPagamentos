@@ -1,0 +1,20 @@
+Pagamento de contas de consumo - Água/Luz/Telefone/Gás  
+
+         SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/03/2008  -   AUTO-ATENDIMENTO    -   15.18.00 
+3413403413                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3413-4    CONTA:          5.742-8       
+================================================ 
+Convenio  GDF CONTA ARRECADACAO                  
+Codigo de Barras   85790000000-4   90900009110-0 
+                   30800001115-2   51320281252-7 
+Data do pagamento                     05/03/2008 
+Valor Total                                90,90 
+================================================ 
+DOCUMENTO:  030501                               
+AUTENTICACAO SISBB:                              
+A.5C8.BCF.6AB.35F.E29               

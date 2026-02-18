@@ -1,0 +1,24 @@
+Pagamento de contas de consumo - Água/Luz/Telefone/Gás  
+
+         SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+03/03/2008  -   AUTO-ATENDIMENTO    -   15.56.37 
+3413403413                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3413-4    CONTA:          5.742-8       
+================================================ 
+Convenio  CEB                                    
+Codigo de Barras   83650000000-2   23810005280-8 
+                   51008187158-2   00000000000-0 
+Data do pagamento                     03/03/2008 
+Valor Total                                23,81 
+================================================ 
+DOCUMENTO:  030301                               
+AUTENTICACAO SISBB:                              
+A.94D.350.B46.F3B.2DA                            
+         
+ 
+Transação efetivada com sucesso!
+

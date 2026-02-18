@@ -1,0 +1,17 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+16/08/2016 -     AUTOATENDIMENTO      - 10.28.33
+1273401273         SEGUNDA VIA              0008
+
+            COMPROVANTE DE PAGAMENTO
+
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  DAS - SIMPLES NACIONAL
+Codigo de Barras   85890000000-0   52640328162-3
+                   15070816215-3   69248916686-5
+Data do pagamento                     02/08/2016
+Valor Total                                52,64
+------------------------------------------------
+DOCUMENTO:  080201
+AUTENTICACAO SISBB:        0.420.CB2.514.9C9.B2A

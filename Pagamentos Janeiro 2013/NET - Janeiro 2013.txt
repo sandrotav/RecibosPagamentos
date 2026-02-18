@@ -1,0 +1,19 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+08/01/2013  -   AUTO-ATENDIMENTO    -   10.15.55 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  NET BRASILIA                           
+Codigo de Barras   84640000000-2   74720257201-8 
+                   30110040000-3   00106826452-0 
+Data do pagamento                     08/01/2013 
+Valor em Dinheiro                          74,72 
+Valor em Cheque                             0,00 
+Valor Total                                74,72 
+================================================ 
+DOCUMENTO:  010802                               
+AUTENTICACAO SISBB:        F.550.E7E.34E.29A.E30                            

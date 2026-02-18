@@ -1,0 +1,18 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+03/02/2009  -   AUTO-ATENDIMENTO    -   13.29.27 
+3593903593                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3593-9    CONTA:          5.742-8       
+================================================ 
+Convenio  NET BRASILIA                           
+Codigo de Barras   84670000000-9   67470257200-1 
+                   90210040000-8   00058550390-7 
+Data do pagamento                     03/02/2009 
+Valor Total                                67,47 
+================================================ 
+DOCUMENTO:  020303                               
+AUTENTICACAO SISBB:                              
+8.177.674.CCA.9BC.C4B                         

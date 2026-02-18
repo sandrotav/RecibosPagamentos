@@ -1,0 +1,120 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+05/09/2013                       Auto-Atendimento                       10:34:30
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+23/08/13 000000  Saldo Anterior            0                            697,46 C
+26/08/13 1273-4  Compra com Cartão         140.116                       23,30 D
+                 24/08 11:08    LOJA OSCAR MORATO                               
+26/08/13 1273-4  Compra com Cartão         241.313                       25,00 D
+                 24/08 11:28 RIA PINTANGUI                                      
+26/08/13 1273-4  Compra com Cartão         354.228                       25,80 D
+                 26/08 15:03    BAR MERCEARIA PIT                               
+26/08/13 1273-4  Compra com Cartão         660.605                        4,20 D
+                 26/08 16:50 POPULAR                                            
+26/08/13 0967-9  Saque no TAA              261.514.478.643.696          100,00 D
+                 26/08 15:14 SAA-PITANGUI                                       
+26/08/13 000000  Pagto Mensalidade Seguro  1.597                        365,63 D
+28/08/13 000000  Depósito COMPE            937.954                      935,67 C
+                 237 2837    25892378802 RODOLFO VILELA                         
+29/08/13 1273-4  Compra com Cartão         145.368                       80,52 D
+                 29/08 12:36 MECADO PITANGUI                                    
+30/08/13 000000  Recebimento de Proventos  380.628                    4.913,03 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+30/08/13 1273-4  Compra com Cartão         157.227                       32,00 D
+                 30/08 15:53 AO MODAS                                           
+30/08/13 0967-9  Saque no TAA              301.524.368.643.696          180,00 D
+                 30/08 15:24 SAA-PITANGUI                                       
+02/09/13 1273-4  Compra com Cartão         132.846                       35,52 D
+                 31/08 09:07  SOLUCAO SUPERMER                                  
+02/09/13 1273-4  Compra com Cartão         276.606                       80,00 D
+                 02/09 21:16  CONAUTO                                           
+03/09/13 1273-4  Compra com Cartão         133.031                       85,75 D
+                 03/09 09:10    SHELL                                           
+03/09/13 1273-4  Compra com Cartão         238.200                       32,00 D
+                 03/09 10:36    TREVO 2                                         
+03/09/13 1273-4  Compra com Cartão         342.698                       12,00 D
+                 03/09 11:51    RESTAURANTE ITAMA                               
+03/09/13 1273-4  Compra com Cartão         652.702                       14,00 D
+                 03/09 14:38    BAR RESTAURANTE E                               
+03/09/13 1273-4  Compra com Cartão         774.226                       10,73 D
+                 03/09 20:37 ART ASA NORTE1275                                  
+04/09/13 1273-4  Compra com Cartão         141.231                       89,70 D
+                 04/09 11:27    POSTO GT                                        
+04/09/13 1273-4  Compra com Cartão         244.526                       14,00 D
+                 04/09 12:22 ERRAGENS                                           
+04/09/13 1273-4  Compra com Cartão         353.491                       59,51 D
+                 04/09 14:51 RIA ROSARIO                                        
+04/09/13 1273-4  Compra com Cartão         663.401                       18,50 D
+                 04/09 17:36  DO QUEIJO                                         
+04/09/13 1273-4  Compra com Cartão         764.349                       21,14 D
+                 04/09 17:52    PAO DOURADO                                     
+05/09/13 1273-4  Pagamento de Título       90.501                       250,00 D
+                 ITAU UNIBANCO S.A.                                             
+05/09/13 1273-4  Pagamento de Título       90.505                        46,48 D
+                 BANCO BRADESCO S.A.                                            
+05/09/13 1273-4  Pagamento de Título       90.506                       739,93 D
+                 BANCO SANTANDER (BRASIL) S.A.                                  
+05/09/13 000000  S A L D O                 0                          4.200,45 C
+--------------------------------------------------------------------------------
+Limite Cheque Especial                                                1.300,00 C
+Saldo Aprovisionado no Dia                                            3.044,57 D
+Saldo Disponivel                                                      2.455,88 C
+Juros                                                                       0,00
+Data de Debito de Juros                                             1./10./20,13
+IOF                                                                         0,00
+Data de Debito de IOF                                               1./10./20,13
+CREDITO BOMPRATODOS*                                                 72.277,00 C
+Dias de Uso Ch. Especial                                                    0,00
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                4,20%
+Taxa Cheque Especial AO ANO                                               63,84%
+DT. VENC. CH. ESP.                                                    29/11/2013
+                                                                                
+================================================================================
+                              Lançamentos  Futuros                              
+                                                                                
+05/09/2013   Pagamento de Energia Elétrica 90.503                          76,71
+05/09/2013   Pagamento de Telefone         90.504                         103,31
+05/09/2013   Pagamento de Impostos         90.502                          59,90
+05/09/2013   AGEND.DEB                     52.986.461                   3.044,57
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB CP Estilo                                                            1.323,18
+T O T A L                                                               1.323,18
+                                                                                
+                ================================================                
+                Linhas de Crédito           Crédito BOMPRATODOS*                
+                ----------------- Crédito Novo -----------------                
+                BB Crédito Salário                     72.277,00                
+                BB Crd Consig em Folha**               61.342,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crd Veículo/Leasing                 56.764,00                
+                BB Crediário/Construção                50.000,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                                                                                
+                Você que optou pelo pacote de serviços                          
+                BOMPRATODOS com benefícios exclusivos,                          
+                pode parcelar o valor utilizado do cheque                       
+                especial com condições especiais. Para saber                    
+                mais, acesse www.bompratodos.com.br.                            
+                ------------------------------------------------                
+                                                                                
+                O SEU CARTAO JA ESTA' DISPONIVEL EM SUA AGENCIA.                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

@@ -1,0 +1,15 @@
+11/05/2016    -  BANCO  DO  BRASIL  -   09:37:01
+127301273                                   0003
+     COMPROVANTE DE PAGAMENTO DE TITULOS
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BRB - BANCO DE BRASILIA S.A.
+------------------------------------------------
+07090000876000994710659543070201467900000039593
+NR. DOCUMENTO                             51.003
+DATA DO PAGAMENTO                     10/05/2016
+VALOR DO DOCUMENTO                        395,93
+VALOR COBRADO                             395,93
+================================================
+NR.AUTENTICACAO            B.F04.CDB.01A.947.DE7

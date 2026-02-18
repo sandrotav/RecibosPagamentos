@@ -1,0 +1,137 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+03/11/2011                       Auto-Atendimento                       10:25:00
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/05/11 000000  Saldo Anterior            0                          3.640,17 C
+02/06/11 000000  Recarga Pré-Pago Celular  82.221.983.005.630            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+02/06/11 000000  Pagto cartão crédito      730.127.300.156.761          900,45 D
+02/06/11 000000  Pagamento conta luz       60.201                        54,19 D
+                 CEB                                                            
+02/06/11 000000  Pagto conta telefone      60.202                       115,55 D
+                 TIM CELULAR S.A.                                               
+02/06/11 000000  Pagamento de Título       60.203                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+03/06/11 000000  Pagamento de Impostos     60.301                        59,95 D
+                 GPS - CODIGO DE BARRAS                                         
+06/06/11 2887-8  Transferência on line     552.887.000.012.122          400,00 C
+                 06/06 2887      12122-3 RONALDO & ALIN                         
+06/06/11 1273-4  Compra com Cartão         138.427                       30,00 D
+                 04/06 10:40    POSTO DA TORRE                                  
+06/06/11 1273-4  Compra com Cartão         265.436                        9,00 D
+                 04/06 18:10    POSTO CASCOL 411                                
+06/06/11 1273-4  Compra com Cartão         367.745                       13,86 D
+                 05/06 18:49 R BRASIL                                           
+06/06/11 1273-4  Compra com Cartão         657.126                       33,07 D
+                 06/06 15:52 RIA DISTRITAL                                      
+07/06/11 1273-4  Compra com Cartão         136.691                       30,00 D
+                 07/06 10:11    POSTO CASCOL 411                                
+07/06/11 1273-4  Compra com Cartão         257.991                       49,37 D
+                 07/06 16:06    FARMACIA PAGUE ME                               
+07/06/11 1273-4  Compra com Cartão         370.564                       17,27 D
+                 07/06 19:36    SUPERMERCADOS PRA                               
+07/06/11 1273-4  Aplicação Poupança        10.005.742                   100,00 D
+                 07/06 1273   10005742-X SANDRO TAVARES                         
+07/06/11 000000  Pagto conta telefone      60.701                        58,20 D
+                 NET BRASILIA                                                   
+07/06/11 000000  Pagamento de Impostos     60.702                       101,72 D
+                 GDF CONTA ARRECADACAO                                          
+08/06/11 1273-4  Compra com Cartão         143.303                      120,00 D
+                 08/06 12:01    GRACIE BARRA BSB                                
+09/06/11 1273-4  Compra com Cartão         164.890                       14,75 D
+                 09/06 18:01    CASA DE BISCOITOS                               
+09/06/11 1273-4  Compra com Cartão         279.649                       24,44 D
+                 09/06 22:07    WALMART ASA NORTE                               
+09/06/11 000000  Pagamento de Impostos     60.901                       109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+09/06/11 1903-8  Cheque Compensado         850.711                      500,00 D
+10/06/11 1273-4  Compra com Cartão         148.213                       30,00 D
+                 10/06 13:23    POSTO CASCOL 411                                
+10/06/11 1273-4  Compra com Cartão         277.501                       31,80 D
+                 10/06 21:31    GIRAFFAS                                        
+10/06/11 000000  Recarga Pré-Pago Celular  91.244.207.019.263            17,00 D
+                 3791244207-TIM - Minas Gerais                                  
+13/06/11 1273-4  Compra com Cartão         151.489                       49,00 D
+                 11/06 14:18    ZELO-BRASILIA                                   
+13/06/11 1273-4  Compra com Cartão         254.120                       97,96 D
+                 11/06 15:02 A 651                                              
+13/06/11 1273-4  Compra com Cartão         358.404                        3,70 D
+                 11/06 16:13 DINHA PREMIUM                                      
+13/06/11 1273-4  Compra com Cartão         631.154                       30,00 D
+                 12/06 08:39    GASOL 210N                                      
+13/06/11 1273-4  Compra com Cartão         767.787                       34,59 D
+                 12/06 18:49    WALMART ASA NORTE                               
+14/06/11 1273-4  Compra com Cartão         128.898                       30,00 D
+                 14/06 08:01    GASOL 210N                                      
+14/06/11 1273-4  Compra com Cartão         280.553                       49,65 D
+                 14/06 22:22    DROGARIA ROSARIO                                
+15/06/11 4811-9  Saque no TAA              150.957.018.936.761           60,00 D
+                 15/06 09:57 SOP-CORREIOS                                       
+16/06/11 000000  INSS Arrecadação          61.601                       109,00 D
+16/06/11 000000  Pagamento de Impostos     61.602                       389,03 D
+                 GDF CONTA ARRECADACAO                                          
+16/06/11 000000  Pagamento de Impostos     61.603                        45,70 D
+                 DETRAN DF                                                      
+20/06/11 1273-4  Compra com Cartão         155.166                       30,00 D
+                 18/06 15:19    POSTO CEM                                       
+20/06/11 1273-4  Compra com Cartão         261.001                       68,12 D
+                 18/06 16:56  LEAL                                              
+20/06/11 1273-4  Compra com Cartão         370.733                       28,31 D
+                 18/06 19:38    FARMACIA PAGUE ME                               
+20/06/11 1273-4  Compra com Cartão         678.466                       33,90 D
+                 18/06 21:47    PIZZARIA MARINELL                               
+20/06/11 1273-4  Compra com Cartão         765.582                       15,15 D
+                 19/06 18:13    PAO DOURADO                                     
+21/06/11 1273-4  Compra com Cartão         129.926                       20,00 D
+                 21/06 08:18    POSTO CASCOL 411                                
+21/06/11 000000  Recarga Pré-Pago Celular  82.221.983.502.659            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+21/06/11 4597-7  Saque no TAA              210.839.448.936.761           50,00 D
+                 21/06 08:39 UNICORREIOS                                        
+24/06/11 1273-4  Compra com Cartão         144.340                       13,68 D
+                 24/06 12:19    PENINSULA RESTAUR                               
+27/06/11 0967-9  Depósito Online           9.671.512.000.287             81,00 C
+27/06/11 1273-4  Compra com Cartão         147.477                       19,94 D
+                 25/06 13:11    SOBRADINHO CARNES                               
+27/06/11 000000  Tarifa SMS - Mês Anterior 891.780.800.317.314            3,50 D
+                 Tarifa referente a 01/06/2011                                  
+28/06/11 1273-4  Compra com Cartão         128.743                       30,00 D
+                 28/06 07:59    POSTO CASCOL 411                                
+28/06/11 4811-9  Saque no TAA              281.341.548.936.761           60,00 D
+                 28/06 13:41 SOP-CORREIOS                                       
+29/06/11 0967-9  Transferência on line     220.967.000.016.407          200,00 C
+                 29/06 0967      16407-0 MARIA INES SIL                         
+29/06/11 1273-4  Compra com Cartão         177.687                       22,00 D
+                 29/06 21:34    DROGARIA 403 NORT                               
+30/06/11 4811-9  Depósito Online           2.670.003.033                900,00 C
+30/06/11 000000  Recebimento de Proventos  298.724                    4.874,32 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+30/06/11 000000  S A L D O                 0                          6.148,64 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,30%
+TAXA CHEQUE ESPECIAL AO ANO                                              160,34%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                BB CREDITO VEICULO. SOLUCOES PARA ADQUIRIR SEU                  
+                VEICULO DE FORMA RAPIDA E FACIL.                                
+                                                                                
+                PROMOCAO CDB PREMIADO. INVISTA E CONCORRA A                     
+                PREMIOS EM DINHEIRO. SAIBA MAIS EM BB.COM.BR                    
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

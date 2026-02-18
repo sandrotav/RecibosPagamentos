@@ -1,0 +1,91 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+14/09/2010                       Auto-Atendimento                       09:42:55
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+30/07/10 000000  Saldo Anterior            0                          5.231,53 C
+02/08/10 1273-4  Compra com Cartão         155.032                       42,50 D
+                 01/08 15:17 POSTO QUATI                                        
+02/08/10 1273-4  Compra com Cartão         275.259                      102,96 D
+                 01/08 20:54 POSTO JK                                           
+03/08/10 1302-1  Transferido para Poupança 10.009.585                   200,00 D
+                 03/08 1302   10009585-2 VALDIVA RODRIG                         
+03/08/10 000000  Pagto cartão crédito      730.127.300.176.761          877,09 D
+03/08/10 000000  Pagamento de Título       80.301                        88,00 D
+03/08/10 000000  Pagamento de Título       80.302                       175,56 D
+03/08/10 000000  Pagamento de Título       80.303                       200,00 D
+03/08/10 000000  Pagamento conta luz       80.304                        16,71 D
+03/08/10 000000  Pagamento de Impostos     80.305                        98,22 D
+03/08/10 000000  Pagamento de Impostos     80.306                        53,79 D
+03/08/10 000000  INSS Arrecadação          80.307                       102,00 D
+03/08/10 000000  Emissão de DOC            80.308                       250,00 D
+03/08/10 000000  Pagamento conta luz       80.309                        33,68 D
+03/08/10 000000  Tarifa DOC/TED Internet   872.151.200.046.787            8,00 D
+                 Tarifa referente a 03/08/2010                                  
+05/08/10 4811-9  Saque no TAA              51.249.188.936.761           700,00 D
+                 05/08 12:49 SOP-CORREIOS                                       
+05/08/10 000000  Pagto cartão crédito      730.127.300.258.996          640,21 D
+05/08/10 000000  Pagto conta telefone      80.501                        54,67 D
+09/08/10 4811-9  Depósito Online           2.396.139.111              2.980,00 C
+09/08/10 0967-9  Saque no TAA              81.436.168.936.761           100,00 D
+                 08/08 14:36 SAA-PITANGUI                                       
+10/08/10 000000  Transf Aplicação Cta Inv  1.200.032                  3.000,00 D
+10/08/10 000000  Pagto conta telefone      81.001                       177,54 D
+10/08/10 1903-8  Cheque Compensado         850.678                       80,00 D
+11/08/10 4811-9  Saque no TAA              111.640.178.936.761          250,00 D
+                 11/08 16:40 SOP-CORREIOS                                       
+13/08/10 1273-4  Compra com Cartão         167.153                        9,00 D
+                 13/08 18:39 CASA DO PAO DE QU                                  
+13/08/10 4811-9  Saque no TAA              131.056.438.936.761          100,00 D
+                 13/08 10:56 SOP-CORREIOS                                       
+16/08/10 1273-4  Compra com Cartão         127.417                       50,00 D
+                 16/08 07:36 POSTO AMERICAN PE                                  
+16/08/10 4811-9  Saque no TAA              161.304.508.936.761          250,00 D
+                 16/08 13:04 RODOVIARIA                                         
+17/08/10 1903-8  Cheque Compensado         850.679                      285,00 D
+18/08/10 1273-4  Compra com Cartão         159.612                       20,00 D
+                 18/08 16:33 MADEREIRA COMABRA                                  
+23/08/10 1273-4  Compra com Cartão         142.971                        6,85 D
+                 21/08 11:56 FARIA                                              
+24/08/10 000000  Transf de Resgate da CI   1.200.032                    300,00 C
+24/08/10 4811-9  Saque no TAA              241.331.218.936.761          300,00 D
+                 24/08 13:31 SOP-CORREIOS                                       
+24/08/10 000000  Tarifa Saque Terminal     892.361.200.068.442            1,40 D
+                 Tarifa referente a 24/08/2010                                  
+24/08/10 1908-9  Cheque Compensado         850.680                       42,50 D
+25/08/10 000000  Tarifa SMS - Mês Anterior 802.370.900.888.357            2,50 D
+                 Tarifa referente a 02/08/2010                                  
+31/08/10 000000  Recebimento de Proventos  334.952                    3.638,63 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+31/08/10 1273-4  Compra com Cartão         171.733                       50,00 D
+                 31/08 19:55 GASOL 305N                                         
+31/08/10 1273-4  Compra com Cartão         278.492                       38,88 D
+                 31/08 21:48 FASS                                               
+31/08/10 1273-4  Transferência on line     523.593.000.367.056           58,00 D
+                 31/08 3593     367056-2 ALESSANDRO MEN                         
+31/08/10 000000  S A L D O                 0                          3.685,10 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,54%
+TAXA CHEQUE ESPECIAL AO ANO                                              139,24%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                OUROCAP - SORTEIO DO SABADO DIA 04.09.2010                      
+                REALIZADO DIA 09.09 - DEZENAS 05-11-14-18-25-34                 
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

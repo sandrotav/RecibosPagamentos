@@ -1,0 +1,16 @@
+SISBB - SISTEMA DE INFORMACOES BANCO DO BRASIL 
+07/12/2010       AUTO-ATENDIMENTO       08.39.19 
+127301273                                    006 
+          COMPROVANTE DE TRANSFERENCIA 
+        DA CONTA CORRENTE PARA POUPANCA 
+------------------------------------------------ 
+DEBITADO 
+AGENCIA: 1273-4          CONTA:          5.742-8 
+CLIENTE: SANDRO TAVARES 
+ 
+FAVORECIDO 
+AGENCIA: 1302-1 CONTA:          9.585-0  VAR: 01 
+CLIENTE: VALDIVA RODRIGUES SANTOS 
+VALOR:             200,00                  
+ 
+             TRANSFERENCIA IMEDIATA 

@@ -1,0 +1,63 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+09/12/2021 -     AUTOATENDIMENTO      - 09.37.34
+1273401273                                  0004
+                Comprovante Pix                 
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4 CONTA:         5.742-8          
+================================================
+SOBRE A TRANSACAO                               
+------------------------------------------------
+ID:             E0000000020211209123550452330730
+CPF DO PAGADOR:                   ***.862.826-**
+VALOR:                                    780,00
+DATA:                      09/12/2021 - 09:37:27
+DESCRICAO:BOLETO REFERENTE A  Dezembro/2021: Men
+          salidade: 780,00 - Aluno: KATARINA GAL
+          VÃO TAVARES - 5B                      
+------------------------------------------------
+PAGO PARA:  Instituto Palmares de Educacao Globa
+CNPJ:    405.116/0001-00                        
+CHAVE PIX: 00405116000100                       
+INSTITUICAO: 60746948 BCO BRADESCO S.A.         
+AGENCIA: 1835 - CONTA: 00000000000000003107     
+TIPO DE CONTA: Conta Corrente                   
+------------------------------------------------
+Notificacao enviada em: 09/12/2021 - 09:37:28   
+================================================
+DOCUMENTO: 120901                               
+AUTENTICACAO SISBB:        0.A8B.CA6.CB6.92C.857
+================================================
+
+
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+09/12/2021 -     AUTOATENDIMENTO      - 09.41.17
+1273401273                                  0006
+                Comprovante Pix                 
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4 CONTA:         5.742-8          
+================================================
+SOBRE A TRANSACAO                               
+------------------------------------------------
+ID:             E0000000020211209124001876909094
+CPF DO PAGADOR:                   ***.862.826-**
+VALOR:                                    818,00
+DATA:                      09/12/2021 - 09:41:08
+DESCRICAO:BOLETO REFERENTE A  Dezembro/2021: Men
+          salidade: 818,00 - Aluno: MANUELA GALV
+          ÃO TAVARES - 1-A                      
+------------------------------------------------
+PAGO PARA:  Instituto Palmares de Educacao Globa
+CNPJ:    405.116/0001-00                        
+CHAVE PIX: 00405116000100                       
+INSTITUICAO: 60746948 BCO BRADESCO S.A.         
+AGENCIA: 1835 - CONTA: 00000000000000003107     
+TIPO DE CONTA: Conta Corrente                   
+------------------------------------------------
+Notificacao enviada em: 09/12/2021 - 09:41:10   
+================================================
+DOCUMENTO: 120902                               
+AUTENTICACAO SISBB:        0.5EF.569.DBD.587.11B
+================================================

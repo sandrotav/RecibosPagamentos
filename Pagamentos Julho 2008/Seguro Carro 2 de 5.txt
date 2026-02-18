@@ -1,0 +1,22 @@
+21/07/2008    -  BANCO  DO  BRASIL  -   08:58:37 
+359303593                                   0004 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 3593-9          CONTA:          5.742-8 
+================================================ 
+UNIBANCO - UNIAO DE BANCOS BRA                   
+------------------------------------------------ 
+40995027442910000200402103336513200000000017457  
+NR. DOCUMENTO                             72.101 
+DATA DO PAGAMENTO                     21/07/2008 
+VALOR DO DOCUMENTO                        174,57 
+VALOR COBRADO                             174,57 
+================================================ 
+NR.AUTENTICACAO            C.D1B.07D.1B6.D4E.973 
+
+
+Transação efetivada com sucesso!
+

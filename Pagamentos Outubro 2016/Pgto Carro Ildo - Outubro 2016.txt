@@ -1,0 +1,40 @@
+Comprovante de pagamento de boleto
+
+Via Internet Banking CAIXA
+
+
+Nome: SANDRO TAVARES  
+Conta de débito: 1297 / 001 / 00020635-8 
+
+
+
+Representação numérica do código de barras: 
+03399.50461 76900.244492 82810.001022 1 69430000094100 
+
+
+
+Data do vencimento: 10/10/2016 
+Nome do banco: BANCO SANTANDER S.A. 
+Valor (R$): 941,00 
+Identificação da operação: PGTO CARRO ILDO 
+
+
+
+Data de débito: 10/10/2016 
+Data/hora da operação: 10/10/2016 10:36:28 
+
+
+
+
+Código da operação: 00499968 
+Chave de segurança: HQR845R0H92J31PC 
+
+
+Operação realizada com sucesso conforme as informações fornecidas pelo cliente.
+
+ 
+
+SAC CAIXA: 0800 726 0101
+Pessoas com deficiência auditiva: 0800 726 2492
+Ouvidoria: 0800 725 7474
+Help Desk CAIXA: 0800 726 0104

@@ -1,0 +1,147 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+29/11/2011                       Auto-Atendimento                       08:50:05
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/10/11 000000  Saldo Anterior            0                          6.817,66 C
+01/11/11 1273-4  Compra com Cartão         164.092                       99,80 D
+                 01/11 17:48    OPCAO JEANS                                     
+03/11/11 2887-8  Transferência on line     552.887.000.012.122          700,00 C
+                 03/11 2887      12122-3 RONALDO & ALIN                         
+03/11/11 1273-4  Compra com Cartão         152.359                       27,60 D
+                 02/11 14:32    GIRAFFAS EXTRANOR                               
+03/11/11 4811-9  Saque no TAA              31.340.168.936.761           110,00 D
+                 03/11 13:40 SOP-CORREIOS                                       
+04/11/11 1273-4  Compra com Cartão         164.398                       13,89 D
+                 04/11 17:53    PANIFIC LIDERANCA                               
+04/11/11 1273-4  Compra com Cartão         264.713                       50,00 D
+                 04/11 17:58    POSTO DOS ANOES                                 
+04/11/11 1273-4  Aplicação Poupança        10.005.742                   500,00 D
+                 04/11 1273   10005742-X SANDRO TAVARES                         
+04/11/11 1273-4  Aplicação Poupança        910.005.742                  300,00 D
+                 04/11 1273  910005742-3 SANDRO TAVARES                         
+04/11/11 000000  Pagto cartão crédito      730.127.300.256.761          445,57 D
+04/11/11 000000  BB Ref DI Plus Estilo     1.200.032                  3.000,00 D
+04/11/11 000000  Pagamento de Título       110.401                      200,00 D
+                 ITAU UNIBANCO S.A.                                             
+04/11/11 000000  Pagamento conta luz       110.402                       37,59 D
+                 CEB                                                            
+07/11/11 1273-4  Compra com Cartão         157.551                        7,95 D
+                 05/11 15:59    DROGASIL 429                                    
+07/11/11 1273-4  Compra com Cartão         262.693                      100,00 D
+                 05/11 17:24    SHOPPING DO BEBE                                
+07/11/11 1273-4  Compra com Cartão         363.701                       35,42 D
+                 05/11 17:41    SOBRADINHO CARNES                               
+07/11/11 000000  Pagto conta telefone      110.701                       56,74 D
+                 NET BRASILIA                                                   
+07/11/11 000000  Pagto conta telefone      110.702                      178,35 D
+                 TIM CELULAR S.A.                                               
+10/11/11 1273-4  Compra com Cartão         129.868                      105,00 D
+                 10/11 08:17    AUTO EIXO 208 NOR                               
+11/11/11 000000  Telefone Pre-Pago         82.221.983.005.053            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+11/11/11 4811-9  Saque com cartão          110.825.038.936.761          120,00 D
+                 11/11 08:25 SOP-CORREIOS                                       
+14/11/11 1273-4  Compra com Cartão         159.565                       38,35 D
+                 12/11 16:32 FOUR BAN 363                                       
+14/11/11 000000  Pagamento de Impostos     111.401                      109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+16/11/11 1273-4  Compra com Cartão         161.513                        4,00 D
+                 15/11 17:05 MORFOSE                                            
+16/11/11 1273-4  Compra com Cartão         261.783                       24,99 D
+                 15/11 17:09    HI HAPPY BRINQUED                               
+16/11/11 1273-4  Compra com Cartão         362.714                       22,00 D
+                 15/11 17:25    CIATOY                                          
+16/11/11 1273-4  Compra com Cartão         663.461                        6,00 D
+                 15/11 17:37 PARK                                               
+16/11/11 1273-4  Compra com Cartão         762.736                       15,81 D
+                 16/11 17:25    CRECOL COSMETICOS                               
+18/11/11 1273-4  Compra com Cartão         143.169                       19,01 D
+                 18/11 11:59    PENINSULA RESTAUR                               
+18/11/11 1273-4  Compra com Cartão         250.530                       57,96 D
+                 18/11 14:02 A 638                                              
+18/11/11 3477-0  Saque com cartão          181.538.328.936.761           20,00 D
+                 18/11 15:38 SHOPPING BOULEVARD                                 
+21/11/11 1903-8  Cheque Compensado         850.718                       60,00 D
+22/11/11 1273-4  Compra com Cartão         143.504                       15,68 D
+                 22/11 12:05    PENINSULA RESTAUR                               
+23/11/11 1273-4  Compra com Cartão         142.400                       11,46 D
+                 23/11 11:46    PENINSULA RESTAUR                               
+24/11/11 1273-4  Compra com Cartão         141.892                       90,00 D
+                 24/11 11:38    CASA DO RIO G DO                                
+24/11/11 1273-4  Compra com Cartão         243.435                        6,55 D
+                 24/11 12:03    PENINSULA RESTAUR                               
+24/11/11 1273-4  Compra com Cartão         376.650                       14,00 D
+                 24/11 21:17 AL PIZZARIA                                        
+24/11/11 000000  Telefone Pre-Pago         82.221.983.517.562            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+25/11/11 1273-4  Compra com Cartão         142.075                       12,87 D
+                 25/11 11:41    PENINSULA RESTAUR                               
+28/11/11 1273-4  Compra com Cartão         148.229                       32,00 D
+                 26/11 13:23    BOULEVARD UTILIDA                               
+28/11/11 1273-4  Compra com Cartão         259.984                       64,90 D
+                 26/11 16:39    ZELO-BRASILIA                                   
+28/11/11 1273-4  Compra com Cartão         360.930                       35,99 D
+                 26/11 16:55 A 651                                              
+28/11/11 1273-4  Compra com Cartão         660.158                       49,91 D
+                 27/11 16:42    ZELO-BRASILIA                                   
+28/11/11 4811-9  Saque com cartão          281.336.488.936.761          100,00 D
+                 28/11 13:36 SOP-CORREIOS                                       
+29/11/11 000000  S A L D O                 0                          1.285,27 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      2.585,27 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO PESSOAL TODO SEU*                                            53.732,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,22%
+TAXA CHEQUE ESPECIAL AO ANO                                              158,04%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Plus Est                                                     26.483,75
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               53.732,00                
+                BB Crédito Salário                     41.599,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                28.709,00                
+                BB Crd Veículo/Leasing                 26.309,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS OUT/11:     87                 
+                TAXA  CONTA  ESPECIAL:   8,41%  P/VOCE:    8,22%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     43                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                  SEU CONTRATO DE CONTA/CHEQUE ESPECIAL SERAH                   
+                  RENOVADO,  DESDE QUE NA  DATA DO VENCIMENTO                   
+                  NAO HAJA RESTRICOES CADASTRAIS.                               
+                                                                                
+                OUROCAP - SORTEIO DE SABADO 19.11.2011                          
+                REALIZADO DIA 24.11 - DEZENAS  10-17-21-22-25-42                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

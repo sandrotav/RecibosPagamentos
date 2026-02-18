@@ -1,0 +1,28 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+30/04/2013 -     AUTOATENDIMENTO      - 15.13.05
+1273401273         SEGUNDA VIA              0047
+
+            COMPROVANTE DE PAGAMENTO
+
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+AG. ARRECADADOR
+CNC 001 - 1273 - ESTILO ASA NORTE    DF
+CODIGO DE BARRAS         85680000000 61050064312
+                         00011862826 73002112366
+DATA DO PAGAMENTO                     30/04/2013
+PERIODO DE APURACAO                 ------------
+NUMERO DO CPF                       ------------
+CODIGO DA RECEITA                   ------------
+NUMERO DE REFERENCIA                ------------
+DATA DO VENCIMENTO                  ------------
+RECEITA BRUTA ACUMULADA             ------------
+PERCENTUAL                          ------------
+VALOR DO PRINCIPAL                  ------------
+VALOR DA MULTA                      ------------
+VALOR DOS JUROS                     ------------
+VALOR TOTAL                                61,05
+------------------------------------------------
+DOCUMENTO:  043001
+AUTENTICACAO SISBB:        5.15A.E2B.885.26B.8DD

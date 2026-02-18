@@ -1,0 +1,146 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+14/09/2010                       Auto-Atendimento                       09:45:02
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/08/10 000000  Saldo Anterior            0                          3.685,10 C
+01/09/10 1273-4  Compra com Cartão         148.449                       25,54 D
+                 01/09 13:27 CASTELO  RESTAURA                                  
+01/09/10 1273-4  Compra com Cartão         274.073                       63,73 D
+                 01/09 20:34 EXTRA 1347                                         
+01/09/10 000000  Recarga Pré-Pago Celular  82.221.983.020.750            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+01/09/10 1273-4  Transferência on line     523.477.000.006.025          120,00 D
+                 01/09 3477       6025-9 ANTONIO E T NA                         
+02/09/10 1273-4  Compra com Cartão         147.378                       34,00 D
+                 02/09 13:09 CASTELO  RESTAURA                                  
+02/09/10 000000  Pagto cartão crédito      730.127.300.086.761          596,21 D
+02/09/10 000000  Pagto cartão crédito      730.127.300.088.996          529,72 D
+02/09/10 000000  Pagamento conta luz       90.201                         9,62 D
+02/09/10 000000  Pagamento conta luz       90.202                        31,49 D
+02/09/10 000000  Pagamento de Impostos     90.203                        53,79 D
+02/09/10 000000  Pagamento de Impostos     90.204                        98,22 D
+02/09/10 000000  Pagamento de Título       90.205                       200,00 D
+02/09/10 000000  Pagamento de Título       90.206                        88,00 D
+02/09/10 000000  Pagamento de Título       90.207                       175,56 D
+02/09/10 000000  Emissão de DOC            90.208                       250,00 D
+02/09/10 000000  Tarifa DOC/TED Internet   822.450.900.034.107            8,00 D
+                 Tarifa referente a 02/09/2010                                  
+03/09/10 1273-4  Compra com Cartão         160.722                       18,74 D
+                 03/09 16:52 DE BISCOITO MINEIR                                 
+03/09/10 1273-4  Compra com Cartão         280.868                       31,00 D
+                 03/09 22:27 CHIKITA BACANA                                     
+03/09/10 4811-9  Saque no TAA              31.024.378.936.761           500,00 D
+                 03/09 10:24 SOP-CORREIOS                                       
+06/09/10 1273-4  Compra com Cartão         138.507                       24,95 D
+                 04/09 10:41 SUPERMERCADOS PRA                                  
+06/09/10 1273-4  Compra com Cartão         244.651                        3,63 D
+                 04/09 12:24 PRIMO PIATO                                        
+06/09/10 1273-4  Compra com Cartão         346.731                       23,80 D
+                 06/09 12:58 GIRAFFAS                                           
+06/09/10 1903-8  Cheque Compensado         850.682                      120,00 D
+08/09/10 4811-9  Depósito Online           2.407.007.422                300,00 C
+08/09/10 1273-4  Compra com Cartão         168.518                       20,37 D
+                 08/09 19:01 CASA DE BISCOITOS                                  
+08/09/10 1273-4  Compra com Cartão         271.511                       17,66 D
+                 08/09 19:51 EXTRA 1347                                         
+08/09/10 000000  Pagto conta telefone      90.801                        56,21 D
+09/09/10 1273-4  Compra com Cartão         163.899                        7,42 D
+                 09/09 17:44 PAO DO CERRADO                                     
+09/09/10 1273-4  Compra com Cartão         279.719                       20,00 D
+                 09/09 22:08 VILA MADA                                          
+09/09/10 1273-4  Compra com Cartão         384.121                       15,29 D
+                 09/09 23:22 CREPE AU CHOCOLAT                                  
+09/09/10 1302-1  Transferido para Poupança 10.009.585                   200,00 D
+                 09/09 1302   10009585-2 VALDIVA RODRIG                         
+09/09/10 000000  Recarga Pré-Pago Celular  82.221.983.013.075            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+09/09/10 000000  INSS Arrecadação          90.901                       102,00 D
+10/09/10 1273-4  Compra com Cartão         147.770                       21,90 D
+                 10/09 13:16 CASTELO  RESTAURA                                  
+10/09/10 1273-4  Compra com Cartão         276.988                       12,12 D
+                 10/09 21:23 SUPER VAREJAO OBA                                  
+13/09/10 000000  Transf de Resgate da CI   1.200.032                    300,00 C
+13/09/10 1273-4  Compra com Cartão         146.387                       26,11 D
+                 11/09 12:53 CH PLANALTAO 150                                   
+13/09/10 1273-4  Compra com Cartão         246.819                       10,00 D
+                 11/09 13:00 BAR RESTAURANTE E                                  
+13/09/10 1273-4  Compra com Cartão         348.714                        7,94 D
+                 12/09 13:31 EXTRA BRASILIA LJ                                  
+13/09/10 1273-4  Compra com Cartão         656.522                       13,78 D
+                 12/09 15:42 MAIA CRUZEIRO                                      
+13/09/10 1273-4  Compra com Cartão         756.854                       50,00 D
+                 12/09 15:47 GASOL CANAA                                        
+13/09/10 1273-4  Compra com Cartão         875.941                       28,00 D
+                 13/09 21:05 DIVERTPLAN                                         
+13/09/10 1273-4  Transferência on line     522.500.000.017.154          300,00 D
+                 13/09 2500      17154-9 ANTONIO CLEOFA                         
+13/09/10 1903-8  Cheque Compensado         850.681                      165,00 D
+14/09/10 000000  S A L D O                 0                            171,30 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      1.471,30 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,76%
+TAXA CHEQUE ESPECIAL AO ANO                                              145,18%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Estilo                                                        2.423,78
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 BB Crédito Salário              0,00  18.685,00                
+                 BB Crédito Automático           0,00  11.685,00                
+                 BB Crédito Renovação            0,00  18.685,00                
+                 CDC Veículo Próprio             0,00   9.609,00                
+                 BB Crediário/Construção         0,00  17.303,00                
+                 BB Crd Veículo/Leasing          0,00  18.069,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parc Cartão/Ch.Esp       0,00   5.589,00                
+                 Limite Transf p/Cartão      6.520,00   7.235,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  70.000,00                
+                 BB Renov/Reesc.Consig. *        0,00  70.000,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             586,80     651,20                
+                Prestacao para ECF               0,00   2.462,20                
+                Prestacao para Veiculo           0,00     428,20                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento ou Internet.                                        
+                ** Utilizacao do limite sujeita ao enquadramento                
+                nas disposicoes de microcredito.                                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS AGO/10:     37                 
+                TAXA  CONTA  ESPECIAL:   7,95%  P/VOCE:    7,76%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     18                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                OUROCAP - SORTEIO DO SABADO DIA 04.09.2010                      
+                REALIZADO DIA 09.09 - DEZENAS 05-11-14-18-25-34                 
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

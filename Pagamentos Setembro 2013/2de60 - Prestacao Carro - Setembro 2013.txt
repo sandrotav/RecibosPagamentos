@@ -1,0 +1,18 @@
+05/09/2013    -  BANCO  DO  BRASIL  -   10:30:04 
+127301273                                   0021 
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO SANTANDER (BRASIL) S.A.                    
+------------------------------------------------ 
+03399201595100020390425400201023158160000073993  
+NR. DOCUMENTO                             90.506 
+DATA DO PAGAMENTO                     05/09/2013 
+VALOR DO DOCUMENTO                        739,93 
+VALOR COBRADO                             739,93 
+================================================ 
+                                                 
+NR.AUTENTICACAO            8.707.BCD.1BA.7DA.C2E 

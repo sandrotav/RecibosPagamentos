@@ -1,0 +1,25 @@
+07/04/2011    -  BANCO  DO  BRASIL  -   08:03:20 
+127301273                                   0007 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO DO BRASIL                                  
+------------------------------------------------ 
+00190000090221693500311369196180949360000003200  
+NR. DOCUMENTO                             40.701 
+NOSSO NUMERO                   22169350011369196 
+CONVENIO                                02216935 
+CONCURSO CORREIOS 2011                           
+AGENCIA/COD. CEDENTE               3307/00195159 
+DATA DE VENCIMENTO                    13/04/2011 
+DATA DO PAGAMENTO                     07/04/2011 
+VALOR DO DOCUMENTO                         32,00 
+VALOR COBRADO                              32,00 
+================================================ 
+NR.AUTENTICACAO            9.960.7CB.D48.AA5.737 
+
+Transação efetivada com sucesso!

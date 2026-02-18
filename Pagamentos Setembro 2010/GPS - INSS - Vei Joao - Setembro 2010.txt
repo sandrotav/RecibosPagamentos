@@ -1,0 +1,30 @@
+Número de inscrição: 11417600491 
+Código de pagamento: 1406 
+Competência: 82010 
+Data do pagamento: 09/09/2010 
+Valor do INSS: 102,00 
+Valor de outras Entidades: 0,00 
+ATM/Juros/Multa: 0,00 
+Total: 102,00 
+
+Autenticação: 4.824.C27.060.2C1.D77  
+
+Cliente: SANDRO TAVARES 
+
+-------------------------------------------------------
+ 
+
+Número de inscrição: 11417600491 
+Código de pagamento: 1406 
+Competência: 82010 
+Data do pagamento: 09/09/2010 
+Valor do INSS: 102,00 
+Valor de outras Entidades: 0,00 
+ATM/Juros/Multa: 0,00 
+Total: 102,00 
+via Contribuinte
+
+Autenticação: 4.824.C27.060.2C1.D77  
+ 
+
+Transação efetivada com sucesso!

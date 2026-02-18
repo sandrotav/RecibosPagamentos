@@ -1,0 +1,24 @@
+05/12/2007    -  BANCO  DO  BRASIL  -   09:03:29 
+341303413                                   0003 
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 3413-4          CONTA:          5.742-8 
+================================================ 
+BANCO DO BRASIL                                  
+------------------------------------------------ 
+00194521010002173127830000000668900000000000000  
+NR. DOCUMENTO                            120.502 
+NOSSO NUMERO                    4521000021731273 
+CONVENIO                                00000000 
+BB ADMINISTRADORA DE CARTOES                     
+AGENCIA/COD. CEDENTE               4700/00000000 
+DATA DO PAGAMENTO                     05/12/2007 
+VALOR DO DOCUMENTO                        216,92 
+VALOR COBRADO                             216,92 
+================================================ 
+NR.AUTENTICACAO            6.946.0EB.8A5.C2C.C19 
+
+
+Transação efetivada com sucesso!

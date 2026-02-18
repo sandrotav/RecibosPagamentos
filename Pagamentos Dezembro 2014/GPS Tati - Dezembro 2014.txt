@@ -1,0 +1,58 @@
+
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+15/12/2014 -     AUTOATENDIMENTO      - 11.36.00 
+1273401273                                  0026 
+                                                 
+          COMPROVANTE DE PAGAMENTO               
+                                                 
+ MINISTERIO DA PREVIDENCIA E ASSISTENCIA SOCIAL  
+     INSTITUTO NACIONAL DO SEGURO SOCIAL         
+      GUIA DA PREVIDENCIA SOCIAL - GPS           
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4 CONTA:         5.742-8           
+================================================ 
+CODIGO DO PAGAMENTO                         1163 
+COMPETENCIA                              11/2014 
+IDENTICADOR                          13068307677 
+DATA DO PAGAMENTO                     15/12/2014 
+VALOR DO INSS                              79,64 
+VALOR OUTRAS ENTIDADES                      0,00 
+VALOR ATM/JUROS/MULTA                       0,00 
+VALOR TOTAL                                79,64 
+================================================ 
+DOCUMENTO: 121501                                
+AUTENTICACAO SISBB:        0.8D5.FA8.4D4.941.BD8 
+       ********  VIA EMPREGADOR  ********        
+                                                 
+                                                 
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+15/12/2014 -     AUTOATENDIMENTO      - 11.36.00 
+1273401273                                  0026 
+                                                 
+          COMPROVANTE DE PAGAMENTO               
+                                                 
+ MINISTERIO DA PREVIDENCIA E ASSISTENCIA SOCIAL  
+     INSTITUTO NACIONAL DO SEGURO SOCIAL         
+      GUIA DA PREVIDENCIA SOCIAL - GPS           
+                                                 
+CLIENTE: SANDRO TAVARES                          
+================================================ 
+CODIGO DO PAGAMENTO                         1163 
+COMPETENCIA                              11/2014 
+IDENTICADOR                          13068307677 
+DATA DO PAGAMENTO                     15/12/2014 
+VALOR DO INSS                              79,64 
+VALOR OUTRAS ENTIDADES                      0,00 
+VALOR ATM/JUROS/MULTA                       0,00 
+VALOR TOTAL                                79,64 
+================================================ 
+DOCUMENTO: 121501                                
+AUTENTICACAO SISBB:        0.8D5.FA8.4D4.941.BD8 
+       ******** VIA CONTRIBUINTE ********        
+
+    
+
+
+Transação efetivada com sucesso!

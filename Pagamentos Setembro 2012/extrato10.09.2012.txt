@@ -1,0 +1,116 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+10/09/2012                       Auto-Atendimento                       11:04:23
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/08/12 000000  Saldo Anterior            0                          5.763,54 C
+03/09/12 2887-8  Transferência on line     552.887.000.012.122          990,00 C
+                 03/09 2887      12122-3 RONALDO & ALIN                         
+03/09/12 1273-4  Compra com Cartão         141.425                       71,17 D
+                 02/09 11:30    WALMART ASA NORTE                               
+03/09/12 1273-4  Compra com Cartão         268.419                       10,00 D
+                 02/09 19:00    RIDAN VESTUARIOS                                
+03/09/12 1273-4  Compra com Cartão         371.269                        4,00 D
+                 02/09 19:47    BOULEVARD BRASILI                               
+03/09/12 1273-4  Compra com Cartão         629.243                       50,00 D
+                 03/09 08:07    GASOL 210N                                      
+03/09/12 1273-4  Compra com Cartão         761.144                        7,56 D
+                 03/09 16:59 R ALIMENTOS                                        
+03/09/12 1273-4  Compra com Cartão         862.099                        7,50 D
+                 03/09 17:14 R ALIMENTOS                                        
+03/09/12 3477-0  Saque com cartão          21.142.118.936.761           200,00 D
+                 02/09 11:42 CLN 214                                            
+03/09/12 000000  Pagto cartão crédito      730.127.300.366.761          716,93 D
+03/09/12 000000  Pagamento de Título       90.301                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+03/09/12 000000  Pagamento conta luz       90.302                        53,75 D
+                 CEB                                                            
+04/09/12 1273-4  Compra com Cartão         160.050                       36,00 D
+                 04/09 16:40    FARM HOMEOPATICA                                
+04/09/12 1273-4  Compra com Cartão         261.609                       41,46 D
+                 04/09 17:06    LOJAS AMERICANAS                                
+04/09/12 1273-4  Compra com Cartão         364.401                        1,30 D
+                 04/09 17:53    CONVENIENCIA BRAS                               
+05/09/12 000000  Pagto conta telefone      90.501                        65,36 D
+                 NET BRASILIA                                                   
+06/09/12 1273-4  Compra com Cartão         132.071                       29,55 D
+                 06/09 08:54    FCIA PAGUE MENOS                                
+06/09/12 1273-4  Compra com Cartão         264.466                       13,45 D
+                 06/09 17:54    CONVENIENCIA BRAS                               
+06/09/12 000000  Compra-WEB                3.032.580                     12,95 D
+06/09/12 1903-8  Cheque Compensado         850.739                      160,00 D
+10/09/12 9008-5  Compra com Cartão         137.268                       61,51 D
+                 07/09 10:21 ART ASA NORTE1275                                  
+10/09/12 9008-5  Compra com Cartão         237.535                       26,00 D
+                 07/09 10:25 RIA ASA NORTE                                      
+10/09/12 9008-5  Compra com Cartão         346.132                       31,99 D
+                 07/09 12:48    GRAN BUFFET                                     
+10/09/12 9008-5  Compra com Cartão         650.549                       50,00 D
+                 07/09 14:02    POSTO COMERCIAL U                               
+10/09/12 9008-5  Compra com Cartão         751.192                       11,20 D
+                 07/09 14:13    GIRAFFAS 106 NORT                               
+10/09/12 9008-5  Compra com Cartão         860.741                       60,94 D
+                 07/09 16:52    LOJAS AMERICANAS                                
+10/09/12 9008-5  Compra com Cartão         161.611                        6,00 D
+                 07/09 17:06 PARK ESTACIONAMEN                                  
+10/09/12 000000  S A L D O                 0                          4.824,92 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      6.124,92 C
+JUROS                                                                       0,00
+DATA DE DEBITO DE JUROS                                             1./10./20,12
+IOF                                                                         0,00
+DATA DE DEBITO DE IOF                                               1./10./20,12
+CREDITO BOMPRATODOS*                                                 60.974,00 C
+QTDE DIAS UTLZ CHQ ESP                                                      0,00
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                4,70%
+TAXA CHEQUE ESPECIAL AO ANO                                               73,52%
+DT. VENC. CH. ESP.                                                    30/11/2012
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Renda Fixa LP 100                                                    1.721,52
+BB Ref DI Plus Est                                                     35.072,93
+BB Mult Arbit LP Est                                                    1.955,16
+                                                                                
+                ================================================                
+                Linhas de Crédito           Crédito BOMPRATODOS*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               60.974,00                
+                BB Crédito Salário                     48.118,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                50.000,00                
+                BB Crd Veículo/Leasing                 32.818,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                TAXA MAXIMA CONTA ESPECIAL: 8,27% P/VOCE: 4,70%*                
+                                                                                
+                *Taxa promocional válida até 31/12/2012.                        
+                Traga seu salário ou benefício INSS para o BB e                 
+                mantenha a redução de taxas do cheque especial e                
+                do crédito rotativo Ourocard. Para saber como                   
+                reduzi-las ainda mais, acesse o menu BOMPRATODOS                
+                ou procure sua agência.                                         
+                ------------------------------------------------                
+                                                                                
+                Eleitor de outro estado,informe-se sobre a justi                
+                ficativa eleitoral 30484000 ou www.tre-df.jus.br                
+                                                                                
+                Quem faz as contas pega empréstimo no                           
+                Banco do Brasil. BOMPRATODOS                                    
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

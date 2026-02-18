@@ -1,0 +1,19 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+07/11/2012 -     AUTOATENDIMENTO      - 10.59.45 
+1273401273         SEGUNDA VIA              0021 
+ 
+            COMPROVANTE DE PAGAMENTO 
+ 
+CLIENTE: SANDRO TAVARES 
+AGENCIA: 1273-4 CONTA:         5.742-8 
+================================================ 
+Convenio  CELG 
+Codigo de Barras   83640000000-3   14040009023-3 
+                   98233510120-9   00143869972-8 
+Data do pagamento                     07/11/2012 
+Valor em Dinheiro                          14,04 
+Valor em Cheque                             0,00 
+Valor Total                                14,04 
+------------------------------------------------ 
+DOCUMENTO:  110701 
+AUTENTICACAO SISBB:        8.D63.74D.C89.1F2.554 

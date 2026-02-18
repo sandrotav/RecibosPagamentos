@@ -1,0 +1,141 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+22/02/2010                       Auto-Atendimento                       14:01:31
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+29/01/10 000000  Saldo Anterior            0                          5.532,12 C
+01/02/10 1273-4  Compra com Cartão         136.923                        5,82 D
+                 30/01 10:15 SUPERMERCADOS PRA                                  
+01/02/10 1273-4  Compra com Cartão         237.542                        5,97 D
+                 30/01 10:25 ACOUGUE RIO                                        
+01/02/10 1273-4  Compra com Cartão         338.620                       26,75 D
+                 30/01 10:43 ARMAZEM DO FAZEND                                  
+01/02/10 1273-4  Compra com Cartão         641.272                       38,40 D
+                 30/01 11:27 WALMART ASA NORTE                                  
+01/02/10 1273-4  Compra com Cartão         763.520                       42,00 D
+                 01/02 17:38 DETROIT PECAS E A                                  
+02/02/10 1273-4  Compra com Cartão         166.703                       19,51 D
+                 02/02 18:31 SUPERMERCADOS PRA                                  
+02/02/10 4811-9  Saque no TAA              21.532.338.936.761           600,00 D
+                 02/02 15:32 SOP-CORREIOS                                       
+02/02/10 000000  Pagto cartão crédito      730.127.300.088.996        1.136,66 D
+02/02/10 000000  Pagamento conta luz       20.201                         7,12 D
+02/02/10 000000  Pagamento conta luz       20.202                        40,86 D
+02/02/10 000000  Pagto conta telefone      20.203                       125,73 D
+02/02/10 000000  Pagamento de Título       20.204                       175,56 D
+02/02/10 000000  Pagamento de Título       20.205                       270,00 D
+02/02/10 000000  Emissão de DOC            20.206                       250,00 D
+02/02/10 000000  Tarifa SMS - Mês Anterior 100.104                        2,50 D
+02/02/10 000000  Tarifa DOC/TED Internet   100.202                        8,00 D
+                 Tarifa referente a 02/02/2010                                  
+03/02/10 1273-4  Compra com Cartão         129.208                       50,00 D
+                 03/02 08:06 POSTO AMERICAN PE                                  
+03/02/10 000000  Pagto cartão crédito      730.127.300.086.761           36,50 D
+03/02/10 000000  Pagto conta telefone      20.301                        52,84 D
+04/02/10 4811-9  Transferido da poupança   1.606.010.059.092            733,50 C
+                 04/02 1606      59092-4 JOAO FRANCISCO                         
+04/02/10 1273-4  Compra com Cartão         164.356                       15,80 D
+                 04/02 17:52 GIRAFFAS 302 NORT                                  
+04/02/10 1273-4  Compra com Cartão         274.819                       13,90 D
+                 04/02 20:46 WALMART ASA NORTE                                  
+04/02/10 1302-1  Transferido para Poupança 10.009.585                   232,50 D
+                 04/02 1302   10009585-2 VALDIVA RODRIG                         
+04/02/10 4811-9  Transferência on line     221.302.000.013.055          300,00 D
+                 04/02 1302      13055-9 ALESSANDRO RAB                         
+04/02/10 000000  INSS Arrecadação          20.401                        93,00 D
+05/02/10 1273-4  Compra com Cartão         143.983                       11,42 D
+                 05/02 12:13 DEGUSTER RESTAURA                                  
+05/02/10 1273-4  Compra com Cartão         263.363                       78,00 D
+                 05/02 17:36 M OFFICER CNBA                                     
+08/02/10 1273-4  Compra com Cartão         108.476                       55,16 D
+                 06/02 02:21 MONTE SION CERVEJ                                  
+08/02/10 1273-4  Compra com Cartão         240.971                        4,00 D
+                 07/02 11:22 BIG FARMA                                          
+08/02/10 1273-4  Compra com Cartão         342.704                       47,59 D
+                 07/02 11:51 BIG BOX                                            
+08/02/10 1273-4  Compra com Cartão         682.182                        9,94 D
+                 07/02 22:49 PAO DE ACUCAR LJ                                   
+08/02/10 4811-9  Saque no TAA              81.135.508.936.761            40,00 D
+                 08/02 11:35 SOP-CORREIOS                                       
+08/02/10 1903-8  Cheque Compensado         850.654                       70,00 D
+08/02/10 1903-8  Cheque Compensado         850.655                       80,00 D
+08/02/10 1903-8  Cheque Compensado         850.656                       95,00 D
+09/02/10 1273-4  Compra com Cartão         157.423                       50,00 D
+                 09/02 15:57 POSTO AMERICAN PE                                  
+09/02/10 1273-4  Compra com Cartão         264.732                       22,00 D
+                 09/02 17:58 FINA FARINHA S GL                                  
+10/02/10 1273-4  Compra com Cartão         165.932                       15,83 D
+                 10/02 18:18 PAO DE ACUCAR 121                                  
+11/02/10 1273-4  Compra com Cartão         158.445                       28,95 D
+                 11/02 16:14 CASA DE BISCOITOS                                  
+17/02/10 1273-4  Compra com Cartão         169.800                       31,35 D
+                 13/02 19:23 PANIFICADORA FAVO                                  
+17/02/10 1273-4  Compra com Cartão         249.738                        6,70 D
+                 15/02 13:48 MAIS BARATO GASOL                                  
+17/02/10 1273-4  Compra com Cartão         363.387                       23,50 D
+                 16/02 17:36 PANIFICADORA FAVO                                  
+19/02/10 1273-4  Compra com Cartão         171.852                       18,73 D
+                 19/02 19:57 FCIA PAGUE MENOS                                   
+22/02/10 000000  S A L D O                 0                          2.028,03 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      3.328,03 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,29%
+TAXA CHEQUE ESPECIAL AO ANO                                              132,65%
+DT. VENC. CH. ESP.                                                    30/11/2010
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 BB Crédito Salário              0,00  12.286,00                
+                 BB Crédito Automático           0,00   6.305,00                
+                 BB Crédito Renovação            0,00  12.286,00                
+                 CDC Veículo Próprio             0,00   9.609,00                
+                 BB Crediário/Construção         0,00  11.378,00                
+                 BB Crd Veículo/Leasing          0,00  18.069,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parc Cartão/Ch.Esp       0,00   4.516,00                
+                 Limite Transf p/Cartão      6.520,00   4.757,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  70.000,00                
+                 BB Renovação Consignação*       0,00  70.000,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             586,80     428,20                
+                Prestacao para ECF               0,00   1.958,20                
+                Prestacao para Veiculo           0,00     428,20                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento ou Internet.                                        
+                ** Utilizacao do limite sujeita ao enquadramento                
+                nas disposicoes de microcredito.                                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS JAN/10:     74                 
+                TAXA  CONTA  ESPECIAL:   7,65%  P/VOCE:    7,29%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     37                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                BB CONSORCIO - A TRANQUILIDADE DA COMPRA                        
+                PLANEJADA COM LIBERDADE DE ESCOLHA. FACA O SEU.                 
+                                                                                
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+                Ouvidoria BB 0800 729 5678                                      

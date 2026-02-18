@@ -1,0 +1,20 @@
+05/12/2007    -  BANCO  DO  BRASIL  -   08:58:36 
+341303413                                   0001 
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 3413-4          CONTA:          5.742-8 
+================================================ 
+BANCO ITAU S.A.                                  
+------------------------------------------------ 
+34191090162072044158140480840004737110000025000  
+NR. DOCUMENTO                            120.501 
+DATA DO PAGAMENTO                     05/12/2007 
+VALOR DO DOCUMENTO                        250,00 
+VALOR COBRADO                             250,00 
+================================================ 
+NR.AUTENTICACAO            C.109.377.A0F.876.4FB 
+
+
+Transação efetivada com sucesso!

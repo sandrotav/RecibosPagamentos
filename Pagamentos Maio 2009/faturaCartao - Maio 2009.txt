@@ -1,0 +1,89 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+28/04/2009                       Auto-Atendimento                       10:57:46
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : SANDRO TAVARES                   
+Nr.Cartão       : 4984.****.****.8996         
+Modalidade      : OUROCARD PLATINUM VISA           
+ 
+Vencimento      : 05.05.2009          
+Total da fatura : R$ 389,18         
+Pagamento mínimo: R$ 38,92          
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+ 
+         01 - SANDRO TAVARES                         
+ 
+         Pagamentos                                  
+06/04/09 PGTO. CASH AG.    1273 00              BR           -354,95        0,00
+ 
+         Compras a vista                             
+21/03/09 POLITOTAL COM E IMPORT BRASILIA        BR             35,00        0,00
+28/03/09 SO REPAROS             GUARA           BR             55,23        0,00
+ 
+         Compras/Pgto Contas Parc                    
+ 
+         Compras diversas                            
+24/01/09 CIMFEL        PARC 03/03               BR             68,64        0,00
+10/02/09 STAR MOVEIS   PARC 03/03               BR             99,96        0,00
+14/02/09 CIMFEL        PARC 03/03               BR             55,35        0,00
+24/03/09 POLITOTAL COM PARC 01/02               BR             75,00        0,00
+ 
+         Subtotal                                             389,18        0,00
+ 
+         Total                                                389,18        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+    354,95 -     354,95 +     389,18 =      389,18 -       0,00 =         389,18
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X      0.0 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Limite Único             :   5.278
+Deste Cartao             :   5.278
+Saque                    :   5.278
+(Incluido no Limite único)
+Parcelado                :   1.778
+Saldo Parcelado          :      75
+Limite Extra             :       0
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                 12,64     12,76
+Crédito Parcelado:                  2,62      2,62
+Permanência      :                 12,72     12,76
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PROGRAMA DE RELACIONAMENTO BB
+--------------------------------------------------------------------------------
+    Saldo Anterior                     :   1.480
+(+) Adquiridos                         :     238
+(-) Utilizados/Transferidos            :       0
+(-) Prescritos                         :       0
+(+) Acertos                            :       0
+    Pontos a Prescrever Em  30.04.2009 :       0
+    Pontos Intransferíveis             :       0
+    Pontuação acumulada Até 20.04.2009 :   1.718
+--------------------------------------------------------------------------------

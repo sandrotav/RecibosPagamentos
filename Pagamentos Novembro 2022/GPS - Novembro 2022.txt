@@ -1,0 +1,56 @@
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+03/11/2022 -     AUTOATENDIMENTO      - 18.13.58
+1273401273                                  0004
+                                                
+         COMPROVANTE DE AGENDAMENTO             
+                                                
+ MINISTERIO DA PREVIDENCIA E ASSISTENCIA SOCIAL 
+     INSTITUTO NACIONAL DO SEGURO SOCIAL        
+      GUIA DA PREVIDENCIA SOCIAL - GPS          
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4 CONTA:         5.742-8          
+================================================
+CODIGO DO PAGAMENTO                         1163
+COMPETENCIA                              10/2022
+IDENTICADOR                          13068307677
+DATA DO PAGAMENTO                     14/11/2022
+VALOR DO INSS                             133,32
+VALOR OUTRAS ENTIDADES                      0,00
+VALOR ATM/JUROS/MULTA                       0,00
+VALOR TOTAL                               133,32
+================================================
+DOCUMENTO: 111402                               
+Pagamento Agendado.                             
+A  quitaçao  efetiva desse  debito dependera  da
+existencia de  saldo  na  sua  Conta Corrente as
+23:45h da data escolhida para pagamento.        
+O comprovante  definitivo somente  sera  emitido
+apos a quitaçao.                                
+================================================
+CENTRAL DE ATENDIMENTO BB                       
+4004 0001 CAPITAIS E REGIOES METROPOLITANAS     
+0800 729 0001 DEMAIS LOCALIDADES                
+CONSULTAS, INFORMACOES E SERVICOS TRANSACIONAIS.
+                                                
+SAC                                             
+0800 729 0722                                   
+INFORMACOES, RECLAMACOES E CANCELAMENTO DE      
+PRODUTOS E SERVICOS.                            
+                                                
+OUVIDORIA                                       
+0800 729 5678                                   
+RECLAMACOES NAO SOLUCIONADAS NOS CANAIS         
+HABITUAIS: AGENCIA, SAC E DEMAIS CANAIS DE      
+ATENDIMENTO.                                    
+                                                
+ATENDIMENTO A DEFICIENTES AUDITIVOS OU DE FALA  
+0800 729 0088                                   
+INFORMACOES, RECLAMACOES, CANCELAMENTO DE       
+CARTAO, OUTROS PRODUTOS E SERVICOS DE OUVIDORIA.
+                                                
+                                                
+------------------------------------------------
+                                                
+                                                

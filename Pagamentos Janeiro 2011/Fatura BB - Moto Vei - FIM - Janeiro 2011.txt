@@ -1,0 +1,22 @@
+03/01/2011    -  BANCO  DO  BRASIL  -   14:30:31 
+127301273                                   0022 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO DO BRASIL                                  
+------------------------------------------------ 
+00194521010004453623370000000664100000000000000  
+NR. DOCUMENTO                             10.304 
+NOSSO NUMERO                    4521000044536237 
+CONVENIO                                00000000 
+BB ADMINISTRADORA DE CARTOES                     
+AGENCIA/COD. CEDENTE               4700/00000000 
+DATA DO PAGAMENTO                     03/01/2011 
+VALOR DO DOCUMENTO                        515,83 
+VALOR COBRADO                             515,83 
+================================================ 
+NR.AUTENTICACAO            5.EA2.324.9C8.5D8.CD5 

@@ -1,0 +1,22 @@
+
+
+27/02/2012    -  BANCO  DO  BRASIL  -   11:01:37 
+127301273                                   0017 
+          OUVIDORIA BB  0800 729 5678            
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+CAIXA ECONOMICA FEDERAL                          
+------------------------------------------------ 
+10492567696000020014101210084735152560000003400  
+NR. DOCUMENTO                             22.701 
+DATA DO PAGAMENTO                     27/02/2012 
+VALOR DO DOCUMENTO                         34,00 
+VALOR COBRADO                              34,00 
+================================================ 
+NR.AUTENTICACAO            F.D4B.217.78E.070.A6F 
+
+Transação efetivada com sucesso!
+

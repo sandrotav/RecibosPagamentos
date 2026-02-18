@@ -1,0 +1,144 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+13/11/2012                       Auto-Atendimento                       13:43:42
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/10/12 000000  Saldo Anterior            0                          4.621,01 C
+01/11/12 2887-8  Transferência on line     552.887.000.012.122          990,00 C
+                 01/11 2887      12122-3 RONALDO & ALIN                         
+01/11/12 1273-4  Compra com Cartão         160.328                       11,09 D
+                 01/11 16:45 IO C DE AZEVEDO                                    
+01/11/12 1273-4  Compra com Cartão         261.457                       34,00 D
+                 01/11 17:04    1001 VARIEDADES                                 
+01/11/12 1273-4  Compra com Cartão         362.517                        9,20 D
+                 01/11 17:21 BATISTA DE FARIA                                   
+01/11/12 1903-8  Cheque Compensado         850.744                      833,00 D
+05/11/12 1273-4  Compra com Cartão         143.990                       24,00 D
+                 02/11 12:13 RIA PITANGUI                                       
+05/11/12 1273-4  Compra com Cartão         244.771                       17,18 D
+                 02/11 12:26    SUPERMERCADO PITA                               
+05/11/12 1273-4  Compra com Cartão         359.115                       22,10 D
+                 03/11 16:25    PRAGA CONFINS 366                               
+05/11/12 1273-4  Compra com Cartão         677.138                       23,90 D
+                 03/11 21:25 URANTE CARECA                                      
+05/11/12 1273-4  Compra com Cartão         765.059                       99,97 D
+                 04/11 18:04 ART ASA NORTE1275                                  
+05/11/12 1273-4  Compra com Cartão         841.374                       10,00 D
+                 05/11 11:29    GASOL - 409N                                    
+05/11/12 000000  Pagto cartão crédito      730.127.300.306.761          601,61 D
+05/11/12 000000  Pagamento de Título       110.502                      250,00 D
+                 ITAU UNIBANCO S.A.                                             
+05/11/12 000000  Transferido para Poupança 359.300.510.015.068          300,00 D
+                 02/11 3593  510015068-4 TATIANE SILVA                          
+06/11/12 1273-4  Compra com Cartão         135.834                        3,90 D
+                 06/11 09:57    CIRANDINHA PREMIU                               
+06/11/12 1273-4  Compra com Cartão         276.881                        7,23 D
+                 06/11 21:21 RIA ROSARIO                                        
+06/11/12 1273-4  Compra com Cartão         377.209                       33,88 D
+                 06/11 21:26 R BRASIL                                           
+06/11/12 000000  Pagto Jornal ou Revista   23.812                        19,96 D
+07/11/12 7801-8  Depósito Online           78.011.550.100.070           200,00 C
+07/11/12 1273-4  Transferido para Poupança 523.593.510.015.068          155,00 D
+                 07/11 3593  510015068-4 TATIANE SILVA                          
+07/11/12 000000  Pagamento conta luz       110.701                       14,04 D
+                 CELG                                                           
+08/11/12 1273-4  Compra com Cartão         132.454                        4,22 D
+                 08/11 09:00 R ALIMENTOS                                        
+08/11/12 4811-9  Saque com cartão          481.109                      500,00 D
+                 08/11 11:40 PSO DF I            DF                             
+08/11/12 000000  Telefone Pre-Pago         82.221.983.510.103            18,00 D
+                 61082221983-TIM - Distrito Federal                             
+08/11/12 000000  Telefone Pre-Pago         99.643.395.006.733            18,00 D
+                 61099643395-Vivo AC,DF,GO,MS,MT,RO,TO                          
+08/11/12 000000  Telefone Pre-Pago         99.726.009.006.603            18,00 D
+                 61099726009-Vivo AC,DF,GO,MS,MT,RO,TO                          
+08/11/12 000000  Pagamento conta luz       110.801                       63,30 D
+                 CEB                                                            
+08/11/12 000000  Pagto conta telefone      110.802                       67,40 D
+                 NET BRASILIA                                                   
+09/11/12 4811-9  Transferido da poupança   1.606.510.059.092             61,00 C
+                 09/11 1606      59092-4 JOAO FRANCISCO                         
+09/11/12 1273-4  Compra com Cartão         143.170                       13,40 D
+                 09/11 11:59    RESTAURANTE O KIL                               
+09/11/12 000000  Pagamento de Impostos     110.901                       68,42 D
+                 GPS - CODIGO DE BARRAS                                         
+09/11/12 000000  Pagamento de Impostos     110.902                      124,40 D
+                 GPS - CODIGO DE BARRAS                                         
+12/11/12 1273-4  Compra com Cartão         160.584                       11,60 D
+                 10/11 16:49    CASA DE BISCOITOS                               
+12/11/12 1273-4  Compra com Cartão         168.035                       11,45 D
+                 11/11 18:53    SUBWAY                                          
+12/11/12 1273-4  Compra com Cartão         247.297                       64,36 D
+                 12/11 13:08 P GASOL 210 NORTE                                  
+12/11/12 1273-4  Compra com Cartão         261.677                       24,45 D
+                 10/11 17:07    SUPERMERCADO PRA                                
+12/11/12 1273-4  Compra com Cartão         349.302                        9,73 D
+                 11/11 13:41 O FOGAO                                            
+12/11/12 1273-4  Compra com Cartão         365.830                       23,59 D
+                 12/11 18:17 ART ASA NORTE1275                                  
+12/11/12 1273-4  Compra com Cartão         650.258                       23,80 D
+                 11/11 13:57    GELEIA BURGER                                   
+12/11/12 1273-4  Compra com Cartão         752.689                        4,60 D
+                 11/11 14:38    GELEIA BURGER                                   
+12/11/12 1273-4  Compra com Cartão         853.133                       59,90 D
+                 11/11 14:45    COLCCI                                          
+12/11/12 000000  Pagam Presta Créd Imobili 127.300.339.000.024          926,36 D
+13/11/12 000000  S A L D O                 0                          1.346,97 C
+--------------------------------------------------------------------------------
+Limite Cheque Especial                                                1.300,00 C
+Saldo Disponivel                                                      2.646,97 C
+Juros                                                                       0,00
+Data de Debito de Juros                                             3./12./20,12
+IOF                                                                         0,00
+Data de Debito de IOF                                               3./12./20,12
+CREDITO BOMPRATODOS*                                                 60.974,00 C
+Dias de Uso Ch. Especial                                                    0,00
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                4,70%
+Taxa Cheque Especial AO ANO                                               73,52%
+DT. VENC. CH. ESP.                                                    30/11/2012
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Renda Fixa LP 100                                                    1.731,24
+BB Ref DI Plus Est                                                      7.043,57
+BB Mult Arbit LP Est                                                    1.977,27
+                                                                                
+                ================================================                
+                Linhas de Crédito           Crédito BOMPRATODOS*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               60.974,00                
+                BB Crédito Salário                     48.118,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crediário/Construção                50.000,00                
+                BB Crd Veículo/Leasing                 32.818,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                Taxa Maxima Conta Especial: 5,70% P/voce: 4,70%*                
+                                                                                
+                Traga seu salário ou benefício INSS para o BB                   
+                e reduza as taxas do cheque especial e do                       
+                crédito rotativo Ourocard. Para saber                           
+                como ter acesso a essa redução, acesse                          
+                www.bompratodos.com.br ou procure sua agência                   
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                SOS Nordeste. Ajude as vítimas da seca na Bahia.                
+                Faça sua doação: agência 3832-6  conta 992.733-6                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

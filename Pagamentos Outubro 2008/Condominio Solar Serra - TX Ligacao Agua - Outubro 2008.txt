@@ -1,0 +1,26 @@
+02/10/2008    -  BANCO  DO  BRASIL  -   18:23:40 
+359303593                                   0014 
+          OUVIDORIA BB  0800 729 5678            
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 3593-9          CONTA:          5.742-8 
+================================================ 
+BANCO DO BRASIL                                  
+------------------------------------------------ 
+00192695887019523475500012567186140210000002912  
+NR. DOCUMENTO                            100.207 
+NOSSO NUMERO                         26958701952 
+CONVENIO                                00269587 
+CONDOMINIO RURAL SOLAR DA SERR                   
+AGENCIA/COD. CEDENTE               3475/00012567 
+DATA DE VENCIMENTO                    10/10/2008 
+DATA DO PAGAMENTO                     02/10/2008 
+VALOR DO DOCUMENTO                         29,12 
+VALOR COBRADO                              29,12 
+================================================ 
+NR.AUTENTICACAO            6.756.AC0.438.834.020 
+
+
+Transação efetivada com sucesso!

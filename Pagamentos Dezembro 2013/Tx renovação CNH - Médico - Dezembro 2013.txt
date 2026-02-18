@@ -1,0 +1,20 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+06/12/2013  -   AUTO-ATENDIMENTO    -   14.19.56
+1273401273                                      
+                                                
+            COMPROVANTE DE PAGAMENTO            
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4    CONTA:          5.742-8      
+================================================
+Convenio  INSTITUTO BOTELHO S/C                 
+Codigo de Barras   86630000000-1   87502647396-2
+                   70912130210-9   06552909477-6
+Data do pagamento                     06/12/2013
+Valor em Dinheiro                          87,50
+Valor em Cheque                             0,00
+Valor Total                                87,50
+================================================
+DOCUMENTO:  120601                              
+AUTENTICACAO SISBB:                             
+F.D20.211.5FC.2CF.947                         

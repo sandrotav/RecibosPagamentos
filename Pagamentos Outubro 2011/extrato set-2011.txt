@@ -1,0 +1,200 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+27/10/2011                       Auto-Atendimento                       16:20:13
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/08/11 000000  Saldo Anterior            0                          5.542,23 C
+01/09/11 2887-8  Transferência on line     552.887.000.012.122          500,00 C
+                 01/09 2887      12122-3 RONALDO & ALIN                         
+02/09/11 1273-4  Compra com Cartão         129.899                        4,96 D
+                 02/09 08:18 DINHA PREMIUM                                      
+02/09/11 1273-4  Compra com Cartão         261.444                        5,19 D
+                 02/09 17:04 R ALIMENTOS                                        
+02/09/11 1273-4  Compra com Cartão         362.192                        2,36 D
+                 02/09 17:16    CIRANDINHA PREMIU                               
+02/09/11 1273-4  Aplicação Poupança        10.005.742                   300,00 D
+                 02/09 1273   10005742-X SANDRO TAVARES                         
+02/09/11 1273-4  Aplicação Poupança        910.005.742                  300,00 D
+                 02/09 1273  910005742-3 SANDRO TAVARES                         
+02/09/11 000000  Pagto cartão crédito      730.127.300.466.761          483,24 D
+02/09/11 000000  BB Ref DI Plus Estilo     1.200.032                  1.050,00 D
+02/09/11 000000  Pagamento conta luz       90.201                        74,45 D
+                 CEB                                                            
+02/09/11 000000  Pagto conta telefone      90.202                       157,41 D
+                 TIM CELULAR S.A.                                               
+02/09/11 000000  Pagamento de Título       90.203                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+02/09/11 000000  Pagamento de Impostos     90.204                       101,72 D
+                 GDF CONTA ARRECADACAO                                          
+05/09/11 1273-4  Compra com Cartão         134.942                        2,27 D
+                 03/09 09:42 O CERRADO                                          
+05/09/11 1273-4  Compra com Cartão         164.718                       15,40 D
+                 04/09 17:58    GIRAFFAS                                        
+05/09/11 1273-4  Compra com Cartão         257.000                        2,10 D
+                 03/09 15:50    CEA BNO  553                                    
+05/09/11 1273-4  Compra com Cartão         266.006                        3,08 D
+                 04/09 18:20 O CERRADO                                          
+05/09/11 1273-4  Compra com Cartão         358.214                       15,63 D
+                 03/09 16:10 FOUR BAN 363                                       
+05/09/11 1273-4  Compra com Cartão         360.634                       11,00 D
+                 05/09 16:50 CA DOS BOLOS                                       
+05/09/11 1273-4  Compra com Cartão         662.646                       55,00 D
+                 03/09 17:24 FOUR BAN 363                                       
+05/09/11 1273-4  Compra com Cartão         666.624                       25,69 D
+                 05/09 18:30    EXTRA 1347                                      
+05/09/11 1273-4  Compra com Cartão         763.629                       59,90 D
+                 03/09 17:40 RA ALVORADA                                        
+05/09/11 1273-4  Compra com Cartão         770.115                       19,33 D
+                 05/09 19:28 FOUR BAN 363                                       
+05/09/11 1273-4  Compra com Cartão         846.948                       26,06 D
+                 04/09 13:02 R BRASIL                                           
+05/09/11 1273-4  Compra com Cartão         870.417                       31,49 D
+                 05/09 19:33 FOUR BAN 363                                       
+05/09/11 000000  Recarga Pré-Pago Celular  82.221.983.522.924            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+05/09/11 000000  Pagto conta telefone      90.501                        61,05 D
+                 NET BRASILIA                                                   
+06/09/11 1273-4  Compra com Cartão         161.725                       10,84 D
+                 06/09 17:08    PANIFICADORA FAVO                               
+06/09/11 000000  Recarga Pré-Pago Celular  91.088.946.006.188            17,00 D
+                 3791088946-TIM - Minas Gerais                                  
+08/09/11 1273-4  Compra com Cartão         149.473                       11,70 D
+                 07/09 13:44    GIRAFFAS                                        
+08/09/11 1273-4  Compra com Cartão         267.632                        7,19 D
+                 07/09 18:47    PANETUTTI                                       
+08/09/11 1273-4  Compra com Cartão         346.069                        6,57 D
+                 08/09 12:47 SULA RESTAURANTE                                   
+08/09/11 1273-4  Compra com Cartão         662.714                        7,00 D
+                 08/09 17:25    MERCEARIA VIDAL                                 
+09/09/11 1273-4  Compra com Cartão         131.420                       50,00 D
+                 09/09 08:43    GASOL 210N                                      
+09/09/11 1273-4  Compra com Cartão         246.556                       15,78 D
+                 09/09 12:55    PENINSULA RESTAUR                               
+09/09/11 1273-4  Compra com Cartão         346.721                       12,00 D
+                 09/09 12:58    PANIFICADORA SYRI                               
+12/09/11 1273-4  Compra com Cartão         130.332                       20,26 D
+                 10/09 08:25 RIA ROSARIO                                        
+12/09/11 1273-4  Compra com Cartão         153.037                        3,98 D
+                 11/09 14:43 FOUR BAN 363                                       
+12/09/11 1273-4  Compra com Cartão         233.467                        3,00 D
+                 10/09 09:17    CIRANDINHA PREMIU                               
+12/09/11 1273-4  Compra com Cartão         254.833                       30,57 D
+                 11/09 15:13 FOUR BAN 363                                       
+12/09/11 1273-4  Compra com Cartão         338.079                        8,98 D
+                 10/09 10:34    FARMACIA PAGUE ME                               
+12/09/11 1273-4  Compra com Cartão         357.441                       12,17 D
+                 11/09 15:57    DROGA FUJI                                      
+12/09/11 1273-4  Compra com Cartão         644.725                       12,06 D
+                 10/09 12:25    PENINSULA RESTAUR                               
+12/09/11 1273-4  Compra com Cartão         663.989                        8,91 D
+                 11/09 17:46    PANETUTTI                                       
+12/09/11 1273-4  Compra com Cartão         741.695                       19,79 D
+                 12/09 11:34    PENINSULA RESTAUR                               
+12/09/11 1273-4  Compra com Cartão         747.141                        9,24 D
+                 11/09 13:05 FOUR BAN 363                                       
+12/09/11 1273-4  Compra com Cartão         848.356                       24,80 D
+                 11/09 13:25    GIRAFFAS                                        
+14/09/11 1273-4  Compra com Cartão         143.912                       16,01 D
+                 14/09 12:11    PENINSULA RESTAUR                               
+14/09/11 000000  Pagamento de Impostos     91.401                       109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+15/09/11 1273-4  Compra com Cartão         143.650                       16,97 D
+                 15/09 12:07    PENINSULA RESTAUR                               
+15/09/11 000000  Pagamento de Título       91.501                        45,92 D
+                 ITAU UNIBANCO S.A.                                             
+16/09/11 1273-4  Compra com Cartão         141.451                       18,72 D
+                 16/09 11:30    PENINSULA RESTAUR                               
+16/09/11 1273-4  Compra com Cartão         254.698                        5,40 D
+                 16/09 15:11    CASA HOSPITALAR                                 
+16/09/11 1273-4  Compra com Cartão         355.434                       20,00 D
+                 16/09 15:23    FARM HOMEOPATICA                                
+16/09/11 1273-4  Compra com Cartão         655.850                       45,47 D
+                 16/09 15:30    DROGARIA UNICOM                                 
+16/09/11 1273-4  Compra com Cartão         768.774                       18,87 D
+                 16/09 19:06 RIA ROSARIO                                        
+19/09/11 1273-4  Compra com Cartão         136.961                       33,00 D
+                 17/09 10:16    FARMACIA HOMEOP D                               
+19/09/11 1273-4  Compra com Cartão         240.145                       50,00 D
+                 18/09 11:09    GASOL POSTO CAL L                               
+19/09/11 1273-4  Compra com Cartão         343.531                        7,80 D
+                 19/09 12:05    PENINSULA RESTAUR                               
+19/09/11 4811-9  Saque no TAA              191.131.368.936.761           50,00 D
+                 19/09 11:31 SOP-CORREIOS                                       
+19/09/11 1273-4  Transferência on line     524.882.000.077.384          330,00 D
+                 19/09 4882      77384-0 WALKYRIA S CHI                         
+20/09/11 1273-4  Compra com Cartão         142.830                       22,30 D
+                 20/09 11:53    PENINSULA RESTAUR                               
+20/09/11 1273-4  Compra com Cartão         262.000                        8,00 D
+                 20/09 17:13 CA DOS BOLOS                                       
+20/09/11 1273-4  Compra com Cartão         364.799                        9,24 D
+                 20/09 17:59 FOUR BAN 363                                       
+20/09/11 1273-4  Compra com Cartão         666.449                       10,27 D
+                 20/09 18:27 FOUR BAN 363                                       
+21/09/11 1273-4  Compra com Cartão         142.931                       22,02 D
+                 21/09 11:55    PENINSULA RESTAUR                               
+21/09/11 000000  Pagamento de Título       92.101                        42,90 D
+                 ITAU UNIBANCO S.A.                                             
+22/09/11 1273-4  Compra com Cartão         142.616                       16,67 D
+                 22/09 11:50    PENINSULA RESTAUR                               
+23/09/11 1273-4  Compra com Cartão         125.721                       65,00 D
+                 23/09 07:08 P GASOL PARK WAY                                   
+23/09/11 1273-4  Compra com Cartão         235.610                        7,25 D
+                 23/09 09:53    REST PORTAL DE MI                               
+23/09/11 1273-4  Compra com Cartão         351.562                      147,71 D
+                 23/09 14:19    POSTO ALIANCA                                   
+26/09/11 1273-4  Compra com Cartão         141.913                       31,00 D
+                 24/09 11:38 L FARIA DE SOUZA                                   
+26/09/11 1273-4  Compra com Cartão         242.862                       14,55 D
+                 24/09 11:54 RIA SOLUCOES                                       
+26/09/11 1273-4  Compra com Cartão         369.087                       10,00 D
+                 24/09 19:11    DROGARIA VIDAMINA                               
+26/09/11 1273-4  Compra com Cartão         649.969                       85,83 D
+                 25/09 13:52    SHELL                                           
+26/09/11 1273-4  Compra com Cartão         762.596                      228,00 D
+                 26/09 17:23    KAMPEAO AUTO PECA                               
+26/09/11 000000  Recarga Pré-Pago Celular  91.325.118.005.310            17,00 D
+                 3791325118-TIM - Minas Gerais                                  
+27/09/11 1273-4  Compra com Cartão         145.200                       57,00 D
+                 27/09 12:33    KAMPEAO AUTO PECA                               
+27/09/11 1273-4  Compra com Cartão         264.976                       49,00 D
+                 27/09 18:02  AMARELO                                           
+28/09/11 1273-4  Compra com Cartão         146.389                       99,70 D
+                 28/09 12:53    RIACHUELO-FILIAL.                               
+29/09/11 1273-4  Compra com Cartão         146.111                       16,81 D
+                 29/09 12:48    PENINSULA RESTAUR                               
+29/09/11 4811-9  Saque no TAA              290.812.498.936.761          120,00 D
+                 29/09 08:12 SOP-CORREIOS                                       
+29/09/11 3597-1  Saque no TAA              291.836.068.936.761           50,00 D
+                 29/09 18:36 ROD.INTERESTAD.BSB                                 
+30/09/11 000000  Recebimento de Proventos  279.712                    3.617,50 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+30/09/11 000000  Recebimento de Proventos  288.519                    4.931,21 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+30/09/11 000000  S A L D O                 0                          9.377,36 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,26%
+TAXA CHEQUE ESPECIAL AO ANO                                              159,19%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                PARABENS AO SERVIDOR PUBLICO PELO SEU DIA 28/10                 
+                O BANCO DO BRASIL AGRADECE PELA PARCERIA.                       
+                                                                                
+                BB CREDITO VEICULO. SOLUCOES PARA ADQUIRIR                      
+                SEU VEICULO DE FORMA RAPIDA E FACIL.                            
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

@@ -1,0 +1,25 @@
+27/06/2012    -  BANCO  DO  BRASIL  -   11:44:22 
+127301273                                   0008 
+          OUVIDORIA BB  0800 729 5678            
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO DO BRASIL                                  
+------------------------------------------------ 
+00192918973291893000200882429210800000000008035  
+NR. DOCUMENTO                             62.701 
+NOSSO NUMERO                   29189300000882429 
+CONVENIO                                00291893 
+CART DE DISTRIBUICAO DA JUSTIC                   
+AGENCIA/COD. CEDENTE               3598/00457003 
+DATA DO PAGAMENTO                     27/06/2012 
+VALOR DO DOCUMENTO                         80,35 
+VALOR COBRADO                              80,35 
+================================================ 
+                                                 
+NR.AUTENTICACAO            F.DED.17C.97A.B47.C04 
+
+Transação efetivada com sucesso!
+

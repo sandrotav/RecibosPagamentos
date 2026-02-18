@@ -1,0 +1,21 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/08/2008  -   AUTO-ATENDIMENTO    -   16.14.25 
+3593903593                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+CARTAO.: 4984 **** **** 4075                     
+================================================ 
+Convenio  CEB                                    
+Codigo de Barras   83620000000-5   25410005289-6 
+                   91008187114-7   00000000000-0 
+Data do pagamento                     05/08/2008 
+Valor Total                                25,41 
+================================================ 
+DOCUMENTO:  080504                               
+PAGAMENTO COM CARTAO DE CREDITO                  
+SUJEITO A COBRANCA DE TARIFA DE ACORDO COM A     
+TABELA DE TARIFAS VIGENTE NA DATA DA LIQUIDACAO. 
+AUTENTICACAO SISBB:                              
+7.89C.820.555.BEB.FC2                       

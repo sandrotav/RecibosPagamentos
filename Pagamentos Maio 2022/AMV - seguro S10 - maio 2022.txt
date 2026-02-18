@@ -1,0 +1,28 @@
+16/05/2022    -  BANCO  DO  BRASIL  -   09:03:54
+127301273                                   0008
+     COMPROVANTE DE PAGAMENTO DE TITULOS
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+BCO COOPERATIVO SICREDI S.A.
+------------------------------------------------
+74891122220734450434030087441041589860000019054
+BENEFICIARIO:
+AMV ADMINISTRACAO E SERVICOS
+NOME FANTASIA:
+AMV ADMINISTRACAO E SERVICOS
+CNPJ: 22.084.108/0001-42
+BENEFICIARIO FINAL:
+AMV ADMINISTRACAO E SERVICOS
+CNPJ: 22.084.108/0001-42
+PAGADOR:
+SANDRO TAVARES
+CPF: 011.862.826-73
+------------------------------------------------
+NR. DOCUMENTO                             51.302
+DATA DE VENCIMENTO                    15/05/2022
+DATA DO PAGAMENTO                     13/05/2022
+VALOR DO DOCUMENTO                        190,54
+VALOR COBRADO                             190,54
+================================================
+NR.AUTENTICACAO            4.B7F.6CC.8D9.B44.69B

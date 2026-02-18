@@ -1,0 +1,20 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/12/2007  -   AUTO-ATENDIMENTO    -   09.21.10 
+3413403413                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3413-4    CONTA:          5.742-8       
+================================================ 
+CONVENIO  CEB                                    
+CODIGO DE BARRAS                                 
+83600000000-7    34340005280-3    81008187197-4  
+00000000000-0                                    
+Data do pagamento                     05/12/2007 
+Valor Total                                34,34 
+================================================ 
+DOCUMENTO:  120506                               
+AUTENTICACAO SISBB:                              
+C.BE6.566.BAC.B07.3CB                            
+         

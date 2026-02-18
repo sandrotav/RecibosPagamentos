@@ -1,0 +1,149 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+17/02/2011                       Auto-Atendimento                       14:07:20
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/01/11 000000  Saldo Anterior            0                          2.840,29 C
+01/02/11 1273-4  Compra com Cartão         135.566                       50,00 D
+                 01/02 09:52 POSTO CASCOL 411                                   
+01/02/11 1273-4  Compra com Cartão         242.507                       36,00 D
+                 01/02 11:48 CARECA RESTAURANT                                  
+01/02/11 000000  Pagto cartão crédito      730.127.300.326.761          463,01 D
+01/02/11 000000  Pagamento conta luz       20.101                        44,39 D
+                 CEB                                                            
+01/02/11 000000  Pagamento conta luz       20.102                        58,72 D
+                 CEB                                                            
+01/02/11 000000  Pagamento de Título       20.103                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+02/02/11 1273-4  Compra com Cartão         146.934                       16,51 D
+                 02/02 13:02 PENINSULA RESTAUR                                  
+02/02/11 1273-4  Compra com Cartão         262.765                        5,36 D
+                 02/02 17:26 PANIFIC LIDERANCA                                  
+02/02/11 1273-4  Compra com Cartão         374.918                       84,80 D
+                 02/02 20:48 LOJAS RENNER FL 1                                  
+02/02/11 000000  Pagto conta telefone      20.201                        57,02 D
+                 NET BRASILIA                                                   
+02/02/11 000000  Pagto conta telefone      20.202                       120,03 D
+                 TIM CELULAR S.A.                                               
+02/02/11 000000  Pagamento de Título       20.203                       175,56 D
+                 CONDOMINIO RURAL SOLAR DA SERR                                 
+02/02/11 1903-8  Cheque Compensado         850.693                      126,00 D
+03/02/11 1273-4  Compra com Cartão         163.102                        6,53 D
+                 03/02 17:31 PANIFICADORA SYRI                                  
+04/02/11 1273-4  Compra com Cartão         152.714                       38,53 D
+                 04/02 14:38 POSTO SANTA CECIL                                  
+04/02/11 1273-4  Compra com Cartão         273.398                       20,00 D
+                 04/02 20:23 PIZZARIA FORNO A                                   
+04/02/11 1003-0  Saque no TAA              40.753.248.936.761           100,00 D
+                 04/02 07:53 SAA-ASA NORTE 504                                  
+07/02/11 1273-4  Compra com Cartão         159.829                       11,90 D
+                 05/02 16:37 GIRAFFAS                                           
+07/02/11 1273-4  Compra com Cartão         258.736                       31,00 D
+                 06/02 16:18 DA CAMARAO                                         
+07/02/11 1273-4  Compra com Cartão         259.997                       17,10 D
+                 05/02 16:39 ESPOLETO                                           
+07/02/11 1273-4  Compra com Cartão         363.941                       11,88 D
+                 05/02 17:45 SUPERMERCADO 5 ES                                  
+07/02/11 1273-4  Compra com Cartão         645.700                       16,47 D
+                 07/02 12:41 PENINSULA RESTAUR                                  
+07/02/11 1273-4  Compra com Cartão         685.475                        7,40 D
+                 05/02 23:44 GIRAFFAS                                           
+07/02/11 1273-4  Compra com Cartão         745.769                       77,85 D
+                 06/02 12:42 AUTO POSTO ENTRE                                   
+07/02/11 1273-4  Compra com Cartão         763.733                       16,37 D
+                 07/02 17:42 CH PLANALTAO 153                                   
+07/02/11 1273-4  Compra com Cartão         858.641                       31,00 D
+                 06/02 16:17 DA CAMARAO                                         
+07/02/11 1273-4  Estorno de Débito         858.641                       31,00 C
+07/02/11 4811-9  Saque no TAA              71.043.368.936.761            80,00 D
+                 07/02 10:43 SOP-CORREIOS                                       
+07/02/11 1903-8  Cheque Compensado         850.696                       95,00 D
+08/02/11 1273-4  Compra com Cartão         146.023                       14,96 D
+                 08/02 12:47 PENINSULA RESTAUR                                  
+08/02/11 1273-4  Compra com Cartão         263.121                       24,75 D
+                 08/02 17:32 SUPERMERCADOS PRA                                  
+08/02/11 000000  Pagamento de Impostos     20.801                        59,40 D
+                 GPS - CODIGO DE BARRAS                                         
+08/02/11 000000  Pagamento de Título       20.802                        50,00 D
+                 CAIXA ECONOMICA FEDERAL                                        
+09/02/11 1273-4  Compra com Cartão         146.685                       20,38 D
+                 09/02 12:58 PENINSULA RESTAUR                                  
+09/02/11 1273-4  Compra com Cartão         273.549                       10,95 D
+                 09/02 20:25 TICIANA WERNER RE                                  
+10/02/11 0967-9  Depósito Online           9.671.086.800.444            133,00 C
+10/02/11 1273-4  Compra com Cartão         147.400                       18,62 D
+                 10/02 13:10 PENINSULA RESTAUR                                  
+11/02/11 000000  Pagamento de Título       21.101                         5,70 D
+                 CAIXA ECONOMICA FEDERAL                                        
+14/02/11 4811-9  Depósito Online           2.501.926.170                250,00 C
+14/02/11 1273-4  Compra com Cartão         144.283                       13,90 D
+                 12/02 12:18  DO QUEIJO                                         
+14/02/11 1273-4  Compra com Cartão         244.605                        6,50 D
+                 12/02 12:23  DO QUEIJO                                         
+14/02/11 1273-4  Compra com Cartão         344.963                       18,90 D
+                 12/02 12:29 JS MATERIAIS DE C                                  
+14/02/11 1273-4  Compra com Cartão         652.712                       50,00 D
+                 12/02 14:38 SMAFF COMBUSTIVEI                                  
+14/02/11 1273-4  Compra com Cartão         775.011                       21,56 D
+                 13/02 20:50 TALHER BRASIL                                      
+14/02/11 1302-1  Transferido para Poupança 10.009.585                   200,00 D
+                 14/02 1302   10009585-2 VALDIVA RODRIG                         
+14/02/11 000000  INSS Arrecadação          21.401                       102,00 D
+16/02/11 1273-4  Compra com Cartão         157.519                        4,50 D
+                 16/02 15:58 A ALIMENTOS                                        
+16/02/11 1273-4  Compra com Cartão         278.592                       13,00 D
+                 16/02 21:49 RIA 214 NORTE                                      
+16/02/11 1908-9  Cheque Compensado         850.677                      325,00 D
+17/02/11 1273-4  Compra-WEB                3.061.210                     48,00 D
+17/02/11 000000  S A L D O                 0                            247,74 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      1.547,74 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO PESSOAL TODO SEU*                                            30.443,00 C
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                7,96%
+TAXA CHEQUE ESPECIAL AO ANO                                              150,70%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Estilo                                                        7.249,66
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               30.443,00                
+                BB Crédito Salário                     15.549,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crd Veículo/Leasing                 18.069,00                
+                BB Crediário/Construção                11.712,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS JAN/11:     36                 
+                TAXA  CONTA  ESPECIAL:   8,15%  P/VOCE:    7,96%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     18                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                                                                                
+                COM O CREDITO TODO SEU BANCO DO BRASIL VOCE TEM                 
+                DINHEIRO NA HORA PARA PAGAR SEU IPTU E IPVA.                    
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

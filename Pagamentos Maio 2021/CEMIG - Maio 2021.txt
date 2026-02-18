@@ -1,0 +1,15 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+10/05/2021 -     AUTOATENDIMENTO      - 15.14.02
+1273401273         SEGUNDA VIA              0016
+            COMPROVANTE DE PAGAMENTO
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  CEMIG DISTRIBUICAO
+Codigo de Barras   83650000002-8   72140138000-2
+                   74385188211-3   08078730309-0
+Data do pagamento                     05/05/2021
+Valor Total                               272,14
+------------------------------------------------
+DOCUMENTO:  050501
+AUTENTICACAO SISBB:        7.1C5.81D.A5C.E42.2D4

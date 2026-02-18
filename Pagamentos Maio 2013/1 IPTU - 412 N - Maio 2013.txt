@@ -1,0 +1,17 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+03/05/2013 -     AUTOATENDIMENTO      - 11.12.18
+1273401273         SEGUNDA VIA              0019
+
+            COMPROVANTE DE PAGAMENTO
+
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4 CONTA:         5.742-8
+================================================
+Convenio  GDF CONTA ARRECADACAO
+Codigo de Barras   85780000000-5   59900009060-6
+                   51300001115-7   51320131252-9
+Data do pagamento                     03/05/2013
+Valor Total                                59,90
+------------------------------------------------
+DOCUMENTO:  050303
+AUTENTICACAO SISBB:        8.E1A.866.254.FE1.DA6

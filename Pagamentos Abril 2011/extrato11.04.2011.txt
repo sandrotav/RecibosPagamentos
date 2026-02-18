@@ -1,0 +1,148 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+11/04/2011                       Auto-Atendimento                       15:14:10
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/03/11 000000  Saldo Anterior            0                          5.277,53 C
+01/04/11 1273-4  Compra com Cartão         128.769                       18,34 D
+                 01/04 07:59 SUPERMERCADOS PRA                                  
+01/04/11 1273-4  Compra com Cartão         261.224                        5,75 D
+                 01/04 17:00 CIRANDINHA PREMIU                                  
+01/04/11 1273-4  Compra com Cartão         382.180                       45,76 D
+                 01/04 22:49 RODIZ PRIMO PIATO                                  
+01/04/11 1903-8  Cheque Compensado         850.695                      128,00 D
+04/04/11 1273-4  Compra com Cartão         135.363                       11,70 D
+                 02/04 09:49 CASA DE BISCOITOS                                  
+04/04/11 1273-4  Compra com Cartão         141.535                       14,90 D
+                 03/04 11:32 CHAO NATIVO                                        
+04/04/11 1273-4  Compra com Cartão         239.742                       17,80 D
+                 02/04 11:02 UNITINTAS                                          
+04/04/11 1273-4  Compra com Cartão         243.174                       14,29 D
+                 03/04 11:59 SUPERMAIA                                          
+04/04/11 1273-4  Compra com Cartão         341.518                       38,29 D
+                 02/04 11:31 ACOUGUE RIO                                        
+04/04/11 1273-4  Compra com Cartão         360.058                        4,74 D
+                 04/04 16:40 CIRANDINHA PREMIU                                  
+04/04/11 1273-4  Compra com Cartão         642.127                       50,00 D
+                 02/04 11:42 SMAFF AUTOMOVEIS                                   
+04/04/11 1273-4  Compra com Cartão         744.022                       32,76 D
+                 02/04 12:13 WALMART ASA NORTE                                  
+04/04/11 1273-4  Compra com Cartão         882.981                        7,90 D
+                 02/04 23:03 GIRAFFAS                                           
+05/04/11 1273-4  Compra com Cartão         162.842                        9,86 D
+                 05/04 17:27 DINHA PREMIUM                                      
+05/04/11 1273-4  Compra com Cartão         274.067                       32,99 D
+                 05/04 20:34 FARMACIA PAGUE ME                                  
+05/04/11 1273-4  Compra com Cartão         374.651                        8,77 D
+                 05/04 20:44 SUPERMERCADOS PRA                                  
+05/04/11 000000  Recarga Pré-Pago Celular  82.221.983.018.045            17,00 D
+                 6182221983-TIM - Distrito Federal                              
+05/04/11 000000  Pagto cartão crédito      730.127.300.026.761          433,54 D
+05/04/11 000000  Pagamento conta luz       40.501                        51,30 D
+                 CEB                                                            
+05/04/11 000000  Pagamento conta luz       40.502                        48,50 D
+                 CEB                                                            
+05/04/11 000000  Pagamento de Título       40.503                       200,00 D
+                 ITAU UNIBANCO S.A.                                             
+05/04/11 000000  Pagto conta telefone      40.504                       113,31 D
+                 TIM CELULAR S.A.                                               
+05/04/11 000000  Pagamento de Título       40.505                       184,34 D
+                 BANCO SANTANDER (BRASIL) S.A.                                  
+05/04/11 000000  Pagamento de Impostos     40.506                        59,95 D
+                 GPS - CODIGO DE BARRAS                                         
+05/04/11 000000  Pagto conta telefone      40.507                        55,26 D
+                 NET BRASILIA                                                   
+06/04/11 1273-4  Compra com Cartão         162.392                        3,70 D
+                 06/04 17:19 CIRANDINHA PREMIU                                  
+07/04/11 1273-4  Compra com Cartão         148.440                       80,00 D
+                 07/04 13:27 JUNIOR INFORMATIC                                  
+07/04/11 1273-4  Compra com Cartão         262.829                        8,00 D
+                 07/04 17:27 FERCON                                             
+07/04/11 000000  Pagamento de Título       40.701                        32,00 D
+                 CONCURSO CORREIOS 2011                                         
+08/04/11 1273-4  Compra com Cartão         178.022                       10,00 D
+                 08/04 21:40 MERCATTO DF                                        
+08/04/11 1273-4  Compra com Cartão         278.629                       13,90 D
+                 08/04 21:50 BRASIL VEXADO                                      
+08/04/11 1273-4  Compra com Cartão         378.737                        8,40 D
+                 08/04 21:52 GIRAFFAS                                           
+08/04/11 1903-8  Cheque Compensado         850.704                       95,00 D
+08/04/11 1903-8  Cheque Compensado         850.716                      100,00 D
+11/04/11 9008-5  Compra com Cartão         136.091                       50,00 D
+                 09/04 10:01 GASOL 210N                                         
+11/04/11 9008-5  Compra com Cartão         238.143                        7,60 D
+                 09/04 10:35 TRIGALE                                            
+11/04/11 9008-5  Compra com Cartão         350.414                       50,00 D
+                 09/04 14:00 BOM                                                
+11/04/11 9008-5  Compra com Cartão         651.183                        1,69 D
+                 09/04 14:13 CARREFOUR TERMINA                                  
+11/04/11 9008-5  Compra com Cartão         751.970                       18,10 D
+                 09/04 14:26 GIRAFFAS                                           
+11/04/11 9008-5  Compra com Cartão         856.106                       51,11 D
+                 09/04 15:35 CARREFOUR TERMINA                                  
+11/04/11 9008-5  Compra com Cartão         151.340                        7,88 D
+                 10/04 14:15 RESTAURANTE                                        
+11/04/11 1273-4  Pagamento de Impostos     41.101                       109,00 D
+                 GPS - CODIGO DE BARRAS                                         
+11/04/11 1273-4  Pagto via Auto-Atend.BB   41.102                       279,27 D
+                 DPVAT  SEGURADORA LIDER                                        
+11/04/11 1273-4  Pagamento de Impostos     41.103                        45,70 D
+                 DETRAN DF                                                      
+11/04/11 1273-4  Pagamento de Impostos     41.104                        98,19 D
+                 GDF CONTA ARRECADACAO                                          
+11/04/11 9008-5  Compra com Cartão         242.254                       13,00 D
+                 11/04 11:44 MYLLA CALCADOS                                     
+11/04/11 9008-5  Compra com Cartão         345.001                       22,90 D
+                 11/04 12:30 LA BAMBINA                                         
+11/04/11 000000  S A L D O                 0                          2.567,04 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE ESPECIAL                                                1.300,00 C
+SALDO DISPONIVEL                                                      3.867,04 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CREDITO PESSOAL TODO SEU*                                            32.670,00 C
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE ESPECIAL AO MÊS                                                8,08%
+TAXA CHEQUE ESPECIAL AO ANO                                              154,06%
+DT. VENC. CH. ESP.                                                    30/11/2011
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB Ref DI Plus Est                                                      7.351,77
+                                                                                
+                ================================================                
+                Linhas de Crédito              Crédito Todo Seu*                
+                ----------------- Crédito Novo -----------------                
+                BB Crd Consig em Folha**               32.670,00                
+                BB Crédito Salário                     14.862,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crd Veículo/Leasing                 18.069,00                
+                BB Crediário/Construção                13.391,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS MAR/11:     34                 
+                TAXA  CONTA  ESPECIAL:   8,27%  P/VOCE:    8,08%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     17                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                ------------------------------------------------                
+                                                                                
+                PECA O OUROCARD BONUS CELULAR. SUA ANUIDADE E                   
+                PARTE DOS SEUS GASTOS VIRAM BONUS NO SEU CELULAR                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Ouvidoria BB 0800 729 5678                                      
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   

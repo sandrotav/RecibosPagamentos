@@ -1,0 +1,15 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+10/02/2020  -   AUTO-ATENDIMENTO    -   09.43.40
+1273401273                                      
+                                                
+            COMPROVANTE DE AGENDAMENTO          
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4    CONTA:          5.742-8      
+================================================
+Convenio  DETRAN DF RENAINF                     
+Codigo de Barras   87730000001-6   31960661280-6
+                   22020905346-5   49720010000-4
+Data do pagamento                     10/02/2020
+Valor Total                               131,96
+Pagamento agendado.                             

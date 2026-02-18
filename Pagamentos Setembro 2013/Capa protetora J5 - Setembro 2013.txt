@@ -1,0 +1,24 @@
+http://www.classicarcapas.com.br/products/CAPA-FRONTAL-J-5-.html
+(62) 3229-1406 / 81463140
+
+23792.83803 93233.000004 04000.348708 1 57980000022400
+
+21/08/2013    -  BANCO  DO  BRASIL  -   13:54:14 
+127301273                                   0019 
+                                                 
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+BANCO BRADESCO S.A.                              
+------------------------------------------------ 
+23792838039323300000404000348708157980000022400  
+NR. DOCUMENTO                             82.101 
+DATA DO PAGAMENTO                     21/08/2013 
+VALOR DO DOCUMENTO                        224,00 
+VALOR COBRADO                             224,00 
+================================================ 
+                                                 
+NR.AUTENTICACAO            8.BEB.5FC.662.D70.370 
+Transação efetivada com sucesso!

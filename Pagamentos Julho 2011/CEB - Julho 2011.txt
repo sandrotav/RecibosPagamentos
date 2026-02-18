@@ -1,0 +1,19 @@
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+04/07/2011  -   AUTO-ATENDIMENTO    -   14.48.23 
+1273401273                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 1273-4    CONTA:          5.742-8       
+================================================ 
+Convenio  CEB                                    
+Codigo de Barras   83610000000-6   32430005286-1 
+                   41008187156-9   00818711106-0 
+Data do pagamento                     04/07/2011 
+Valor em Dinheiro                          32,43 
+Valor em Cheque                             0,00 
+Valor Total                                32,43 
+================================================ 
+DOCUMENTO:  070403                               
+AUTENTICACAO SISBB:        4.448.6AD.001.A11.914                            

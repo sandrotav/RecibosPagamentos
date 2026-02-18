@@ -1,0 +1,82 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+07/10/2007                       Auto-Atendimento                       21:55:04
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 3413-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data       Ag.Org  Histórico                 Documento                     Valor
+                                                                                
+27/09/2007 000000  Saldo Anterior            0                        4.080,35 C
+28/09/2007 3413-4  Compra com Cartão         172.141                     19,66 D
+                                      28/09 20:02 BIG BOX 
+01/10/2007 3413-4  Transferência on line     520.452.000.038.472         40,00 D
+02/10/2007 000000  CPMF                      0                            1,42 D
+03/10/2007 1903-8  Cheque Compensado         850.568                     56,00 D
+04/10/2007 3413-4  Compra com Cartão         159.317                     67,98 D
+                                  04/10 16:28 SUPER ADEGA 
+05/10/2007 000000  Recebimento de Proventos  1.440.301                4.508,15 C
+05/10/2007 3413-4  Compra com Cartão         164.413                     38,74 D
+                                  05/10 17:53 SUPER ADEGA 
+05/10/2007 1003-0  Saque no TAA              51.213.355.851.322         280,00 D
+                            05/10 12:13 SAA-ASA NORTE 504 
+05/10/2007 000000  Pagamento de Título       100.501                    250,00 D
+05/10/2007 000000  Pagamento de Título       100.502                     74,18 D
+05/10/2007 000000  Pagto conta telefone      100.503                    121,23 D celular
+05/10/2007 1981-X  Cheque Compensado         850.559                    547,00 D curso CobiT
+08/10/2007 9992-9  Compra com Cartão         110.391                     34,10 D roda do chope
+08/10/2007 9008-5  Compra com Cartão         210.136                     38,00 D sabatash
+                                     07/10 02:48 SABATASH 
+08/10/2007 9008-5  Compra com Cartão         346.468                      7,00 D carne de sol
+                            07/10 12:54 BAR RESTAURANTE E 
+08/10/2007 9008-5  Compra com Cartão         671.530                     59,13 D pão açucar
+                             07/10 19:52 PAO DE ACUCAR LJ 
+08/10/2007 000000  S A L D O                 0                        6.954,06 C
+--------------------------------------------------------------------------------
+LIMITE CH.ESPECIAL CLASSIC                                            1.500,00 C
+SALDO DISPONIVEL                                                      8.454,06 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+CPMF                                                                      6,09 -
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CH.ESPECIAL CLASSIC AO MÊS                                            7,52%
+TAXA CH.ESPECIAL CLASSIC AO ANO                                          138,71%
+DT. VENC. CH. ESP.                                                    31/10/2007
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor     Limite                
+                Financiamento BB            Utilizado Disponivel                
+                ----------------            --------- ----------                
+                                                                                
+                 CDC Salario                     0,00  13.719,00                
+                 CDC Emprestimo Eletronico       0,00  13.719,00                
+                 CDC Renovacao                   0,00  19.360,00                
+                 CDC Veiculo Proprio             0,00  17.407,00                
+                 BB Crediario/Construcao         0,00  20.000,00                
+                 BB Mat Construcao ate 36m       0,00  17.500,00                
+                 BB Crd Veiculo/Leasing          0,00  25.000,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parcelado Cartao         0,00  17.854,00                
+                 Limite Transf p/Cartao      1.778,00   9.499,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  27.153,00                
+                 BB Renovacao Consignacao*       0,00  27.153,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             160,02     854,98                
+                Prestacao para ECF               0,00   1.218,98                
+                Prestacao para Veiculo           0,00     854,98                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS SET/07:     12                 
+                TAXA  CONTA  ESPECIAL:   7,56%  P/VOCE:    7,52%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:      6                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                Fundos de investimento BB. Bons rendimentos com                 
+                o dobro de pontos no programa de relacionamento.                
+                ------------------------------------------------                
+                                                                                
+                ENCHA SUA CASA DE SORRISOS NO DIA DAS CRIANCAS.                 
+                O BB CREDIARIO FINANCIA EM ATE 48 MESES.                        
+                                                                                
+

@@ -1,0 +1,19 @@
+05/03/2012    -  BANCO  DO  BRASIL  -   10:46:05 
+127301273                                   0056 
+          OUVIDORIA BB  0800 729 5678            
+     COMPROVANTE DE PAGAMENTO DE TITULOS         
+                                                 
+CLIENTE:   SANDRO TAVARES                        
+AGENCIA: 1273-4          CONTA:          5.742-8 
+================================================ 
+ITAU UNIBANCO S.A.                               
+------------------------------------------------ 
+34191090081233532158940480840004652630000020000  
+NR. DOCUMENTO                             30.502 
+DATA DO PAGAMENTO                     05/03/2012 
+VALOR DO DOCUMENTO                        200,00 
+VALOR COBRADO                             200,00 
+================================================ 
+NR.AUTENTICACAO            8.6CD.49A.C02.C44.ECA 
+
+

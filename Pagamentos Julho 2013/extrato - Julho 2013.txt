@@ -1,0 +1,176 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+12/08/2013                       Auto-Atendimento                       10:39:35
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+28/06/13 000000  Saldo Anterior            0                          2.267,43 C
+01/07/13 1273-4  Compra com Cartão         167.857                       20,00 D
+                 29/06 18:50    CASCOL COMBUSTIVE                               
+01/07/13 1273-4  Compra com Cartão         262.291                       20,00 D
+                 01/07 17:18  CASCOL 210 N                                      
+01/07/13 000000  Pagamento conta luz       70.101                        44,33 D
+                 CEB                                                            
+01/07/13 000000  Pagto conta telefone      70.102                       109,90 D
+                 TIM CELULAR S.A.                                               
+01/07/13 000000  Pagamento de Título       70.103                       250,00 D
+                 ITAU UNIBANCO S.A.                                             
+01/07/13 000000  Desbloqueio de depósito   1.990.842.930              1.190,00 C
+02/07/13 1273-4  Compra com Cartão         165.045                      140,60 D
+                 02/07 18:04 DAO  061  AS                                       
+03/07/13 1273-4  Compra com Cartão         146.115                       10,60 D
+                 03/07 12:48 R ALIMENTOS                                        
+03/07/13 4597-7  Transferência on line     223.477.000.000.500           30,00 D
+                 03/07 3477        500-2 RENATA RABELO                          
+03/07/13 4597-7  Transferido para Poupança 223.593.510.015.068          150,00 D
+                 03/07 3593  510015068-4 TATIANE SILVA                          
+04/07/13 000000  Pagamento de Título       70.401                        34,90 D
+                 BANCO BRADESCO S.A.                                            
+05/07/13 1273-4  Compra com Cartão         135.917                       30,00 D
+                 05/07 09:58  CASCOL 210 N                                      
+05/07/13 1273-4  Compra com Cartão         249.127                        8,42 D
+                 05/07 13:38    MASTER SERVICOS P                               
+05/07/13 1273-4  Compra com Cartão         378.187                       32,34 D
+                 05/07 21:43 RIA ROSARIO                                        
+05/07/13 1273-4  Transferido para Poupança 523.593.510.015.068          100,00 D
+                 05/07 3593  510015068-4 TATIANE SILVA                          
+05/07/13 000000  Pagto conta telefone      70.501                        70,86 D
+                 NET BRASILIA                                                   
+05/07/13 000000  Pagamento de Impostos     70.502                        59,90 D
+                 GDF CONTA ARRECADACAO                                          
+05/07/13 000000  Pagamento de Impostos     70.503                       127,69 D
+                 DER CONTA ARRECADACAO                                          
+05/07/13 000000  Pagto cartão crédito      52.986.461                   685,17 D
+08/07/13 4811-9  Transferido da poupança   1.606.510.059.092            336,00 C
+                 08/07 1606      59092-4 JOAO FRANCISCO                         
+08/07/13 1273-4  Compra com Cartão         169.417                      111,68 D
+                 06/07 19:16 FOUR BAN 363                                       
+08/07/13 1273-4  Compra com Cartão         241.771                       95,07 D
+                 07/07 11:36 RIA ROSARIO                                        
+08/07/13 1273-4  Compra com Cartão         356.172                       21,98 D
+                 07/07 15:36    PAO DE ACUCAR 121                               
+08/07/13 1273-4  Compra com Cartão         656.041                        2,50 D
+                 08/07 15:34    AGENCIA CENTRAL                                 
+08/07/13 4811-9  Saque com cartão          80.940.278.643.696           350,00 D
+                 08/07 09:40 SOP-CORREIOS                                       
+08/07/13 000000  Telefone Pre-Pago         82.221.983.507.490            18,00 D
+                 61082221983-TIM - Distrito Federal                             
+08/07/13 1273-4  Aplicação Poupança        521.273.960.005.742          200,00 D
+                 08/07 1273  960005742-2 SANDRO TAVARES                         
+08/07/13 000000  Pagamento de Impostos     70.801                        74,58 D
+                 GPS - CODIGO DE BARRAS                                         
+08/07/13 000000  Pagamento de Impostos     70.802                       135,60 D
+                 GPS - CODIGO DE BARRAS                                         
+09/07/13 1273-4  Transferido da poupança   1.273.960.005.742          7.000,00 C
+                 09/07 1273       5742-8 SANDRO TAVARES                         
+09/07/13 7801-8  Depósito Online           78.011.644.200.083           600,00 C
+09/07/13 1273-4  Compra com Cartão         146.769                       17,06 D
+                 09/07 12:59    ANSELMO  RESTAURA                               
+09/07/13 1273-4  Compra com Cartão         263.524                       16,18 D
+                 09/07 17:38 OX 408 409 NORTE                                   
+09/07/13 4811-9  Saque com cartão          481.109                    7.000,00 D
+                 09/07 11:44 PSO DF I            DF                             
+10/07/13 1273-4  Compra com Cartão         132.623                        4,75 D
+                 10/07 09:03 R ALIMENTOS                                        
+10/07/13 000000  Pagam Presta Créd Imobili 127.300.339.000.435          731,64 D
+11/07/13 1273-4  Compra com Cartão         161.475                       23,40 D
+                 11/07 17:04    PAO DOURADO                                     
+12/07/13 1273-4  Compra com Cartão         128.931                       20,00 D
+                 12/07 08:02  CASCOL 210 N                                      
+12/07/13 1273-4  Compra com Cartão         258.796                        4,26 D
+                 12/07 16:19    MASTER SERVICOS P                               
+12/07/13 4811-9  Saque com cartão          121.032.488.643.696          120,00 D
+                 12/07 10:32 SOP-CORREIOS                                       
+15/07/13 0967-9  Transferência on line     220.967.000.016.407          300,00 C
+                 15/07 0967      16407-0 MARIA INES SIL                         
+15/07/13 1273-4  Compra com Cartão         148.644                       12,39 D
+                 13/07 13:30    PENINSULA RESTAUR                               
+15/07/13 1273-4  Compra com Cartão         269.641                       20,00 D
+                 13/07 19:20  CASCOL 210 N                                      
+15/07/13 1273-4  Compra com Cartão         348.260                       30,00 D
+                 15/07 13:24  CASCOL 210 N                                      
+16/07/13 1273-4  Compra com Cartão         148.050                        8,76 D
+                 16/07 13:20    MASTER SERVICOS P                               
+17/07/13 1273-4  Compra com Cartão         141.967                        9,20 D
+                 17/07 11:39 URANTE SABOREAR                                    
+18/07/13 1273-4  Compra com Cartão         130.009                       20,00 D
+                 18/07 08:20  CASCOL 210 N                                      
+18/07/13 1273-4  Compra com Cartão         250.461                       11,64 D
+                 18/07 14:01 R ALIMENTOS                                        
+18/07/13 1981-X  Cheque Compensado         850.754                       33,75 D
+19/07/13 1273-4  Compra com Cartão         158.995                       34,00 D
+                 19/07 16:23  DO QUEIJO                                         
+19/07/13 1273-4  Compra com Cartão         272.432                       50,00 D
+                 19/07 20:07    CASCOL COMBUSTIVE                               
+19/07/13 000000  Telefone Pre-Pago         82.221.983.008.989            18,00 D
+                 61082221983-TIM - Distrito Federal                             
+19/07/13 4811-9  Saque no TAA              191.338.578.643.696          100,00 D
+                 19/07 13:38 SOP-CORREIOS                                       
+22/07/13 1273-4  Compra com Cartão         145.532                       31,40 D
+                 20/07 12:38    PONTO DO QUEIJO                                 
+22/07/13 1273-4  Compra com Cartão         279.048                       32,49 D
+                 21/07 21:57 RIA ROSARIO FL 18                                  
+22/07/13 1273-4  Compra com Cartão         348.527                       50,00 D
+                 22/07 13:28  CASCOL 210 N                                      
+23/07/13 1273-4  Compra com Cartão         170.968                       55,70 D
+                 23/07 19:42    LOJAS RENNER FL 1                               
+24/07/13 1273-4  Compra com Cartão         142.460                       10,76 D
+                 24/07 11:47 ACY                                                
+25/07/13 1273-4  Compra com Cartão         146.660                       10,45 D
+                 25/07 12:57 R ALIMENTOS                                        
+26/07/13 0967-9  Depósito Online           2.021.360.785                200,00 C
+26/07/13 1273-4  Compra com Cartão         134.654                        4,16 D
+                 26/07 09:37 R ALIMENTOS                                        
+26/07/13 1273-4  Compra com Cartão         237.068                       15,90 D
+                 26/07 10:17    BELLA MAIS FESTAS                               
+26/07/13 1273-4  Compra com Cartão         338.514                       21,95 D
+                 26/07 10:41    MANA LEITE E MEL                                
+26/07/13 1273-4  Compra com Cartão         657.915                        4,50 D
+                 26/07 16:05  GLACE CONF LT                                     
+29/07/13 4800-3  Depósito bloquead.1d útil 1.381.884.343                935,67 *
+29/07/13 1273-4  Compra com Cartão         134.235                       50,00 D
+                 27/07 09:30    CASCOL COMBUSTIVE                               
+29/07/13 1273-4  Compra com Cartão         230.116                       50,00 D
+                 29/07 08:21  CASCOL 210 N                                      
+29/07/13 4811-9  Saque no TAA              281.950.048.643.696          250,00 D
+                 28/07 19:50 SOP-CONJ. NACIONAL                                 
+30/07/13 1273-4  Compra com Cartão         170.291                       25,97 D
+                 30/07 19:31    LOJAS AMERICANAS                                
+30/07/13 000000  Desbloqueio de depósito   1.381.884.343                935,67 C
+31/07/13 4811-9  Transferência on line     223.593.000.366.616          700,00 C
+                 31/07 3593     366616-6 LEONARDO M BAS                         
+31/07/13 000000  Recebimento de Proventos  377.880                    4.445,76 C
+                 EMPRESA BRASILEIRA DE CORREIOS E TELEG                         
+31/07/13 1273-4  Compra com Cartão         183.783                       93,20 D
+                 31/07 23:16 RIA ROSARIO                                        
+31/07/13 000000  Telefone Pre-Pago         82.221.983.010.738            18,00 D
+                 61082221983-TIM - Distrito Federal                             
+31/07/13 4811-9  Saque no TAA              310.856.528.643.696          200,00 D
+                 31/07 08:56 SOP-CORREIOS                                       
+31/07/13 4811-9  Saque no TAA              311.109.528.643.696          700,00 D
+                 31/07 11:09 SOP-CORREIOS                                       
+31/07/13 000000  Pagto via Auto-Atend.BB   73.101                        54,91 D
+                 DPVAT  SEGURADORA LIDER                                        
+31/07/13 000000  S A L D O                 0                          5.076,32 C
+--------------------------------------------------------------------------------
+Limite Cheque Especial                                                1.300,00 C
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                4,09%
+Taxa Cheque Especial AO ANO                                               61,77%
+DT. VENC. CH. ESP.                                                    29/11/2013
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                O SEU CARTAO JA ESTA' DISPONIVEL EM SUA AGENCIA.                
+                                                                                
+                Aberto o Programa Banco do Brasil de Patrocínios                
+                2014. Conheça o edital e inscreva seu projeto.                  
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

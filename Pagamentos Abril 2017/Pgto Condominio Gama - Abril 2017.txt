@@ -1,0 +1,15 @@
+07/04/2017    -  BANCO  DO  BRASIL  -   09:52:36
+127301273                                   0009
+     COMPROVANTE DE PAGAMENTO DE TITULOS
+CLIENTE: SANDRO TAVARES
+AGENCIA: 1273-4          CONTA:          5.742-8
+================================================
+CAIXA ECONOMICA FEDERAL
+------------------------------------------------
+10490298286390020004700003930591771220000036500
+NR. DOCUMENTO                             40.702
+DATA DO PAGAMENTO                     07/04/2017
+VALOR DO DOCUMENTO                        365,00
+VALOR COBRADO                             365,00
+================================================
+NR.AUTENTICACAO            8.1AC.D10.A2A.2B6.63F

@@ -1,0 +1,91 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+07/02/2014                       Auto-Atendimento                       08:38:27
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 1273-4       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+31/01/14 000000  Saldo Anterior            0                          4.417,53 C
+03/02/14 1273-4  Compra com Cartão         169.229                       30,00 D
+                 01/02 19:13    MAIS BARATO GASOL                               
+03/02/14 000000  Pagamento de Título       20.301                       300,00 D
+                 BANCO SANTANDER (BRASIL) S.A.                                  
+03/02/14 000000  Pagamento conta luz       20.302                        55,25 D
+                 CEB                                                            
+03/02/14 000000  Pagamento de Título       20.303                       410,00 D
+                 ITAU UNIBANCO S.A.                                             
+04/02/14 1273-4  Compra com Cartão         141.856                       14,72 D
+                 04/02 11:37    DROGARIA ROSARIO                                
+05/02/14 1273-4  Depósito bloquead.1d útil 12.731.087.900.213        66.655,07 *
+05/02/14 1273-4  Transferido para Poupança 523.593.510.015.068          200,00 D
+                 05/02 3593  510015068-4 TATIANE SILVA                          
+05/02/14 000000  Pagto conta telefone      20.501                        70,80 D
+                 NET SERVICOS                                                   
+05/02/14 000000  Pagto cartão crédito      52.986.461                   508,12 D
+06/02/14 1273-4  Compra com Cartão         169.753                        9,60 D
+                 06/02 19:22    PONTO DO QUEIJO                                 
+06/02/14 1273-4  Compra com Cartão         277.508                       13,90 D
+                 06/02 21:31    SUBWAY                                          
+06/02/14 1273-4  Transferido para Poupança 523.593.510.015.068          100,00 D
+                 06/02 3593  510015068-4 TATIANE SILVA                          
+06/02/14 000000  Desbloqueio de depósito   12.731.087.900.213        66.655,07 C
+07/02/14 9008-5  Compra com Cartão         128.964                      100,00 D
+                 07/02 08:02  CASCOL 210 N                                      
+07/02/14 000000  S A L D O                 0                         69.260,21 C
+--------------------------------------------------------------------------------
+Limite Cheque Especial                                                1.300,00 C
+Saldo Disponivel                                                     70.560,21 C
+Juros                                                                       0,00
+Data de Debito de Juros                                             5./03./20,14
+IOF                                                                         0,00
+Data de Debito de IOF                                               5./03./20,14
+CREDITO BOMPRATODOS*                                                 64.962,00 C
+Dias de Uso Ch. Especial                                                    0,00
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                5,82%
+Taxa Cheque Especial AO ANO                                               97,16%
+DT. VENC. CH. ESP.                                                    28/11/2014
+--------------------------------------------------------------------------------
+Informações Complementares - CET (*)                      R$                   %
+ Valor total devido                                 1.306,53                   -
+ Valor liberado                                     1.300,00               99,50
+Despesas Vinculadas                                                             
+ - Tributos IOF                                         6,53                0,50
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB CP Estilo                                                            1.350,78
+T O T A L                                                               1.350,78
+                                                                                
+                ================================================                
+                Linhas de Crédito           Crédito BOMPRATODOS*                
+                ----------------- Crédito Novo -----------------                
+                BB Crédito Salário                     64.962,00                
+                BB Crd Consig em Folha**               59.375,00                
+                                                                                
+                -------- Financiamentos de Bens/Serviços -------                
+                BB Crd Veículo/Leasing                 56.764,00                
+                BB Crediário/Construção                50.000,00                
+                                                                                
+                *VALORES DE REFERÊNCIA. Sujeitos  a  confirmação                
+                no momento da contratação.                                      
+                **Disponível após confirmação da margem.                        
+                ------------------------------------------------                
+                Taxa Máxima Conta Especial: 7,64% P/você: 5,82%*                
+                                                                                
+                Você que optou pelo pacote de serviços                          
+                BOMPRATODOS com benefícios exclusivos,                          
+                pode parcelar o valor utilizado do cheque                       
+                especial com condições especiais. Para saber                    
+                mais, acesse www.bompratodos.com.br.                            
+                ------------------------------------------------                
+                                                                                
+                                                                                
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+

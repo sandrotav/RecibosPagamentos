@@ -1,0 +1,31 @@
+
+
+codigo de barras:
+866200000002 162109248607 800092264905 301021119070
+
+
+SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL
+15/03/2019  -   AUTO-ATENDIMENTO    -   12.11.59
+1273401273                                      
+                                                
+            COMPROVANTE DE AGENDAMENTO          
+                                                
+CLIENTE: SANDRO TAVARES                         
+AGENCIA: 1273-4    CONTA:          5.742-8      
+================================================
+Convenio  DPVAT  SEGURADORA LIDER               
+Codigo de Barras   86620000000-2   16210924860-7
+                   80009226490-5   30102111907-0
+Data do pagamento                     15/03/2019
+Valor em Dinheiro                          16,21
+Valor em Cheque                             0,00
+Valor Total                                16,21
+Pagamento agendado.                             
+Atenção: Esta transação está sujeita a avaliação
+de segurança e será processada após análise.    
+O comprovante definitivo somente sera emitido   
+apos a quitacao.                                
+================================================
+Com Ourocard voce parcela em ate 18x nas lojas  
+iPlace. Promocao valida ate 31/03/2019.         
+Saiba mais em  beneficiosourocard.com.br.       

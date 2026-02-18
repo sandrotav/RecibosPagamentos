@@ -1,0 +1,139 @@
+                 SISBB - Sistema de Informações Banco do Brasil                 
+29/12/2008                       Auto-Atendimento                       09:38:27
+                            Extrato de conta corrente                           
+                                                                                
+Agência: 3593-9       Conta: 5742-8
+Cliente: SANDRO TAVARES
+================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor
+                                                                                
+28/11/08 000000  Saldo Anterior            0                          3.669,35 C
+01/12/08 000000  Recebimento de Proventos  1.311.611                  1.076,60 C
+                 EMPRESA BRASILEIRA DE CORREIOS                                 
+01/12/08 000000  TED-Crédito em Conta      3.327.028                 22.000,00 C
+                 237 1862     8920389691 EVANDRO TAVARE                         
+01/12/08 3593-9  Compra com Cartão         147.057                        9,50 D
+                 01/12 13:04 SPORT CENTER                                       
+01/12/08 1903-8  Cheque Compensado         850.632                      850,00 D
+02/12/08 000000  Pagto cartão crédito      930.359.300.184.075          480,46 D
+02/12/08 000000  Emissão de DOC            120.201                      200,00 D
+02/12/08 000000  Pagamento conta luz       120.202                       13,81 D
+02/12/08 000000  Pagto conta telefone      120.203                      105,87 D
+02/12/08 000000  Pagto conta telefone      120.204                      107,01 D
+02/12/08 000000  Pagto conta telefone      120.205                      126,49 D
+02/12/08 000000  Pagamento de Título       120.206                      250,00 D
+02/12/08 000000  Pagamento de Título       120.207                      175,56 D
+02/12/08 000000  Pagamento de Título       120.208                      432,17 D
+02/12/08 000000  Tarifa DOC/TED Internet   81.202                         8,00 D
+                 Tarifa referente a 02/12/2008                                  
+03/12/08 3593-9  Compra com Cartão         147.424                       10,35 D
+                 03/12 13:10 RESTAURANTE FORNA                                  
+03/12/08 000000  Pagamento BB Crediário    103.381.000.150.292        3.549,73 D
+04/12/08 3593-9  Saque no Caixa            359.300                    5.000,00 D
+                 04/12 11:44 CORREIOS                                           
+05/12/08 3593-9  Compra com Cartão         143.950                        7,27 D
+                 05/12 12:12 MASTER SERVICOS P                                  
+05/12/08 3593-9  Compra com Cartão         247.354                       35,00 D
+                 05/12 13:09 BORDANDO COM ARTE                                  
+08/12/08 3593-9  Compra com Cartão         130.967                        9,01 D
+                 06/12 08:36 BIG BOX                                            
+08/12/08 3593-9  Compra com Cartão         248.381                        9,00 D
+                 07/12 13:26 BAR RESTAURANTE E                                  
+08/12/08 3593-9  Compra com Cartão         372.330                       15,90 D
+                 07/12 20:05 PANIF PAO DOURADO                                  
+08/12/08 3593-9  Compra com Cartão         672.155                        6,37 D
+                 08/12 20:02 CASA DE BISCOITOS                                  
+08/12/08 000000  Recarga Pré-Pago Celular  96.170.622.500.586            27,00 D
+                 6196170622-Vivo AC,DF,GO,MS,MT,RO,TO                           
+09/12/08 3593-9  Compra com Cartão         144.622                        6,54 D
+                 09/12 12:23 MASTER SERVICOS P                                  
+09/12/08 3593-9  Compra com Cartão         263.194                       12,10 D
+                 09/12 17:33 CASA DE BISCOITOS                                  
+10/12/08 3593-9  Compra com Cartão         144.507                        6,85 D
+                 10/12 12:21 MASTER SERVICOS P                                  
+11/12/08 3593-9  Compra com Cartão         144.689                        5,39 D
+                 11/12 12:24 MASTER SERVICOS P                                  
+11/12/08 3593-9  Saque no TAA              111.244.194.864.075          400,00 D
+                 11/12 12:44 SAA-CORREIOS                                       
+11/12/08 000000  Pagamento de Título       121.101                       50,00 D
+15/12/08 000000  Recarga Pré-Pago Celular  96.170.622.001.887            27,00 D
+                 6196170622-Vivo AC,DF,GO,MS,MT,RO,TO                           
+16/12/08 1903-8  Cheque Compensado         850.630                      580,00 D
+18/12/08 3593-9  Compra com Cartão         127.383                       10,00 D
+                 18/12 07:36 VERDE AMARELO POS                                  
+18/12/08 000000  Recarga Pré-Pago Celular  96.170.622.506.077            27,00 D
+                 6196170622-Vivo AC,DF,GO,MS,MT,RO,TO                           
+22/12/08 000000  Recebimento de Proventos  1.045.211                  3.120,20 C
+                 EMPRESA BRASILEIRA DE CORREIOS                                 
+22/12/08 0967-9  Saque no TAA              221.829.394.864.075          300,00 D
+                 22/12 18:29 SAA-PITANGUI                                       
+23/12/08 3593-9  Compra com Cartão         140.792                        4,00 D
+                 23/12 11:19 PANIFICADORA SANT                                  
+26/12/08 000000  Tarifa SMS - Mês Anterior 81.103                         2,50 D
+                 Tarifa referente a 03/11/2008                                  
+29/12/08 000000  S A L D O                 0                         17.006,27 C
+--------------------------------------------------------------------------------
+LIMITE CHEQUE OURO                                                    1.800,00 C
+SALDO DISPONIVEL                                                     18.806,27 C
+JUROS                                                                       0,00
+IOF                                                                         0,00
+SALDO CONTA INVESTIMENTO                                                  0,00 C
+--------------------------------------------------------------------------------
+TAXA CHEQUE OURO AO MÊS                                                    8,15%
+TAXA CHEQUE OURO AO ANO                                                  156,05%
+DT. VENC. CH. ESP.                                                    30/11/2009
+                                                                                
+================================================================================
+                        Saldo de Fundos de Investimentos                        
+                                                                                
+BB R.Fixa Bonus Mil                                                       837,88
+                                                                                
+                ================================================                
+                Emprestimo/                     Valor  *Valor de                
+                Financiamento BB            Utilizado Referencia                
+                ----------------            --------- ----------                
+                                                                                
+                 BB Credito Salario              0,00  23.032,00                
+                 BB Credito Automatico           0,00   9.314,00                
+                 CDC Renovacao                   0,00  23.032,00                
+                 CDC Veiculo Proprio             0,00  17.407,00                
+                 BB Crediario/Construcao         0,00  17.362,00                
+                 BB Crd Veiculo/Leasing          0,00  24.727,00                
+                 BB Crd PC Conectado             0,00   1.200,00                
+                 BB Crd Parc Cartao/Ch.Esp       0,00  14.224,00                
+                 Limite Transf p/Cartao      1.778,00   9.499,00                
+                                                                                
+                 BB Crd Consig em Folha *        0,00  70.000,00                
+                 BB Renovacao Consignacao*       0,00  70.000,00                
+                    * Disponivel apos confirmacao da margem                     
+                                                                                
+                Prestacao para CDC             160,02     854,98                
+                Prestacao para ECF               0,00   7.248,98                
+                Prestacao para Veiculo           0,00     854,98                
+                                                                                
+                * Valores sujeitos a confirmacao na data da con-                
+                tratacao  por  meio  dos   Terminais  de   Auto-                
+                Atendimento ou Internet.                                        
+                ** Utilizacao do limite sujeita ao enquadramento                
+                nas disposicoes de microcredito.                                
+                ------------------------------------------------                
+                PROG. DE RELACIONAMENTO - PONTOS NOV/08:     24                 
+                TAXA  CONTA  ESPECIAL:   8,51%  P/VOCE:    8,15%                
+                PONTOS TRANSFERIDOS PARA CARTAO CREDITO:     12                 
+                CONSULTE  SEU EXTRATO  DETALHADO  DO  PROGRAMA.                 
+                Fundos de investimento BB. Bons rendimentos com                 
+                o dobro de pontos no programa de relacionamento.                
+                ------------------------------------------------                
+                OBSERVACOES:                                                    
+                ------------------------------------------------                
+                                                                                
+                EM 2009 PODE DESEJAR. BANCO DO BRASIL.                          
+                PRONTO PARA FAZER UM ANO NOVO TODO SEU.                         
+                                                                                
+                Servico de Atendimento ao Consumidor - SAC                      
+                0800 729 0722                                                   
+                Central de Atendimento BB                                       
+                4004 0001 / 0800 729 0001                                       
+                Para deficientes auditivos                                      
+                0800 729 0088                                                   
+                Ouvidoria BB 0800 729 5678                                      

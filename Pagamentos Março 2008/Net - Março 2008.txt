@@ -1,0 +1,20 @@
+Pagamento de contas de consumo - Água/Luz/Telefone/Gás  
+         SISBB  -  SISTEMA DE INFORMACOES BANCO DO BRASIL 
+05/03/2008  -   AUTO-ATENDIMENTO    -   15.35.37 
+3413403413                                       
+                                                 
+            COMPROVANTE DE PAGAMENTO             
+                                                 
+CLIENTE: SANDRO TAVARES                          
+AGENCIA: 3413-4    CONTA:          5.742-8       
+================================================ 
+Convenio  NET BRASILIA                           
+Codigo de Barras   84630000000-3   10240257200-6 
+                   80310040000-8   00050556639-8 
+Data do pagamento                     05/03/2008 
+Valor Total                                10,24 
+================================================ 
+DOCUMENTO:  030505                               
+AUTENTICACAO SISBB:                              
+6.E37.D72.6E9.EE2.E7C                            
+         
